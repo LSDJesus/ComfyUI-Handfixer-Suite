@@ -1,8 +1,4 @@
-mediapipe
-diffusers
-torchvision
-opencv-python
-streamlit
-gradio
-tqdm
-transformers
+# This installs mediapipe but prevents it from downgrading numpy.
+# The user is responsible for ensuring a compatible numpy is installed.
+# See the Troubleshooting section in README.md for details.
+mediapipe --no-deps

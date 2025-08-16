@@ -1,119 +1,170 @@
+# utils.py
+
 import warnings
-import os
-import json
 import numpy as np
 import cv2
-from tqdm import tqdm
 import mediapipe as mp
 from PIL import Image
-from mediapipe.tasks import python
-from mediapipe.tasks.python import vision
-from mediapipe.framework.formats import landmark_pb2
-from concurrent.futures import ThreadPoolExecutor, as_completed
-import torch
-import requests
-from PIL import Image
-from transformers import BlipProcessor, BlipForConditionalGeneration
 
 warnings.filterwarnings("ignore")
 
+# Define the landmark indices for specific body parts from MediaPipe's documentation
+POSE_LANDMARKS_FEET = [27, 28, 29, 30, 31, 32]
+FACE_MESH_LANDMARKS_EYES = [
+    33, 7, 163, 144, 145, 153, 154, 155, 133, 173, 157, 158, 159, 160, 161, 246,
+    362, 382, 381, 380, 374, 373, 390, 249, 263, 466, 388, 387, 386, 385, 384, 398
+]
+# Landmarks for inner and outer lips
+FACE_MESH_LANDMARKS_MOUTH = [
+    61, 146, 91, 181, 84, 17, 314, 405, 321, 375, 291,
+    78, 95, 88, 178, 87, 14, 317, 402, 318, 324, 308
+]
 
 class MediapipeEngine:
-    def __init__(self, model_asset_path='assets/gesture_recognizer.task'):
-        self.mp_hands = mp.solutions.hands
-        self.hands = self.mp_hands.Hands(static_image_mode=True, max_num_hands=10, min_detection_confidence=0.5)
-        self.mp_drawing = mp.solutions.drawing_utils
+    """A class to handle all MediaPipe model loading and processing."""
+    def __init__(self):
+        self.models = {}
 
-    def __call__(self, image):
-        image = np.array(image)
-        # image = self.resize_image(image)
+    def _get_model(self, model_type, confidence):
+        model_key = f"{model_type}_{confidence}"
+        if model_type == 'selfie':
+            model_key = "selfie_segmentation"
 
-        annotations = self.detect(image.copy())
-        mask = self.prepare_mask(image, annotations)
-        return Image.fromarray(image), Image.fromarray(mask)
+        if model_key not in self.models:
+            if model_type == 'hands':
+                self.models[model_key] = mp.solutions.hands.Hands(static_image_mode=True, max_num_hands=10, min_detection_confidence=confidence)
+            elif model_type == 'pose':
+                self.models[model_key] = mp.solutions.pose.Pose(static_image_mode=True, min_detection_confidence=confidence)
+            elif model_type == 'face_mesh':
+                self.models[model_key] = mp.solutions.face_mesh.FaceMesh(static_image_mode=True, max_num_faces=10, min_detection_confidence=confidence)
+            elif model_type == 'holistic':
+                self.models[model_key] = mp.solutions.holistic.Holistic(static_image_mode=True, min_detection_confidence=confidence)
+            elif model_type == 'selfie':
+                self.models[model_key] = mp.solutions.selfie_segmentation.SelfieSegmentation(model_selection=0)
+        return self.models[model_key]
 
-    def detect(self, image):
-        if isinstance(image, Image.Image):
-            image = np.array(image)
+    def _get_detections(self, image, model_type, confidence):
+        """Runs detection and returns a list of detected instances, each with its landmarks and confidence."""
+        model = self._get_model(model_type, confidence)
+        results = model.process(image)
+        detections = []
 
-        # 进行手部检测
-        results = self.hands.process(image)
-        annotations = []
-        if results.multi_hand_landmarks:
-            for hand_landmarks in results.multi_hand_landmarks:
-            #     self.mp_drawing.draw_landmarks(
-            #         image, hand_landmarks, self.mp_hands.HAND_CONNECTIONS)
-                # 获取所有关键点的坐标
-                coords = np.array([(lm.x, lm.y, lm.z) for lm in hand_landmarks.landmark])
-    
-                # 计算边界框
-                x_min, y_min, _ = np.min(coords, axis=0)
-                x_max, y_max, _ = np.max(coords, axis=0)
-    
-                # 转换为图像坐标
+        if model_type == 'hands' and results.multi_hand_landmarks:
+            for i, hand_landmarks in enumerate(results.multi_hand_landmarks):
+                score = results.multi_handedness[i].score
+                detections.append({'landmarks': hand_landmarks.landmark, 'confidence': score})
+        
+        elif model_type == 'face_mesh' and results.multi_face_landmarks:
+            # FaceMesh doesn't provide a direct confidence score, so we'll use a placeholder
+            for face_landmarks in results.multi_face_landmarks:
+                detections.append({'landmarks': face_landmarks.landmark, 'confidence': 1.0})
+        
+        # Add other model detections here as needed for sorting (e.g., pose has no multi-instance)
+        # For simplicity, we'll focus on hands and faces for filtering, as they are most common.
+        
+        return detections
+
+    def _create_mask_from_landmarks(self, image_shape, landmarks, padding, blur):
+        """Creates a single dilated and blurred convex hull mask from a set of landmarks."""
+        if not landmarks:
+            return None
+
+        H, W, _ = image_shape
+        points = np.array([(lm.x * W, lm.y * H) for lm in landmarks if lm.x is not None], dtype=np.int32)
+
+        if len(points) < 3:
+            return None
+
+        hull = cv2.convexHull(points)
+        instance_mask = np.zeros((H, W), dtype=np.uint8)
+        cv2.drawContours(instance_mask, [hull], -1, 255, -1)
+        
+        if padding > 0:
+            kernel = np.ones((padding, padding), np.uint8)
+            instance_mask = cv2.dilate(instance_mask, kernel, iterations=1)
+        
+        if blur > 0:
+            # Blur kernel size must be odd
+            blur_kernel_size = blur * 2 + 1
+            instance_mask = cv2.GaussianBlur(instance_mask, (blur_kernel_size, blur_kernel_size), 0)
+        
+        return instance_mask
+
+    def process_and_create_mask(self, image, options):
+        """The main function to process an image and generate the final combined mask based on user options."""
+        final_mask = np.zeros(image.shape[:2], dtype=np.uint8)
+        rgb_image = image
+        model_type = options.get('model_type')
+
+        # Selfie segmentation is a special case (pixel-based, no landmarks)
+        if model_type == 'selfie':
+            model = self._get_model('selfie', options.get('confidence'))
+            results = model.process(rgb_image)
+            condition = results.segmentation_mask > 0.5
+            segmentation_mask = np.where(condition, 255, 0).astype(np.uint8)
+            return np.maximum(final_mask, segmentation_mask)
+
+        # --- Landmark-based processing ---
+        
+        # 1. Detect all instances and collect their data
+        detected_instances = []
+        if model_type in ['hands', 'face_mesh', 'pose', 'holistic', 'feet', 'eyes', 'mouth']:
+            # This is a simplified example. A full implementation would handle each model type.
+            # For now, let's focus on the 'hands' and 'face_mesh' logic which supports filtering.
+            
+            raw_detections = []
+            if model_type == 'hands':
+                raw_detections = self._get_detections(rgb_image, 'hands', options.get('confidence'))
+            elif model_type in ['face_mesh', 'eyes', 'mouth']:
+                raw_detections = self._get_detections(rgb_image, 'face_mesh', options.get('confidence'))
+            
+            # Extract specific landmarks if needed (e.g., for eyes/mouth)
+            for det in raw_detections:
+                landmarks = det['landmarks']
+                if model_type == 'eyes':
+                    landmarks = [landmarks[i] for i in FACE_MESH_LANDMARKS_EYES]
+                elif model_type == 'mouth':
+                    landmarks = [landmarks[i] for i in FACE_MESH_LANDMARKS_MOUTH]
+                
+                # Calculate properties for sorting
                 H, W, _ = image.shape
-                x_min, y_min = int(x_min * W), int(y_min * H)
-                x_max, y_max = int(x_max * W), int(y_max * H)
-
-                # loosen bbox
-                dynamic_resize = 0.15
-                padding = 30
-
-                bb_xpad = max(int((x_max - x_min + 1) * dynamic_resize), padding)
-                bb_ypad = max(int((y_max - y_min + 1) * dynamic_resize), padding)
-                bbx_min = max(int(x_min - bb_xpad), 0)
-                bbx_max = min(int(x_max + bb_xpad), W-1)
-                bby_min = max(int(y_min - bb_ypad), 0)
-                bby_max = min(int(y_max + bb_ypad), H-1)
-
-                annotations.append({
-                    'bbox': [bbx_min, bby_min, bbx_max, bby_max],
-                    'landmarks': coords
+                points = np.array([(lm.x * W, lm.y * H) for lm in landmarks], dtype=np.int32)
+                if len(points) < 3: continue
+                
+                area = cv2.contourArea(cv2.convexHull(points))
+                M = cv2.moments(points)
+                center_x = int(M["m10"] / M["m00"]) if M["m00"] != 0 else 0
+                
+                detected_instances.append({
+                    'landmarks': landmarks,
+                    'confidence': det['confidence'],
+                    'area': area,
+                    'center_x': center_x
                 })
-        return annotations
-    
-    def prepare_mask(self, image, annotations):
-        mask = np.zeros(image.shape[:2], dtype=np.uint8)
-        for annotation in annotations:
-            bbox = annotation['bbox']
-            cv2.rectangle(mask, (bbox[0], bbox[1]), (bbox[2], bbox[3]), 255, -1)
-        return mask
+        
+        # 2. Sort the detected instances
+        sort_by = options.get('sort_by')
+        if sort_by == 'Confidence':
+            detected_instances.sort(key=lambda x: x['confidence'], reverse=True)
+        elif sort_by == 'Area: Largest to Smallest':
+            detected_instances.sort(key=lambda x: x['area'], reverse=True)
+        elif sort_by == 'Position: Left to Right':
+            detected_instances.sort(key=lambda x: x['center_x'])
+        # Add other sorting methods here...
 
-    def resize_image(self, image, target_size=1024):
-        h, w = image.shape[:2]
-    
-        # 计算长边
-        long_side = max(h, w)
-    
-        # 计算缩放比例
-        scale = target_size / long_side
-    
-        # 计算新的尺寸
-        new_h = int(h * scale)
-        new_w = int(w * scale)
-    
-        # 使用cv2.resize进行缩放
-        resized_image = cv2.resize(image, (new_w, new_h), interpolation=cv2.INTER_AREA)
-    
-        return resized_image
+        # 3. Filter the sorted list
+        max_objects = options.get('max_objects')
+        filtered_instances = detected_instances[:max_objects]
 
-
-class ImageCaptioner:
-    def __init__(self, model_name="Salesforce/blip-image-captioning-base"):
-        self.processor = BlipProcessor.from_pretrained(model_name)
-        self.model = BlipForConditionalGeneration.from_pretrained(model_name, torch_dtype=torch.float16).to("cuda")
-
-    def load_image(self, image_path):
-        if image_path.startswith('http'):
-            return Image.open(requests.get(image_path, stream=True).raw).convert('RGB')
-        else:
-            return Image.open(image_path).convert('RGB')
-
-    def generate_caption(self, image, conditional_text="a photography of"):
-        if conditional_text:
-            inputs = self.processor(image, conditional_text, return_tensors="pt").to("cuda", torch.float16)
-        else:
-            inputs = self.processor(image, return_tensors="pt").to("cuda", torch.float16)
-
-        out = self.model.generate(**inputs)
-        return self.processor.decode(out[0], skip_special_tokens=True)
+        # 4. Create and combine masks for the filtered instances
+        for instance in filtered_instances:
+            instance_mask = self._create_mask_from_landmarks(
+                image.shape, 
+                instance['landmarks'],
+                options.get('mask_padding'),
+                options.get('mask_blur')
+            )
+            if instance_mask is not None:
+                final_mask = np.maximum(final_mask, instance_mask)
+        
+        return final_mask

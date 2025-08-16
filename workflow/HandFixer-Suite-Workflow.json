@@ -9,14 +9,14 @@
         307,
         282
       ],
-      "size": [
-        425.27801513671875,
-        180.6060791015625
-      ],
+      "size": {
+        "0": 425.27801513671875,
+        "1": 180.6060791015625
+      },
       "flags": {
         "collapsed": true
       },
-      "order": 6,
+      "order": 5,
       "mode": 0,
       "inputs": [
         {
@@ -52,14 +52,13 @@
         1352,
         422
       ],
-      "size": [
-        315,
-        58
-      ],
+      "size": {
+        "0": 315,
+        "1": 58
+      },
       "flags": {},
       "order": 0,
       "mode": 0,
-      "inputs": [],
       "outputs": [
         {
           "name": "VAE",
@@ -67,8 +66,7 @@
           "links": [
             60,
             82
-          ],
-          "slot_index": 0
+          ]
         }
       ],
       "properties": {
@@ -85,14 +83,13 @@
         -237,
         79
       ],
-      "size": [
-        315,
-        106
-      ],
+      "size": {
+        "0": 315,
+        "1": 106
+      },
       "flags": {},
       "order": 1,
       "mode": 0,
-      "inputs": [],
       "outputs": [
         {
           "name": "CLIP",
@@ -120,12 +117,12 @@
         1001,
         -68
       ],
-      "size": [
-        277.20001220703125,
-        26
-      ],
+      "size": {
+        "0": 277.20001220703125,
+        "1": 26
+      },
       "flags": {},
-      "order": 7,
+      "order": 6,
       "mode": 0,
       "inputs": [
         {
@@ -140,8 +137,7 @@
           "type": "MODEL",
           "links": [
             86
-          ],
-          "slot_index": 0
+          ]
         }
       ],
       "properties": {
@@ -156,12 +152,12 @@
         1620,
         98
       ],
-      "size": [
-        210,
-        46
-      ],
+      "size": {
+        "0": 210,
+        "1": 46
+      },
       "flags": {},
-      "order": 13,
+      "order": 12,
       "mode": 0,
       "inputs": [
         {
@@ -181,14 +177,12 @@
           "type": "IMAGE",
           "links": [
             95
-          ],
-          "slot_index": 0
+          ]
         }
       ],
       "properties": {
         "Node name for S&R": "VAEDecode"
-      },
-      "widgets_values": []
+      }
     },
     {
       "id": 38,
@@ -197,12 +191,12 @@
         952,
         78
       ],
-      "size": [
-        302.4000244140625,
-        138
-      ],
+      "size": {
+        "0": 302.4000244140625,
+        "1": 138
+      },
       "flags": {},
-      "order": 11,
+      "order": 10,
       "mode": 0,
       "inputs": [
         {
@@ -237,24 +231,21 @@
           "type": "CONDITIONING",
           "links": [
             77
-          ],
-          "slot_index": 0
+          ]
         },
         {
           "name": "negative",
           "type": "CONDITIONING",
           "links": [
             78
-          ],
-          "slot_index": 1
+          ]
         },
         {
           "name": "latent",
           "type": "LATENT",
           "links": [
             88
-          ],
-          "slot_index": 2
+          ]
         }
       ],
       "properties": {
@@ -271,12 +262,12 @@
         1877,
         101
       ],
-      "size": [
-        828.9535522460938,
-        893.8475341796875
-      ],
+      "size": {
+        "0": 828.9535522460938,
+        "1": 893.8475341796875
+      },
       "flags": {},
-      "order": 14,
+      "order": 13,
       "mode": 0,
       "inputs": [
         {
@@ -285,8 +276,6 @@
           "link": 95
         }
       ],
-      "outputs": [],
-      "properties": {},
       "widgets_values": [
         "ComfyUI"
       ]
@@ -298,12 +287,12 @@
         144,
         -7
       ],
-      "size": [
-        422.84503173828125,
-        164.31304931640625
-      ],
+      "size": {
+        "0": 422.84503173828125,
+        "1": 164.31304931640625
+      },
       "flags": {},
-      "order": 5,
+      "order": 4,
       "mode": 0,
       "inputs": [
         {
@@ -318,8 +307,7 @@
           "type": "CONDITIONING",
           "links": [
             41
-          ],
-          "slot_index": 0
+          ]
         }
       ],
       "title": "CLIP Text Encode (Positive Prompt)",
@@ -333,56 +321,18 @@
       "bgcolor": "#353"
     },
     {
-      "id": 46,
-      "type": "LoadImage",
-      "pos": [
-        416,
-        321
-      ],
-      "size": [
-        315,
-        314
-      ],
-      "flags": {
-        "collapsed": true
-      },
-      "order": 2,
-      "mode": 0,
-      "inputs": [],
-      "outputs": [
-        {
-          "name": "IMAGE",
-          "type": "IMAGE",
-          "links": [],
-          "slot_index": 0
-        },
-        {
-          "name": "MASK",
-          "type": "MASK",
-          "links": null
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "LoadImage"
-      },
-      "widgets_values": [
-        "2_a team_0.jpg",
-        "image"
-      ]
-    },
-    {
       "id": 3,
       "type": "KSampler",
       "pos": [
         1280,
         100
       ],
-      "size": [
-        315,
-        262
-      ],
+      "size": {
+        "0": 315,
+        "1": 262
+      },
       "flags": {},
-      "order": 12,
+      "order": 11,
       "mode": 0,
       "inputs": [
         {
@@ -412,8 +362,7 @@
           "type": "LATENT",
           "links": [
             7
-          ],
-          "slot_index": 0
+          ]
         }
       ],
       "properties": {
@@ -436,12 +385,12 @@
         953.1246948242188,
         439.921142578125
       ],
-      "size": [
-        270.0894775390625,
-        274.2608337402344
-      ],
+      "size": {
+        "0": 270.0894775390625,
+        "1": 274.2608337402344
+      },
       "flags": {},
-      "order": 10,
+      "order": 9,
       "mode": 0,
       "inputs": [
         {
@@ -450,23 +399,21 @@
           "link": 106
         }
       ],
-      "outputs": [],
       "properties": {
         "Node name for S&R": "PreviewImage"
-      },
-      "widgets_values": []
+      }
     },
     {
       "id": 45,
-      "type": "MediapipeHandNode",
+      "type": "AdvancedMediapipeMasker",
       "pos": [
         721,
         306
       ],
-      "size": [
-        191.13165283203125,
-        72.71792602539062
-      ],
+      "size": {
+        "0": 315,
+        "1": 180
+      },
       "flags": {},
       "order": 8,
       "mode": 0,
@@ -504,9 +451,15 @@
         }
       ],
       "properties": {
-        "Node name for S&R": "MediapipeHandNode"
+        "Node name for S&R": "AdvancedMediapipeMasker"
       },
-      "widgets_values": []
+      "widgets_values": [
+        0.5,
+        "hands",
+        "Off",
+        "Off",
+        "Off"
+      ]
     },
     {
       "id": 31,
@@ -515,22 +468,20 @@
         602,
         -120
       ],
-      "size": [
-        315,
-        82
-      ],
+      "size": {
+        "0": 315,
+        "1": 82
+      },
       "flags": {},
-      "order": 3,
+      "order": 2,
       "mode": 0,
-      "inputs": [],
       "outputs": [
         {
           "name": "MODEL",
           "type": "MODEL",
           "links": [
             85
-          ],
-          "slot_index": 0
+          ]
         }
       ],
       "properties": {
@@ -548,12 +499,12 @@
         593,
         44
       ],
-      "size": [
-        317.4000244140625,
-        58
-      ],
+      "size": {
+        "0": 317.4000244140625,
+        "1": 58
+      },
       "flags": {},
-      "order": 9,
+      "order": 7,
       "mode": 0,
       "inputs": [
         {
@@ -569,7 +520,6 @@
           "links": [
             80
           ],
-          "slot_index": 0,
           "shape": 3
         }
       ],
@@ -587,14 +537,13 @@
         377,
         276
       ],
-      "size": [
-        315,
-        314
-      ],
+      "size": {
+        "0": 315,
+        "1": 314
+      },
       "flags": {},
-      "order": 4,
+      "order": 3,
       "mode": 0,
-      "inputs": [],
       "outputs": [
         {
           "name": "IMAGE",
@@ -614,7 +563,7 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "b99c78bda167f18aa0dfeaf0932a2f90362184.png",
+        "example.png",
         "image"
       ]
     }
@@ -767,14 +716,6 @@
   ],
   "groups": [],
   "config": {},
-  "extra": {
-    "ds": {
-      "scale": 0.5131581182307074,
-      "offset": [
-        236.5698265374272,
-        445.3545399740572
-      ]
-    }
-  },
+  "extra": {},
   "version": 0.4
 }
