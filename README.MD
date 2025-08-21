@@ -8,7 +8,8 @@ The goal of this suite is to provide a versatile, all-in-one solution for detect
 
 *   **All-in-One Detailer Node:** A single, powerful node that handles masking, prompting, and latent preparation for a targeted detail pass.
 *   **"Batteries-Included" Detection:** No external YOLO models to download. All detectors are built into the `mediapipe` library.
-*   **Versatile Targets:** Generate masks for `hands`, `faces`, `eyes`, `mouth`, `feet`, `pose`, and more with a simple dropdown.
+*   **Versatile Targets:** A clear dropdown menu to generate masks for `hands`, `face`, `eyes`, `mouth`, `feet`, `torso`, and more.
+*   **High-Quality Person Isolation:** Choose between a rough `full_body (bbox)` or a superior, pixel-perfect `person (segmentation)` for isolating subjects.
 *   **ADetailer-Style Filtering:** Sort and filter detected objects by confidence, size, or position to only fix what you want.
 *   **High-Quality Masking:** Uses a Convex Hull with configurable padding and edge blurring for superior, seamless inpainting results.
 *   **Dedicated Prompts:** Use a specific, focused prompt for your detail pass, completely separate from your main prompt.
@@ -41,12 +42,12 @@ This is the easiest way to perform a targeted fix. The node prepares all the nec
 
 1.  Connect your `IMAGE`, `CLIP`, and `VAE`.
 2.  Use the widgets on the node to select your target (e.g., `hands`), configure the mask, and write a dedicated detail prompt.
-3.  Connect the `POSITIVE`, `NEGATIVE`, and `LATENT` outputs to a `KSampler`.
+3.  Connect the `POSITIVE`, `NEGATIVE`, `LATENT`, and `DENOISE` outputs to a `KSampler`.
 4.  Connect the `VAE_PASSTHROUGH` output to your `VAE Decode` node.
 
 ### 2. Mask-Only Mode (Advanced Users)
 
-If you only need a high-quality mask for a custom workflow (e.g., to use with ControlNet or other advanced techniques), you can use the `MASK` output.
+If you only need a high-quality mask for a custom workflow (e.g., to use with ControlNet), you can use the `MASK` output.
 
 1.  Connect only the `IMAGE` input.
 2.  Configure the detection and mask quality widgets as desired.
@@ -85,6 +86,7 @@ graph TD
     Detailer1 -- "POSITIVE" --> KSampler1
     Detailer1 -- "NEGATIVE" --> KSampler1
     Detailer1 -- "LATENT" --> KSampler1
+    Detailer1 -- "DENOISE" --> KSampler1
     UNET --> KSampler1
     KSampler1 --> VAEDecode1
     Detailer1 -- "VAE_PASSTHROUGH" --> VAEDecode1
@@ -98,6 +100,7 @@ graph TD
     Detailer2 -- "POSITIVE" --> KSampler2
     Detailer2 -- "NEGATIVE" --> KSampler2
     Detailer2 -- "LATENT" --> KSampler2
+    Detailer2 -- "DENOISE" --> KSampler2
     UNET --> KSampler2
     KSampler2 --> VAEDecode2
     Detailer2 -- "VAE_PASSTHROUGH" --> VAEDecode2
