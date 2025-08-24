@@ -1,0 +1,639 @@
+Folder PATH listing for volume Storage
+Volume serial number is E836-AE70
+D:.
+¦   aom.dll
+¦   Avalonia.Base.dll
+¦   Avalonia.Controls.dll
+¦   Avalonia.DesignerSupport.dll
+¦   Avalonia.Desktop.dll
+¦   Avalonia.Dialogs.dll
+¦   Avalonia.dll
+¦   Avalonia.Fonts.Inter.dll
+¦   Avalonia.FreeDesktop.dll
+¦   Avalonia.Markup.dll
+¦   Avalonia.Markup.Xaml.dll
+¦   Avalonia.Metal.dll
+¦   Avalonia.MicroCom.dll
+¦   Avalonia.Native.dll
+¦   Avalonia.OpenGL.dll
+¦   Avalonia.Remote.Protocol.dll
+¦   Avalonia.Skia.dll
+¦   Avalonia.Svg.Skia.dll
+¦   Avalonia.Themes.Fluent.dll
+¦   Avalonia.Vulkan.dll
+¦   Avalonia.Win32.Automation.dll
+¦   Avalonia.Win32.dll
+¦   Avalonia.X11.dll
+¦   AvaloniaEdit.dll
+¦   av_libglesv2.dll
+¦   CommunityToolkit.Mvvm.dll
+¦   config.json
+¦   DatasetProcessor.deps.json
+¦   DatasetProcessor.dll
+¦   DatasetProcessor.pdb
+¦   DatasetProcessorDesktop.deps.json
+¦   DatasetProcessorDesktop.dll
+¦   DatasetProcessorDesktop.exe
+¦   DatasetProcessorDesktop.pdb
+¦   DatasetProcessorDesktop.runtimeconfig.json
+¦   DirectML.Debug.dll
+¦   DirectML.Debug.pdb
+¦   DirectML.dll
+¦   DirectML.pdb
+¦   ExCSS.dll
+¦   Florence2Lab.Core.deps.json
+¦   Florence2Lab.Core.dll
+¦   Florence2Lab.Core.pdb
+¦   HarfBuzzSharp.dll
+¦   ImageSharp.Heif.dll
+¦   LdaNative.dll
+¦   libde265.dll
+¦   libHarfBuzzSharp.dll
+¦   libheif.dll
+¦   LibHeifSharp.dll
+¦   libSkiaSharp.dll
+¦   libvlc.dylib
+¦   LibVLCSharp.Avalonia.dll
+¦   LibVLCSharp.dll
+¦   libx265.dll
+¦   Magick.Native-Q16-x64.dll
+¦   Magick.NET-Q16-AnyCPU.dll
+¦   Magick.NET.Core.dll
+¦   MicroCom.Runtime.dll
+¦   Microsoft.Extensions.DependencyInjection.Abstractions.dll
+¦   Microsoft.Extensions.DependencyInjection.dll
+¦   Microsoft.ML.Core.dll
+¦   Microsoft.ML.CpuMath.dll
+¦   Microsoft.ML.Data.dll
+¦   Microsoft.ML.DataView.dll
+¦   Microsoft.ML.KMeansClustering.dll
+¦   Microsoft.ML.OnnxRuntime.dll
+¦   Microsoft.ML.PCA.dll
+¦   Microsoft.ML.StandardTrainers.dll
+¦   Microsoft.ML.Transforms.dll
+¦   Newtonsoft.Json.dll
+¦   onnxruntime.dll
+¦   onnxruntime.lib
+¦   onnxruntime_providers_shared.dll
+¦   onnxruntime_providers_shared.lib
+¦   ortextensions.dll
+¦   Python.Runtime.dll
+¦   SharpHook.dll
+¦   ShimSkiaSharp.dll
+¦   SixLabors.Fonts.dll
+¦   SixLabors.ImageSharp.dll
+¦   SixLabors.ImageSharp.Drawing.dll
+¦   SkiaSharp.dll
+¦   SkiaSharp.HarfBuzz.dll
+¦   SmartData.Lib.deps.json
+¦   SmartData.Lib.dll
+¦   SmartData.Lib.pdb
+¦   Svg.Custom.dll
+¦   Svg.Model.dll
+¦   Svg.Skia.dll
+¦   System.CodeDom.dll
+¦   System.Numerics.Tensors.dll
+¦   Tmds.DBus.Protocol.dll
+¦   tree.txt
+¦   uiohook.dll
+¦   
++---Assets
+¦       system_notification.mp3
+¦       
++---libvlc
+¦   +---win-x64
+¦       ¦   libvlc.dll
+¦       ¦   libvlc.lib
+¦       ¦   libvlccore.dll
+¦       ¦   libvlccore.lib
+¦       ¦   
+¦       +---hrtfs
+¦       ¦       dodeca_and_7channel_3DSL_HRTF.sofa
+¦       ¦       
+¦       +---lua
+¦       ¦   +---extensions
+¦       ¦   ¦       VLSub.luac
+¦       ¦   ¦       
+¦       ¦   +---http
+¦       ¦   ¦   ¦   custom.lua
+¦       ¦   ¦   ¦   favicon.ico
+¦       ¦   ¦   ¦   index.html
+¦       ¦   ¦   ¦   mobile.html
+¦       ¦   ¦   ¦   mobile_browse.html
+¦       ¦   ¦   ¦   mobile_equalizer.html
+¦       ¦   ¦   ¦   mobile_view.html
+¦       ¦   ¦   ¦   view.html
+¦       ¦   ¦   ¦   vlm.html
+¦       ¦   ¦   ¦   vlm_export.html
+¦       ¦   ¦   ¦   
+¦       ¦   ¦   +---css
+¦       ¦   ¦   ¦   ¦   main.css
+¦       ¦   ¦   ¦   ¦   mobile.css
+¦       ¦   ¦   ¦   ¦   
+¦       ¦   ¦   ¦   +---ui-lightness
+¦       ¦   ¦   ¦       ¦   jquery-ui-1.8.13.custom.css
+¦       ¦   ¦   ¦       ¦   
+¦       ¦   ¦   ¦       +---images
+¦       ¦   ¦   ¦               ui-bg_diagonals-thick_18_b81900_40x40.png
+¦       ¦   ¦   ¦               ui-bg_diagonals-thick_20_666666_40x40.png
+¦       ¦   ¦   ¦               ui-bg_flat_10_000000_40x100.png
+¦       ¦   ¦   ¦               ui-bg_glass_100_f6f6f6_1x400.png
+¦       ¦   ¦   ¦               ui-bg_glass_100_fdf5ce_1x400.png
+¦       ¦   ¦   ¦               ui-bg_glass_65_ffffff_1x400.png
+¦       ¦   ¦   ¦               ui-bg_gloss-wave_35_f6a828_500x100.png
+¦       ¦   ¦   ¦               ui-bg_highlight-soft_100_eeeeee_1x100.png
+¦       ¦   ¦   ¦               ui-bg_highlight-soft_75_ffe45c_1x100.png
+¦       ¦   ¦   ¦               ui-icons_222222_256x240.png
+¦       ¦   ¦   ¦               ui-icons_228ef1_256x240.png
+¦       ¦   ¦   ¦               ui-icons_ef8c08_256x240.png
+¦       ¦   ¦   ¦               ui-icons_ffd27a_256x240.png
+¦       ¦   ¦   ¦               ui-icons_ffffff_256x240.png
+¦       ¦   ¦   ¦               
+¦       ¦   ¦   +---dialogs
+¦       ¦   ¦   ¦       batch_window.html
+¦       ¦   ¦   ¦       browse_window.html
+¦       ¦   ¦   ¦       create_stream.html
+¦       ¦   ¦   ¦       equalizer_window.html
+¦       ¦   ¦   ¦       error_window.html
+¦       ¦   ¦   ¦       mosaic_window.html
+¦       ¦   ¦   ¦       offset_window.html
+¦       ¦   ¦   ¦       stream_config_window.html
+¦       ¦   ¦   ¦       stream_window.html
+¦       ¦   ¦   ¦       
+¦       ¦   ¦   +---images
+¦       ¦   ¦   ¦       Audio-48.png
+¦       ¦   ¦   ¦       Back-48.png
+¦       ¦   ¦   ¦       buttons.png
+¦       ¦   ¦   ¦       Folder-48.png
+¦       ¦   ¦   ¦       Other-48.png
+¦       ¦   ¦   ¦       speaker-32.png
+¦       ¦   ¦   ¦       Video-48.png
+¦       ¦   ¦   ¦       vlc-48.png
+¦       ¦   ¦   ¦       vlc16x16.png
+¦       ¦   ¦   ¦       
+¦       ¦   ¦   +---js
+¦       ¦   ¦   ¦       common.js
+¦       ¦   ¦   ¦       controllers.js
+¦       ¦   ¦   ¦       jquery.jstree.js
+¦       ¦   ¦   ¦       ui.js
+¦       ¦   ¦   ¦       
+¦       ¦   ¦   +---requests
+¦       ¦   ¦           browse.json
+¦       ¦   ¦           browse.xml
+¦       ¦   ¦           playlist.json
+¦       ¦   ¦           playlist.xml
+¦       ¦   ¦           playlist_jstree.xml
+¦       ¦   ¦           README.txt
+¦       ¦   ¦           status.json
+¦       ¦   ¦           status.xml
+¦       ¦   ¦           vlm.xml
+¦       ¦   ¦           vlm_cmd.xml
+¦       ¦   ¦           
+¦       ¦   +---intf
+¦       ¦   ¦   ¦   cli.luac
+¦       ¦   ¦   ¦   dummy.luac
+¦       ¦   ¦   ¦   dumpmeta.luac
+¦       ¦   ¦   ¦   http.luac
+¦       ¦   ¦   ¦   luac.luac
+¦       ¦   ¦   ¦   telnet.luac
+¦       ¦   ¦   ¦   
+¦       ¦   ¦   +---modules
+¦       ¦   ¦           host.luac
+¦       ¦   ¦           httprequests.luac
+¦       ¦   ¦           
+¦       ¦   +---meta
+¦       ¦   ¦   +---art
+¦       ¦   ¦   ¦       00_musicbrainz.luac
+¦       ¦   ¦   ¦       01_googleimage.luac
+¦       ¦   ¦   ¦       02_frenchtv.luac
+¦       ¦   ¦   ¦       03_lastfm.luac
+¦       ¦   ¦   ¦       
+¦       ¦   ¦   +---reader
+¦       ¦   ¦           filename.luac
+¦       ¦   ¦           
+¦       ¦   +---modules
+¦       ¦   ¦       common.luac
+¦       ¦   ¦       dkjson.luac
+¦       ¦   ¦       sandbox.luac
+¦       ¦   ¦       simplexml.luac
+¦       ¦   ¦       
+¦       ¦   +---playlist
+¦       ¦   ¦       anevia_streams.luac
+¦       ¦   ¦       anevia_xml.luac
+¦       ¦   ¦       appletrailers.luac
+¦       ¦   ¦       bbc_co_uk.luac
+¦       ¦   ¦       cue.luac
+¦       ¦   ¦       dailymotion.luac
+¦       ¦   ¦       jamendo.luac
+¦       ¦   ¦       koreus.luac
+¦       ¦   ¦       liveleak.luac
+¦       ¦   ¦       newgrounds.luac
+¦       ¦   ¦       rockbox_fm_presets.luac
+¦       ¦   ¦       soundcloud.luac
+¦       ¦   ¦       twitch.luac
+¦       ¦   ¦       vimeo.luac
+¦       ¦   ¦       vocaroo.luac
+¦       ¦   ¦       youtube.luac
+¦       ¦   ¦       
+¦       ¦   +---sd
+¦       ¦           icecast.luac
+¦       ¦           jamendo.luac
+¦       ¦           
+¦       +---plugins
+¦           +---access
+¦           ¦       libaccess_concat_plugin.dll
+¦           ¦       libaccess_imem_plugin.dll
+¦           ¦       libaccess_mms_plugin.dll
+¦           ¦       libaccess_srt_plugin.dll
+¦           ¦       libaccess_wasapi_plugin.dll
+¦           ¦       libattachment_plugin.dll
+¦           ¦       libbluray-awt-j2se-1.3.2.jar
+¦           ¦       libbluray-j2se-1.3.2.jar
+¦           ¦       libcdda_plugin.dll
+¦           ¦       libdcp_plugin.dll
+¦           ¦       libdtv_plugin.dll
+¦           ¦       libfilesystem_plugin.dll
+¦           ¦       libftp_plugin.dll
+¦           ¦       libhttps_plugin.dll
+¦           ¦       libhttp_plugin.dll
+¦           ¦       libidummy_plugin.dll
+¦           ¦       libimem_plugin.dll
+¦           ¦       liblibbluray_plugin.dll
+¦           ¦       liblive555_plugin.dll
+¦           ¦       libnfs_plugin.dll
+¦           ¦       librist_plugin.dll
+¦           ¦       librtp_plugin.dll
+¦           ¦       libsatip_plugin.dll
+¦           ¦       libscreen_plugin.dll
+¦           ¦       libsdp_plugin.dll
+¦           ¦       libsftp_plugin.dll
+¦           ¦       libshm_plugin.dll
+¦           ¦       libsmb_plugin.dll
+¦           ¦       libtcp_plugin.dll
+¦           ¦       libtimecode_plugin.dll
+¦           ¦       libudp_plugin.dll
+¦           ¦       libvcd_plugin.dll
+¦           ¦       libvdr_plugin.dll
+¦           ¦       
+¦           +---access_output
+¦           ¦       libaccess_output_dummy_plugin.dll
+¦           ¦       libaccess_output_file_plugin.dll
+¦           ¦       libaccess_output_http_plugin.dll
+¦           ¦       libaccess_output_livehttp_plugin.dll
+¦           ¦       libaccess_output_rist_plugin.dll
+¦           ¦       libaccess_output_shout_plugin.dll
+¦           ¦       libaccess_output_srt_plugin.dll
+¦           ¦       libaccess_output_udp_plugin.dll
+¦           ¦       
+¦           +---audio_filter
+¦           ¦       libaudiobargraph_a_plugin.dll
+¦           ¦       libaudio_format_plugin.dll
+¦           ¦       libchorus_flanger_plugin.dll
+¦           ¦       libcompressor_plugin.dll
+¦           ¦       libequalizer_plugin.dll
+¦           ¦       libgain_plugin.dll
+¦           ¦       libkaraoke_plugin.dll
+¦           ¦       libnormvol_plugin.dll
+¦           ¦       libparam_eq_plugin.dll
+¦           ¦       libremap_plugin.dll
+¦           ¦       libscaletempo_pitch_plugin.dll
+¦           ¦       libscaletempo_plugin.dll
+¦           ¦       libsimple_channel_mixer_plugin.dll
+¦           ¦       libspatialaudio_plugin.dll
+¦           ¦       libspatializer_plugin.dll
+¦           ¦       libspeex_resampler_plugin.dll
+¦           ¦       libstereo_widen_plugin.dll
+¦           ¦       libtospdif_plugin.dll
+¦           ¦       libtrivial_channel_mixer_plugin.dll
+¦           ¦       libugly_resampler_plugin.dll
+¦           ¦       
+¦           +---audio_mixer
+¦           ¦       libfloat_mixer_plugin.dll
+¦           ¦       libinteger_mixer_plugin.dll
+¦           ¦       
+¦           +---audio_output
+¦           ¦       libadummy_plugin.dll
+¦           ¦       libafile_plugin.dll
+¦           ¦       libamem_plugin.dll
+¦           ¦       libdirectsound_plugin.dll
+¦           ¦       libmmdevice_plugin.dll
+¦           ¦       libwasapi_plugin.dll
+¦           ¦       libwaveout_plugin.dll
+¦           ¦       
+¦           +---codec
+¦           ¦       libadpcm_plugin.dll
+¦           ¦       libaes3_plugin.dll
+¦           ¦       libaom_plugin.dll
+¦           ¦       libaraw_plugin.dll
+¦           ¦       libavcodec_plugin.dll
+¦           ¦       libcc_plugin.dll
+¦           ¦       libcdg_plugin.dll
+¦           ¦       libcrystalhd_plugin.dll
+¦           ¦       libcvdsub_plugin.dll
+¦           ¦       libd3d11va_plugin.dll
+¦           ¦       libdav1d_plugin.dll
+¦           ¦       libddummy_plugin.dll
+¦           ¦       libdmo_plugin.dll
+¦           ¦       libdvbsub_plugin.dll
+¦           ¦       libdxva2_plugin.dll
+¦           ¦       libedummy_plugin.dll
+¦           ¦       libflac_plugin.dll
+¦           ¦       libfluidsynth_plugin.dll
+¦           ¦       libg711_plugin.dll
+¦           ¦       libjpeg_plugin.dll
+¦           ¦       libkate_plugin.dll
+¦           ¦       liblibass_plugin.dll
+¦           ¦       liblpcm_plugin.dll
+¦           ¦       libmft_plugin.dll
+¦           ¦       libmpg123_plugin.dll
+¦           ¦       liboggspots_plugin.dll
+¦           ¦       libopus_plugin.dll
+¦           ¦       libpng_plugin.dll
+¦           ¦       libqsv_plugin.dll
+¦           ¦       librawvideo_plugin.dll
+¦           ¦       librtpvideo_plugin.dll
+¦           ¦       libschroedinger_plugin.dll
+¦           ¦       libscte18_plugin.dll
+¦           ¦       libscte27_plugin.dll
+¦           ¦       libsdl_image_plugin.dll
+¦           ¦       libspdif_plugin.dll
+¦           ¦       libspeex_plugin.dll
+¦           ¦       libspudec_plugin.dll
+¦           ¦       libstl_plugin.dll
+¦           ¦       libsubsdec_plugin.dll
+¦           ¦       libsubstx3g_plugin.dll
+¦           ¦       libsubsusf_plugin.dll
+¦           ¦       libsvcdsub_plugin.dll
+¦           ¦       libtextst_plugin.dll
+¦           ¦       libtheora_plugin.dll
+¦           ¦       libttml_plugin.dll
+¦           ¦       libtwolame_plugin.dll
+¦           ¦       libuleaddvaudio_plugin.dll
+¦           ¦       libvorbis_plugin.dll
+¦           ¦       libvpx_plugin.dll
+¦           ¦       libwebvtt_plugin.dll
+¦           ¦       libx26410b_plugin.dll
+¦           ¦       libzvbi_plugin.dll
+¦           ¦       
+¦           +---d3d11
+¦           ¦       libdirect3d11_filters_plugin.dll
+¦           ¦       
+¦           +---d3d9
+¦           ¦       libdirect3d9_filters_plugin.dll
+¦           ¦       
+¦           +---demux
+¦           ¦       libadaptive_plugin.dll
+¦           ¦       libaiff_plugin.dll
+¦           ¦       libasf_plugin.dll
+¦           ¦       libau_plugin.dll
+¦           ¦       libavi_plugin.dll
+¦           ¦       libcaf_plugin.dll
+¦           ¦       libdemuxdump_plugin.dll
+¦           ¦       libdemux_cdg_plugin.dll
+¦           ¦       libdemux_chromecast_plugin.dll
+¦           ¦       libdemux_stl_plugin.dll
+¦           ¦       libdiracsys_plugin.dll
+¦           ¦       libdirectory_demux_plugin.dll
+¦           ¦       libes_plugin.dll
+¦           ¦       libflacsys_plugin.dll
+¦           ¦       libgme_plugin.dll
+¦           ¦       libh26x_plugin.dll
+¦           ¦       libimage_plugin.dll
+¦           ¦       libmjpeg_plugin.dll
+¦           ¦       libmkv_plugin.dll
+¦           ¦       libmod_plugin.dll
+¦           ¦       libmp4_plugin.dll
+¦           ¦       libmpgv_plugin.dll
+¦           ¦       libnoseek_plugin.dll
+¦           ¦       libnsc_plugin.dll
+¦           ¦       libnsv_plugin.dll
+¦           ¦       libnuv_plugin.dll
+¦           ¦       libogg_plugin.dll
+¦           ¦       libplaylist_plugin.dll
+¦           ¦       libps_plugin.dll
+¦           ¦       libpva_plugin.dll
+¦           ¦       librawaud_plugin.dll
+¦           ¦       librawdv_plugin.dll
+¦           ¦       librawvid_plugin.dll
+¦           ¦       libsmf_plugin.dll
+¦           ¦       libsubtitle_plugin.dll
+¦           ¦       libts_plugin.dll
+¦           ¦       libtta_plugin.dll
+¦           ¦       libty_plugin.dll
+¦           ¦       libvc1_plugin.dll
+¦           ¦       libvobsub_plugin.dll
+¦           ¦       libvoc_plugin.dll
+¦           ¦       libwav_plugin.dll
+¦           ¦       libxa_plugin.dll
+¦           ¦       
+¦           +---keystore
+¦           ¦       libfile_keystore_plugin.dll
+¦           ¦       libmemory_keystore_plugin.dll
+¦           ¦       
+¦           +---logger
+¦           ¦       libconsole_logger_plugin.dll
+¦           ¦       
+¦           +---lua
+¦           ¦       liblua_plugin.dll
+¦           ¦       
+¦           +---meta_engine
+¦           ¦       libfolder_plugin.dll
+¦           ¦       libtaglib_plugin.dll
+¦           ¦       
+¦           +---misc
+¦           ¦       libaddonsfsstorage_plugin.dll
+¦           ¦       libaddonsvorepository_plugin.dll
+¦           ¦       libfingerprinter_plugin.dll
+¦           ¦       libgnutls_plugin.dll
+¦           ¦       libxml_plugin.dll
+¦           ¦       
+¦           +---mux
+¦           ¦       libmux_asf_plugin.dll
+¦           ¦       libmux_avi_plugin.dll
+¦           ¦       libmux_dummy_plugin.dll
+¦           ¦       libmux_mp4_plugin.dll
+¦           ¦       libmux_mpjpeg_plugin.dll
+¦           ¦       libmux_ogg_plugin.dll
+¦           ¦       libmux_ps_plugin.dll
+¦           ¦       libmux_ts_plugin.dll
+¦           ¦       libmux_wav_plugin.dll
+¦           ¦       
+¦           +---packetizer
+¦           ¦       libpacketizer_av1_plugin.dll
+¦           ¦       libpacketizer_copy_plugin.dll
+¦           ¦       libpacketizer_dirac_plugin.dll
+¦           ¦       libpacketizer_dts_plugin.dll
+¦           ¦       libpacketizer_flac_plugin.dll
+¦           ¦       libpacketizer_h264_plugin.dll
+¦           ¦       libpacketizer_hevc_plugin.dll
+¦           ¦       libpacketizer_mlp_plugin.dll
+¦           ¦       libpacketizer_mpeg4audio_plugin.dll
+¦           ¦       libpacketizer_mpeg4video_plugin.dll
+¦           ¦       libpacketizer_mpegaudio_plugin.dll
+¦           ¦       libpacketizer_mpegvideo_plugin.dll
+¦           ¦       libpacketizer_vc1_plugin.dll
+¦           ¦       
+¦           +---services_discovery
+¦           ¦       libmicrodns_plugin.dll
+¦           ¦       libupnp_plugin.dll
+¦           ¦       libwindrive_plugin.dll
+¦           ¦       
+¦           +---spu
+¦           ¦       libaudiobargraph_v_plugin.dll
+¦           ¦       liblogo_plugin.dll
+¦           ¦       libmarq_plugin.dll
+¦           ¦       libmosaic_plugin.dll
+¦           ¦       libremoteosd_plugin.dll
+¦           ¦       librss_plugin.dll
+¦           ¦       libsubsdelay_plugin.dll
+¦           ¦       
+¦           +---stream_extractor
+¦           ¦       libarchive_plugin.dll
+¦           ¦       
+¦           +---stream_filter
+¦           ¦       libadf_plugin.dll
+¦           ¦       libaribcam_plugin.dll
+¦           ¦       libcache_block_plugin.dll
+¦           ¦       libcache_read_plugin.dll
+¦           ¦       libhds_plugin.dll
+¦           ¦       libinflate_plugin.dll
+¦           ¦       libprefetch_plugin.dll
+¦           ¦       librecord_plugin.dll
+¦           ¦       libskiptags_plugin.dll
+¦           ¦       
+¦           +---stream_out
+¦           ¦       libstream_out_autodel_plugin.dll
+¦           ¦       libstream_out_bridge_plugin.dll
+¦           ¦       libstream_out_chromaprint_plugin.dll
+¦           ¦       libstream_out_chromecast_plugin.dll
+¦           ¦       libstream_out_delay_plugin.dll
+¦           ¦       libstream_out_description_plugin.dll
+¦           ¦       libstream_out_display_plugin.dll
+¦           ¦       libstream_out_dummy_plugin.dll
+¦           ¦       libstream_out_duplicate_plugin.dll
+¦           ¦       libstream_out_es_plugin.dll
+¦           ¦       libstream_out_gather_plugin.dll
+¦           ¦       libstream_out_mosaic_bridge_plugin.dll
+¦           ¦       libstream_out_record_plugin.dll
+¦           ¦       libstream_out_setid_plugin.dll
+¦           ¦       libstream_out_smem_plugin.dll
+¦           ¦       libstream_out_standard_plugin.dll
+¦           ¦       libstream_out_stats_plugin.dll
+¦           ¦       libstream_out_transcode_plugin.dll
+¦           ¦       
+¦           +---text_renderer
+¦           ¦       libfreetype_plugin.dll
+¦           ¦       libsapi_plugin.dll
+¦           ¦       libtdummy_plugin.dll
+¦           ¦       
+¦           +---video_chroma
+¦           ¦       libchain_plugin.dll
+¦           ¦       libgrey_yuv_plugin.dll
+¦           ¦       libi420_10_p010_plugin.dll
+¦           ¦       libi420_nv12_plugin.dll
+¦           ¦       libi420_rgb_mmx_plugin.dll
+¦           ¦       libi420_rgb_plugin.dll
+¦           ¦       libi420_rgb_sse2_plugin.dll
+¦           ¦       libi420_yuy2_mmx_plugin.dll
+¦           ¦       libi420_yuy2_plugin.dll
+¦           ¦       libi420_yuy2_sse2_plugin.dll
+¦           ¦       libi422_i420_plugin.dll
+¦           ¦       libi422_yuy2_mmx_plugin.dll
+¦           ¦       libi422_yuy2_plugin.dll
+¦           ¦       libi422_yuy2_sse2_plugin.dll
+¦           ¦       librv32_plugin.dll
+¦           ¦       libswscale_plugin.dll
+¦           ¦       libyuvp_plugin.dll
+¦           ¦       libyuy2_i420_plugin.dll
+¦           ¦       libyuy2_i422_plugin.dll
+¦           ¦       
+¦           +---video_filter
+¦           ¦       libadjust_plugin.dll
+¦           ¦       libalphamask_plugin.dll
+¦           ¦       libanaglyph_plugin.dll
+¦           ¦       libantiflicker_plugin.dll
+¦           ¦       libball_plugin.dll
+¦           ¦       libblendbench_plugin.dll
+¦           ¦       libblend_plugin.dll
+¦           ¦       libbluescreen_plugin.dll
+¦           ¦       libcanvas_plugin.dll
+¦           ¦       libcolorthres_plugin.dll
+¦           ¦       libcroppadd_plugin.dll
+¦           ¦       libdeinterlace_plugin.dll
+¦           ¦       libedgedetection_plugin.dll
+¦           ¦       liberase_plugin.dll
+¦           ¦       libextract_plugin.dll
+¦           ¦       libfps_plugin.dll
+¦           ¦       libfreeze_plugin.dll
+¦           ¦       libgaussianblur_plugin.dll
+¦           ¦       libgradfun_plugin.dll
+¦           ¦       libgradient_plugin.dll
+¦           ¦       libgrain_plugin.dll
+¦           ¦       libhqdn3d_plugin.dll
+¦           ¦       libinvert_plugin.dll
+¦           ¦       libmagnify_plugin.dll
+¦           ¦       libmirror_plugin.dll
+¦           ¦       libmotionblur_plugin.dll
+¦           ¦       libmotiondetect_plugin.dll
+¦           ¦       liboldmovie_plugin.dll
+¦           ¦       libposterize_plugin.dll
+¦           ¦       libpsychedelic_plugin.dll
+¦           ¦       libpuzzle_plugin.dll
+¦           ¦       libripple_plugin.dll
+¦           ¦       libscale_plugin.dll
+¦           ¦       libscene_plugin.dll
+¦           ¦       libsepia_plugin.dll
+¦           ¦       libsharpen_plugin.dll
+¦           ¦       libtransform_plugin.dll
+¦           ¦       libvhs_plugin.dll
+¦           ¦       libwave_plugin.dll
+¦           ¦       
+¦           +---video_output
+¦           ¦       libcaca_plugin.dll
+¦           ¦       libdirect3d11_plugin.dll
+¦           ¦       libdirect3d9_plugin.dll
+¦           ¦       libdirectdraw_plugin.dll
+¦           ¦       libdrawable_plugin.dll
+¦           ¦       libflaschen_plugin.dll
+¦           ¦       libglinterop_dxva2_plugin.dll
+¦           ¦       libglwin32_plugin.dll
+¦           ¦       libgl_plugin.dll
+¦           ¦       libvdummy_plugin.dll
+¦           ¦       libvmem_plugin.dll
+¦           ¦       libwgl_plugin.dll
+¦           ¦       libwingdi_plugin.dll
+¦           ¦       libwinhibit_plugin.dll
+¦           ¦       libyuv_plugin.dll
+¦           ¦       
+¦           +---video_splitter
+¦           ¦       libclone_plugin.dll
+¦           ¦       libpanoramix_plugin.dll
+¦           ¦       libwall_plugin.dll
+¦           ¦       
+¦           +---visualization
+¦                   libglspectrum_plugin.dll
+¦                   libgoom_plugin.dll
+¦                   libprojectm_plugin.dll
+¦                   libvisual_plugin.dll
+¦                   
++---logs
+¦       error_2025-08-05_21-42-49.txt
+¦       error_2025-08-05_22-30-36.txt
+¦       error_2025-08-09_15-45-26.txt
+¦       error_2025-08-09_15-45-30.txt
+¦       
++---models
+        added_tokens.json
+        florence2Decoder.onnx
+        florence2EmbedTokens.onnx
+        florence2Encoder.onnx
+        florence2VisionEncoder.onnx
+        jtModel.onnx
+        jtTags.csv
+        merges.txt
+        vocab.json
+        wdModel.onnx
+        wdTags.csv
+        wdV3LargeModel.onnx
+        wdV3LargeTags.csv
+        
