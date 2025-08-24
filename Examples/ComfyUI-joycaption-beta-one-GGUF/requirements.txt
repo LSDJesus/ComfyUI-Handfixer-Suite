@@ -1,0 +1,6 @@
+transformers>=4.48.3
+torchvision
+torch
+huggingface-hub
+accelerate
+bitsandbytes
