@@ -1,0 +1,224 @@
+{
+  "ImageBatchPath": {
+    "display_name": "Chemin de lot d'images 🖼️",
+    "inputs": {
+      "image_dir": {
+        "name": "répertoire d'images"
+      },
+      "batch_size": {
+        "name": "taille du lot"
+      },
+      "start_from": {
+        "name": "position de départ"
+      },
+      "sort_method": {
+        "name": "méthode de tri"
+      }
+    },
+    "outputs": {
+      "0": {
+        "name": "chemin d'image"
+      },
+      "1": {
+        "name": "image"
+      }
+    }
+  },
+  "CaptionSaver": {
+    "display_name": "Sauvegarde de légende 📝",
+    "inputs": {
+      "string": {
+        "name": "chaîne"
+      },
+      "image_path": {
+        "name": "chemin d'image"
+      },
+      "image": {
+        "name": "image"
+      },
+      "custom_output_path": {
+        "name": "chemin de sortie personnalisé"
+      },
+      "custom_file_name": {
+        "name": "nom de fichier personnalisé"
+      },
+      "overwrite": {
+        "name": "écraser"
+      }
+    },
+    "outputs": {
+      "0": {
+        "name": "chaîne"
+      }
+    }
+  },
+  "JC": {
+    "display_name": "JoyCaption",
+    "inputs": {
+      "image": {
+        "name": "image"
+      },
+      "model": {
+        "name": "modèle"
+      },
+      "quantization": {
+        "name": "quantification"
+      },
+      "prompt_style": {
+        "name": "style de prompt"
+      },
+      "caption_length": {
+        "name": "longueur de légende"
+      },
+      "memory_management": {
+        "name": "gestion de la mémoire"
+      },
+      "extra_options": {
+        "name": "options supplémentaires"
+      }
+    },
+    "outputs": {
+      "0": {
+        "name": "chaîne"
+      }
+    }
+  },
+  "JC_adv": {
+    "display_name": "JoyCaption (avancé)",
+    "inputs": {
+      "image": {
+        "name": "image"
+      },
+      "model": {
+        "name": "modèle"
+      },
+      "quantization": {
+        "name": "quantification"
+      },
+      "prompt_style": {
+        "name": "style de prompt"
+      },
+      "caption_length": {
+        "name": "longueur de légende"
+      },
+      "max_new_tokens": {
+        "name": "nombre maximum de nouveaux tokens"
+      },
+      "temperature": {
+        "name": "température"
+      },
+      "top_p": {
+        "name": "top_p"
+      },
+      "top_k": {
+        "name": "top_k"
+      },
+      "custom_prompt": {
+        "name": "prompt personnalisé"
+      },
+      "memory_management": {
+        "name": "gestion de la mémoire"
+      },
+      "extra_options": {
+        "name": "options supplémentaires"
+      }
+    },
+    "outputs": {
+      "0": {
+        "name": "prompt"
+      },
+      "1": {
+        "name": "chaîne"
+      }
+    }
+  },
+  "JC_ExtraOptions": {
+    "display_name": "Options supplémentaires JoyCaption",
+    "inputs": {},
+    "outputs": {
+      "0": {
+        "name": "options supplémentaires"
+      }
+    }
+  },
+  "JC_GGUF": {
+    "display_name": "JoyCaption GGUF",
+    "inputs": {
+      "image": {
+        "name": "image"
+      },
+      "model": {
+        "name": "modèle"
+      },
+      "processing_mode": {
+        "name": "mode de traitement"
+      },
+      "prompt_style": {
+        "name": "style de prompt"
+      },
+      "caption_length": {
+        "name": "longueur de légende"
+      },
+      "memory_management": {
+        "name": "gestion de la mémoire"
+      },
+      "extra_options": {
+        "name": "options supplémentaires"
+      }
+    },
+    "outputs": {
+      "0": {
+        "name": "chaîne"
+      }
+    }
+  },
+  "JC_GGUF_adv": {
+    "display_name": "JoyCaption GGUF (avancé)",
+    "inputs": {
+      "image": {
+        "name": "image"
+      },
+      "model": {
+        "name": "modèle"
+      },
+      "processing_mode": {
+        "name": "mode de traitement"
+      },
+      "prompt_style": {
+        "name": "style de prompt"
+      },
+      "caption_length": {
+        "name": "longueur de légende"
+      },
+      "max_new_tokens": {
+        "name": "nombre maximum de nouveaux tokens"
+      },
+      "temperature": {
+        "name": "température"
+      },
+      "top_p": {
+        "name": "top_p"
+      },
+      "top_k": {
+        "name": "top_k"
+      },
+      "custom_prompt": {
+        "name": "prompt personnalisé"
+      },
+      "memory_management": {
+        "name": "gestion de la mémoire"
+      },
+      "extra_options": {
+        "name": "options supplémentaires"
+      }
+    },
+    "outputs": {
+      "0": {
+        "name": "prompt"
+      },
+      "1": {
+        "name": "chaîne"
+      }
+    }
+  }
+}

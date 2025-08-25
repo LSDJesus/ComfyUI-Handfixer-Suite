@@ -1,0 +1,224 @@
+{
+  "ImageBatchPath": {
+    "display_name": "Image Batch Path 🖼️",
+    "inputs": {
+      "image_dir": {
+        "name": "image_dir"
+      },
+      "batch_size": {
+        "name": "batch_size"
+      },
+      "start_from": {
+        "name": "start_from"
+      },
+      "sort_method": {
+        "name": "sort_method"
+      }
+    },
+    "outputs": {
+      "0": {
+        "name": "image_path"
+      },
+      "1": {
+        "name": "image"
+      }
+    }
+  },
+  "CaptionSaver": {
+    "display_name": "Caption Saver 📝",
+    "inputs": {
+      "string": {
+        "name": "string"
+      },
+      "image_path": {
+        "name": "image_path"
+      },
+      "image": {
+        "name": "image"
+      },
+      "custom_output_path": {
+        "name": "custom_output_path"
+      },
+      "custom_file_name": {
+        "name": "custom_file_name"
+      },
+      "overwrite": {
+        "name": "overwrite"
+      }
+    },
+    "outputs": {
+      "0": {
+        "name": "STRING"
+      }
+    }
+  },
+  "JC": {
+    "display_name": "JoyCaption",
+    "inputs": {
+      "image": {
+        "name": "image"
+      },
+      "model": {
+        "name": "model"
+      },
+      "quantization": {
+        "name": "quantization"
+      },
+      "prompt_style": {
+        "name": "prompt_style"
+      },
+      "caption_length": {
+        "name": "caption_length"
+      },
+      "memory_management": {
+        "name": "memory_management"
+      },
+      "extra_options": {
+        "name": "extra_options"
+      }
+    },
+    "outputs": {
+      "0": {
+        "name": "STRING"
+      }
+    }
+  },
+  "JC_adv": {
+    "display_name": "JoyCaption (Advanced)",
+    "inputs": {
+      "image": {
+        "name": "image"
+      },
+      "model": {
+        "name": "model"
+      },
+      "quantization": {
+        "name": "quantization"
+      },
+      "prompt_style": {
+        "name": "prompt_style"
+      },
+      "caption_length": {
+        "name": "caption_length"
+      },
+      "max_new_tokens": {
+        "name": "max_new_tokens"
+      },
+      "temperature": {
+        "name": "temperature"
+      },
+      "top_p": {
+        "name": "top_p"
+      },
+      "top_k": {
+        "name": "top_k"
+      },
+      "custom_prompt": {
+        "name": "custom_prompt"
+      },
+      "memory_management": {
+        "name": "memory_management"
+      },
+      "extra_options": {
+        "name": "extra_options"
+      }
+    },
+    "outputs": {
+      "0": {
+        "name": "PROMPT"
+      },
+      "1": {
+        "name": "STRING"
+      }
+    }
+  },
+  "JC_ExtraOptions": {
+    "display_name": "JoyCaption Extra Options",
+    "inputs": {},
+    "outputs": {
+      "0": {
+        "name": "extra_options"
+      }
+    }
+  },
+  "JC_GGUF": {
+    "display_name": "JoyCaption GGUF",
+    "inputs": {
+      "image": {
+        "name": "image"
+      },
+      "model": {
+        "name": "model"
+      },
+      "processing_mode": {
+        "name": "processing_mode"
+      },
+      "prompt_style": {
+        "name": "prompt_style"
+      },
+      "caption_length": {
+        "name": "caption_length"
+      },
+      "memory_management": {
+        "name": "memory_management"
+      },
+      "extra_options": {
+        "name": "extra_options"
+      }
+    },
+    "outputs": {
+      "0": {
+        "name": "STRING"
+      }
+    }
+  },
+  "JC_GGUF_adv": {
+    "display_name": "JoyCaption GGUF (Advanced)",
+    "inputs": {
+      "image": {
+        "name": "image"
+      },
+      "model": {
+        "name": "model"
+      },
+      "processing_mode": {
+        "name": "processing_mode"
+      },
+      "prompt_style": {
+        "name": "prompt_style"
+      },
+      "caption_length": {
+        "name": "caption_length"
+      },
+      "max_new_tokens": {
+        "name": "max_new_tokens"
+      },
+      "temperature": {
+        "name": "temperature"
+      },
+      "top_p": {
+        "name": "top_p"
+      },
+      "top_k": {
+        "name": "top_k"
+      },
+      "custom_prompt": {
+        "name": "custom_prompt"
+      },
+      "memory_management": {
+        "name": "memory_management"
+      },
+      "extra_options": {
+        "name": "extra_options"
+      }
+    },
+    "outputs": {
+      "0": {
+        "name": "PROMPT"
+      },
+      "1": {
+        "name": "STRING"
+      }
+    }
+  }
+}
