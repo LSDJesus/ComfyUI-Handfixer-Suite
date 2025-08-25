@@ -1,0 +1,14 @@
+(standing, arms crossed:1.1), defensive, thoughtful, or annoyed
+(standing, hands on hips:1.1), confident, sassy, assertive
+(standing, hands in pockets:1.1), casual, relaxed, nonchalant
+(leaning against a wall:1.1), waiting, casual coolness
+(standing at attention:1.1), formal, rigid posture, respectful
+(one hand on hip:1.1), slightly sassy, posing for a photo
+(looking at phone:1.1), absorbed in screen, modern life
+(stretching arms overhead:1.1), yawning, waking up, feeling stiff
+(standing in a line:1.1), queueing, bored, waiting
+(tapping foot:1.1), impatient, nervous energy
+(waving:1.1), greeting, saying goodbye, friendly gesture
+(pointing at something:1.1), directing attention, explaining
+(hands clasped behind back:1.1), formal, at ease, thoughtful
+(shrugging:1.1), I don't know, uncertain, indifferent

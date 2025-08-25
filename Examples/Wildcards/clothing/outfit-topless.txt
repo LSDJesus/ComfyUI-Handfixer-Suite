@@ -1,0 +1,15 @@
+topless, __clothing/bdsm-gear__
+topless, __clothing/bot-leggings__
+topless, __clothing/bot-panties__
+topless, __clothing/bot-panties__ __clothing/bot-panties-actions__
+topless, __clothing/bot-pants__
+topless, __clothing/bot-shorts__
+topless, __clothing/bot-skirt__
+topless, __clothing/bot-tights__
+topless, __clothing/lingerie__
+topless, __clothing/outfit-athletic__
+topless, __clothing/outfit-dress__
+topless, __clothing/outfit-lingerie__
+topless, __clothing/outfit-suit__
+topless, __clothing/outfit-suit-fictional__
+topless, __clothing/outfit-swimwear__

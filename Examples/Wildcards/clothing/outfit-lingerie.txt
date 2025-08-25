@@ -1,0 +1,12 @@
+__color__ __clothing/lingerie__
+__color__ __clothing/bot-panties__, __color__ __clothing/top-bra__
+__color__ __clothing/bot-panties__, __color__  __clothing/top-corset__
+__color__ __clothing/bot-panties__ and __clothing/top-bra__
+__color__ __clothing/bot-panties__ and  __clothing/top-corset__
+
+
+
+
+
+
+

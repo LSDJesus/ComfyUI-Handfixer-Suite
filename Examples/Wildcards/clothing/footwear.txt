@@ -1,0 +1,5 @@
+__clothing/footwear-boots__
+__clothing/footwear-heels__
+__clothing/footwear-sandals__
+__clothing/footwear-shoes__
+__clothing/footwear-slippers__

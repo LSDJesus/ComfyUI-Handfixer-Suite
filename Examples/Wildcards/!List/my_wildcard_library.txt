@@ -1,0 +1,4137 @@
+Folder PATH listing for volume Storage
+Volume serial number is E836-AE70
+D:.
+¦   .gitattributes
+¦   accessory.txt
+¦   action.txt
+¦   andi-lora_yoga_poses.txt
+¦   body.txt
+¦   color.txt
+¦   comp.txt
+¦   example.txt
+¦   expression.txt
+¦   eyes.txt
+¦   hair.txt
+¦   LICENSE
+¦   lighting.txt
+¦   location.txt
+¦   my_wildcard_library.txt
+¦   outfit.txt
+¦   skin.txt
+¦   
++---!Unsorted_Wildcards
+¦   ¦   billions_of_all_in_one.yaml
+¦   ¦   billions_of_characters_nsfw.yaml
+¦   ¦   characters.yaml
+¦   ¦   fantasy_girls.yaml
+¦   ¦   gyNSFW.yaml
+¦   ¦   magic_only.yaml
+¦   ¦   
+¦   +---Cornflakes
+¦   ¦       corn-flakes-aio-bundle.yaml
+¦   ¦       corn-flakes-alien.yaml
+¦   ¦       corn-flakes-animal-costume.yaml
+¦   ¦       corn-flakes-basemodel.yaml
+¦   ¦       corn-flakes-elf.yaml
+¦   ¦       corn-flakes-fairy.yaml
+¦   ¦       corn-flakes-hitek-soldier.yaml
+¦   ¦       corn-flakes-lingerie.yaml
+¦   ¦       corn-flakes-location.yaml
+¦   ¦       corn-flakes-maid.yaml
+¦   ¦       corn-flakes-mistress.yaml
+¦   ¦       corn-flakes-model.yaml
+¦   ¦       corn-flakes-romance-scene.yaml
+¦   ¦       corn-flakes-school-student.yaml
+¦   ¦       corn-flakes-sex-pose.yaml
+¦   ¦       corn-flakes-succubus.yaml
+¦   ¦       
+¦   +---danbooru
+¦   ¦       angle.txt
+¦   ¦       bg.yaml
+¦   ¦       body.yaml
+¦   ¦       clothes.yaml
+¦   ¦       colors.txt
+¦   ¦       face.yaml
+¦   ¦       hair.yaml
+¦   ¦       nudity.yaml
+¦   ¦       perspective.txt
+¦   ¦       pose.yaml
+¦   ¦       positions.txt
+¦   ¦       prompts.txt
+¦   ¦       shading.txt
+¦   ¦       styles.txt
+¦   ¦       techniques.txt
+¦   ¦       
+¦   +---FormalizedNosmg
+¦   ¦   ¦   TR_AllCharacters.txt
+¦   ¦   ¦   TR_BadEnds.txt
+¦   ¦   ¦   TR_NSFWPrompts.txt
+¦   ¦   ¦   TR_SFWPrompts.txt
+¦   ¦   ¦   __README.txt
+¦   ¦   ¦   __YOU_NEED_NEGPIP.txt
+¦   ¦   ¦   
+¦   ¦   +---NSFW
+¦   ¦   ¦       TR_AfterSex.txt
+¦   ¦   ¦       TR_Blowjobs.txt
+¦   ¦   ¦       TR_CockWorshipPoses.txt
+¦   ¦   ¦       TR_NSFWRandomActions.txt
+¦   ¦   ¦       TR_Pole_Dancing.txt
+¦   ¦   ¦       TR_SexPoses.txt
+¦   ¦   ¦       
+¦   ¦   +---SFW
+¦   ¦   ¦       TR_CharacterSheetRandomClothes.txt
+¦   ¦   ¦       TR_SFWRandomActions.txt
+¦   ¦   ¦       
+¦   ¦   +---TR_Backgrounds
+¦   ¦   ¦   ¦   TR_BG_Stylized.txt
+¦   ¦   ¦   ¦   TR_Loc_FromMedia.txt
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---Indoors
+¦   ¦   ¦   ¦       TR_Loc_FantasyIndoors.txt
+¦   ¦   ¦   ¦       TR_Loc_ModernIndoors.txt
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---Outdoors
+¦   ¦   ¦   ¦       TR_Loc_FantasyOutdoors.txt
+¦   ¦   ¦   ¦       TR_Loc_ModernOutdoors.txt
+¦   ¦   ¦   ¦       TR_Loc_NatureOutdoors.txt
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---TR_Loc_Details
+¦   ¦   ¦           TR_LocDet_Night.txt
+¦   ¦   ¦           
+¦   ¦   +---TR_Characters
+¦   ¦   ¦   ¦   TR_Cha_Memes.txt
+¦   ¦   ¦   ¦   TR_Cha_OtherMisc.txt
+¦   ¦   ¦   ¦   TR_Cha_VTubers.txt
+¦   ¦   ¦   ¦   TR_FemboysTraps.txt
+¦   ¦   ¦   ¦   TR_Futa.txt
+¦   ¦   ¦   ¦   TR_MiscFurryCharacters.txt
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---Anime
+¦   ¦   ¦   ¦   ¦   TR_Cha_ChainsawMan.txt
+¦   ¦   ¦   ¦   ¦   TR_Cha_FairyTail.txt
+¦   ¦   ¦   ¦   ¦   TR_Cha_Fate.txt
+¦   ¦   ¦   ¦   ¦   TR_Cha_GirlsUndPanzer.txt
+¦   ¦   ¦   ¦   ¦   TR_Cha_KemonoFriends.txt
+¦   ¦   ¦   ¦   ¦   TR_Cha_Konosuba.txt
+¦   ¦   ¦   ¦   ¦   TR_Cha_MadokaMagica.txt
+¦   ¦   ¦   ¦   ¦   TR_Cha_Maidragon.txt
+¦   ¦   ¦   ¦   ¦   TR_Cha_MonsterMusume.txt
+¦   ¦   ¦   ¦   ¦   TR_Cha_RWBY.txt
+¦   ¦   ¦   ¦   ¦   TR_Cha_SailorMoon.txt
+¦   ¦   ¦   ¦   ¦   TR_MiscAnimeCharacters.txt
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---GainaxAndTrigger
+¦   ¦   ¦   ¦   ¦       TR_Cha_Evangelion.txt
+¦   ¦   ¦   ¦   ¦       TR_Cha_KillLaKill.txt
+¦   ¦   ¦   ¦   ¦       TR_Cha_LittleWitchAcademia.txt
+¦   ¦   ¦   ¦   ¦       TR_Cha_MiscGainaxCharacters.txt
+¦   ¦   ¦   ¦   ¦       TR_Cha_MiscTriggerCharacters.txt
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---ShounenJump
+¦   ¦   ¦   ¦           TR_Cha_Bleach.txt
+¦   ¦   ¦   ¦           TR_Cha_BokunoHero.txt
+¦   ¦   ¦   ¦           TR_Cha_DragonBall.txt
+¦   ¦   ¦   ¦           TR_Cha_MiscJump.txt
+¦   ¦   ¦   ¦           TR_Cha_Naruto.txt
+¦   ¦   ¦   ¦           TR_Cha_OnePiece.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---Cartoon&Movies
+¦   ¦   ¦   ¦   ¦   TR_Cha_AvatarTLAB&Korra.txt
+¦   ¦   ¦   ¦   ¦   TR_Cha_DisneyPixar.txt
+¦   ¦   ¦   ¦   ¦   TR_Cha_PPG.txt
+¦   ¦   ¦   ¦   ¦   TR_Cha_StarWars.txt
+¦   ¦   ¦   ¦   ¦   TR_Cha_StevenUniverse.txt
+¦   ¦   ¦   ¦   ¦   TR_MiscAnimatedMovieCharacters.txt
+¦   ¦   ¦   ¦   ¦   TR_MiscCartoonCharacters.txt
+¦   ¦   ¦   ¦   ¦   TR_MiscMovieCharacters.txt
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---MLP
+¦   ¦   ¦   ¦           TR_Cha_MLPNotPonies.txt
+¦   ¦   ¦   ¦           TR_Cha_MLP_BackgroundCharacters.txt
+¦   ¦   ¦   ¦           TR_Cha_MLP_Mane6.txt
+¦   ¦   ¦   ¦           TR_Cha_MLP_PrincessesAndVillains.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---Comics
+¦   ¦   ¦   ¦       TR_Cha_DC.txt
+¦   ¦   ¦   ¦       TR_Cha_Marvel.txt
+¦   ¦   ¦   ¦       TR_MiscComicBookCharacters.txt
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---Games
+¦   ¦   ¦   ¦   ¦   TR_Cha_BlueArchive.txt
+¦   ¦   ¦   ¦   ¦   TR_Cha_Cyberpunk2077.txt
+¦   ¦   ¦   ¦   ¦   TR_Cha_Danganronpa.txt
+¦   ¦   ¦   ¦   ¦   TR_Cha_DokiDokiLC.txt
+¦   ¦   ¦   ¦   ¦   TR_Cha_Genshin.txt
+¦   ¦   ¦   ¦   ¦   TR_Cha_GuiltyGear.txt
+¦   ¦   ¦   ¦   ¦   TR_Cha_Helltaker.txt
+¦   ¦   ¦   ¦   ¦   TR_Cha_Kancolle.txt
+¦   ¦   ¦   ¦   ¦   TR_Cha_KoF.txt
+¦   ¦   ¦   ¦   ¦   TR_Cha_LeagueOfLegends.txt
+¦   ¦   ¦   ¦   ¦   TR_Cha_MassEffect.txt
+¦   ¦   ¦   ¦   ¦   TR_Cha_MortalKombat.txt
+¦   ¦   ¦   ¦   ¦   TR_Cha_Skullgirls.txt
+¦   ¦   ¦   ¦   ¦   TR_Cha_SoulsBorne.txt
+¦   ¦   ¦   ¦   ¦   TR_Cha_Touhou.txt
+¦   ¦   ¦   ¦   ¦   TR_Cha_Undertale&DR.txt
+¦   ¦   ¦   ¦   ¦   TR_Cha_Witcher.txt
+¦   ¦   ¦   ¦   ¦   TR_MiscVideoGameCharacters.txt
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---BandaiNamco
+¦   ¦   ¦   ¦   ¦       TR_Cha_Idolmaster.txt
+¦   ¦   ¦   ¦   ¦       TR_Cha_MiscBandaiNamco.txt
+¦   ¦   ¦   ¦   ¦       TR_Cha_Tekken.txt
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---Blizzard
+¦   ¦   ¦   ¦   ¦       TR_Cha_Overwatch.txt
+¦   ¦   ¦   ¦   ¦       TR_Cha_Warcraft.txt
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---Capcom
+¦   ¦   ¦   ¦   ¦       TR_Cha_MiscCapcom.txt
+¦   ¦   ¦   ¦   ¦       TR_Cha_ResidentEvil.txt
+¦   ¦   ¦   ¦   ¦       TR_Cha_StreetFighter.txt
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---KoeiTecmo
+¦   ¦   ¦   ¦   ¦       TR_Cha_DoA.txt
+¦   ¦   ¦   ¦   ¦       TR_Cha_MiscKoTec.txt
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---Nintendo
+¦   ¦   ¦   ¦   ¦       TR_Cha_FireEmblem.txt
+¦   ¦   ¦   ¦   ¦       TR_Cha_Mario.txt
+¦   ¦   ¦   ¦   ¦       TR_Cha_MiscNintendo.txt
+¦   ¦   ¦   ¦   ¦       TR_Cha_Pokemon.txt
+¦   ¦   ¦   ¦   ¦       TR_Cha_PokemonFurry.txt
+¦   ¦   ¦   ¦   ¦       TR_Cha_Splatoon.txt
+¦   ¦   ¦   ¦   ¦       TR_Cha_Xenoblade.txt
+¦   ¦   ¦   ¦   ¦       TR_Cha_Zelda.txt
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---SEGA
+¦   ¦   ¦   ¦   ¦       TR_Cha_MiscSEGA.txt
+¦   ¦   ¦   ¦   ¦       TR_Cha_Persona.txt
+¦   ¦   ¦   ¦   ¦       TR_Cha_SonicTheHedgehog.txt
+¦   ¦   ¦   ¦   ¦       TR_Cha_Vocaloid.txt
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---SquareEnix
+¦   ¦   ¦   ¦           TR_Cha_FinalFantasy.txt
+¦   ¦   ¦   ¦           TR_Cha_MiscSqueenix.txt
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---MALES
+¦   ¦   ¦           TR_MChar_Anime.txt
+¦   ¦   ¦           TR_MChar_Cartoon.txt
+¦   ¦   ¦           TR_MChar_Comics.txt
+¦   ¦   ¦           TR_MChar_Furry.txt
+¦   ¦   ¦           TR_MChar_Videogames.txt
+¦   ¦   ¦           _MCHARREADME.txt
+¦   ¦   ¦           
+¦   ¦   +---TR_Other
+¦   ¦   ¦   ¦   TR_05to07.txt
+¦   ¦   ¦   ¦   TR_06to1.txt
+¦   ¦   ¦   ¦   TR_07to09.txt
+¦   ¦   ¦   ¦   TR_07to1.txt
+¦   ¦   ¦   ¦   TR_08to1.txt
+¦   ¦   ¦   ¦   TR_CamFraming.txt
+¦   ¦   ¦   ¦   TR_Chibi.txt
+¦   ¦   ¦   ¦   TR_Enhancers.txt
+¦   ¦   ¦   ¦   TR_GlowingMarkings.txt
+¦   ¦   ¦   ¦   TR_GlowingMarkingsBack.txt
+¦   ¦   ¦   ¦   TR_Makeup.txt
+¦   ¦   ¦   ¦   TR_MakeupGoth.txt
+¦   ¦   ¦   ¦   TR_Milf.txt
+¦   ¦   ¦   ¦   TR_MLMBAI.txt
+¦   ¦   ¦   ¦   TR_NTLL.txt
+¦   ¦   ¦   ¦   TR_PenisAdj.txt
+¦   ¦   ¦   ¦   TR_PenisAdj2.txt
+¦   ¦   ¦   ¦   TR_PenisAdj3.txt
+¦   ¦   ¦   ¦   TR_RandomMale.txt
+¦   ¦   ¦   ¦   TR_RMZer.txt
+¦   ¦   ¦   ¦   TR_SexBounce1.txt
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---Misc
+¦   ¦   ¦   ¦       TR_Loc_LocationsWithMatchingOutfitNSFW.txt
+¦   ¦   ¦   ¦       TR_Loc_LocationsWithMatchingOutfitSFW.txt
+¦   ¦   ¦   ¦       TR_Loc_LocWitMatOutNSFWTopOnly.txt
+¦   ¦   ¦   ¦       TR_Loc_UUFP.txt
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---TR_ColorMixer
+¦   ¦   ¦   ¦       TR_Colors.txt
+¦   ¦   ¦   ¦       TR_EtherealBlueTones.txt
+¦   ¦   ¦   ¦       TR_EtherealGreenTones.txt
+¦   ¦   ¦   ¦       TR_EtherealRedTones.txt
+¦   ¦   ¦   ¦       TR_EtherealYellowTones.txt
+¦   ¦   ¦   ¦       TR_VaporWaveColors.txt
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---TR_CstmStyles
+¦   ¦   ¦   ¦       TR_PulpFictionCover.txt
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---TR_Expressions
+¦   ¦   ¦           TR_AfterSexExp.txt
+¦   ¦   ¦           TR_AheAll.txt
+¦   ¦   ¦           TR_AheEyesForGagged.txt
+¦   ¦   ¦           TR_AheGaoExp1.txt
+¦   ¦   ¦           TR_AheGaoExp2.txt
+¦   ¦   ¦           TR_AheGaoExp3.txt
+¦   ¦   ¦           TR_AllSexExp.txt
+¦   ¦   ¦           TR_BrainWash1.txt
+¦   ¦   ¦           TR_ChibiExagExp.txt
+¦   ¦   ¦           TR_DomExp1.txt
+¦   ¦   ¦           TR_DomExp2.txt
+¦   ¦   ¦           TR_FlirtyAll.txt
+¦   ¦   ¦           TR_FlirtyExp1.txt
+¦   ¦   ¦           TR_FlirtyExp2.txt
+¦   ¦   ¦           TR_FlirtyExp3.txt
+¦   ¦   ¦           TR_HappyExp1.txt
+¦   ¦   ¦           TR_HappySexExp.txt
+¦   ¦   ¦           TR_HeartEyesForBJ.txt
+¦   ¦   ¦           TR_MindBrokenExp1.txt
+¦   ¦   ¦           TR_PoleDancExp1.txt
+¦   ¦   ¦           TR_RandomLookDirection.txt
+¦   ¦   ¦           TR_RandomMoods.txt
+¦   ¦   ¦           TR_RandomPositiveMoods.txt
+¦   ¦   ¦           TR_SexExpressions.txt
+¦   ¦   ¦           TR_SimpleBJExp1.txt
+¦   ¦   ¦           TR_SimpleKissExp1.txt
+¦   ¦   ¦           TR_SubExp1.txt
+¦   ¦   ¦           TR_SubExp2.txt
+¦   ¦   ¦           TR_ToroGaoExp1.txt
+¦   ¦   ¦           TR_ToroGaoExp2.txt
+¦   ¦   ¦           TR_ToroGaoExp3.txt
+¦   ¦   ¦           
+¦   ¦   +---TR_Outfits
+¦   ¦   ¦   ¦   Clo_TR_IconicClothesNSFW.txt
+¦   ¦   ¦   ¦   Clo_TR_IconicClothesSFW.txt
+¦   ¦   ¦   ¦   TR_AlternateHairStyles.txt
+¦   ¦   ¦   ¦   TR_BellyDancerNSFW.txt
+¦   ¦   ¦   ¦   TR_BellyDancerSFW.txt
+¦   ¦   ¦   ¦   TR_BrideNSFW.txt
+¦   ¦   ¦   ¦   TR_BrideSFW.txt
+¦   ¦   ¦   ¦   TR_BunnySuitNSFW.txt
+¦   ¦   ¦   ¦   TR_BunnySuitSFW.txt
+¦   ¦   ¦   ¦   TR_CasualNSFW.txt
+¦   ¦   ¦   ¦   TR_CasualSFW.txt
+¦   ¦   ¦   ¦   TR_CatBurglarNSFW.txt
+¦   ¦   ¦   ¦   TR_CatBurglarSFW.txt
+¦   ¦   ¦   ¦   TR_CheerleaderNSFW.txt
+¦   ¦   ¦   ¦   TR_CheerleaderSFW.txt
+¦   ¦   ¦   ¦   TR_ColorOutfitsForSheets.txt
+¦   ¦   ¦   ¦   TR_CowGirlNSFW.txt
+¦   ¦   ¦   ¦   TR_CowGirlSFW.txt
+¦   ¦   ¦   ¦   TR_CyberpunkClothes.txt
+¦   ¦   ¦   ¦   TR_CyberpunkPolicewomanNSFW.txt
+¦   ¦   ¦   ¦   TR_EgyptianNSFW.txt
+¦   ¦   ¦   ¦   TR_EgyptianSFW.txt
+¦   ¦   ¦   ¦   TR_EmoNSFW.txt
+¦   ¦   ¦   ¦   TR_EmoSFW.txt
+¦   ¦   ¦   ¦   TR_FormalDressNSFW.txt
+¦   ¦   ¦   ¦   TR_FormalDressSFW.txt
+¦   ¦   ¦   ¦   TR_GothNSFW.txt
+¦   ¦   ¦   ¦   TR_GothSFW.txt
+¦   ¦   ¦   ¦   TR_GyaruNSFW.txt
+¦   ¦   ¦   ¦   TR_GyaruSFW.txt
+¦   ¦   ¦   ¦   TR_GypsyNSFW.txt
+¦   ¦   ¦   ¦   TR_GypsySFW.txt
+¦   ¦   ¦   ¦   TR_HippieNSFW.txt
+¦   ¦   ¦   ¦   TR_HippieSFW.txt
+¦   ¦   ¦   ¦   TR_IdolNSFW.txt
+¦   ¦   ¦   ¦   TR_IdolSFW.txt
+¦   ¦   ¦   ¦   TR_LatexShrugNSFW.txt
+¦   ¦   ¦   ¦   TR_LibrarianNSFW.txt
+¦   ¦   ¦   ¦   TR_LibrarianSFW.txt
+¦   ¦   ¦   ¦   TR_Lingeries.txt
+¦   ¦   ¦   ¦   TR_LingeriesAlt.txt
+¦   ¦   ¦   ¦   TR_MagicalGirlCorruptedNSFW.txt
+¦   ¦   ¦   ¦   TR_MagicalGirlNSFW.txt
+¦   ¦   ¦   ¦   TR_MagicalGirlSFW.txt
+¦   ¦   ¦   ¦   TR_MaidNSFW.txt
+¦   ¦   ¦   ¦   TR_MaidSFW.txt
+¦   ¦   ¦   ¦   TR_MedievalNoble.txt
+¦   ¦   ¦   ¦   TR_MedievalRoyaltySFW.txt
+¦   ¦   ¦   ¦   TR_MilitaryNSFW.txt
+¦   ¦   ¦   ¦   TR_MilitarySFW.txt
+¦   ¦   ¦   ¦   TR_OfficeLadyNSFW.txt
+¦   ¦   ¦   ¦   TR_OfficeLadySFW.txt
+¦   ¦   ¦   ¦   TR_PirateNSFW.txt
+¦   ¦   ¦   ¦   TR_PirateSFW.txt
+¦   ¦   ¦   ¦   TR_PolicewomanNSFW.txt
+¦   ¦   ¦   ¦   TR_PolicewomanSFW.txt
+¦   ¦   ¦   ¦   TR_PunkNSFW.txt
+¦   ¦   ¦   ¦   TR_PunkSFW.txt
+¦   ¦   ¦   ¦   TR_RPGBarbarianNSFW.txt
+¦   ¦   ¦   ¦   TR_RPGBarbarianSFW.txt
+¦   ¦   ¦   ¦   TR_RPGDancerOutfitNSFW.txt
+¦   ¦   ¦   ¦   TR_RPGDancerOutfitSFW.txt
+¦   ¦   ¦   ¦   TR_RPGElfRogueSFW.txt
+¦   ¦   ¦   ¦   TR_RPGPaladinNSFW.txt
+¦   ¦   ¦   ¦   TR_RPGPaladinSFW.txt
+¦   ¦   ¦   ¦   TR_RPGSorceressNSFW.txt
+¦   ¦   ¦   ¦   TR_RPGSorceressSFW.txt
+¦   ¦   ¦   ¦   TR_SavageShamanNSFW.txt
+¦   ¦   ¦   ¦   TR_SavageWomanNSFW.txt
+¦   ¦   ¦   ¦   TR_SchoolGirlNSFW.txt
+¦   ¦   ¦   ¦   TR_SchoolGirlSFW.txt
+¦   ¦   ¦   ¦   TR_SciFiSpaceSuitNSFW.txt
+¦   ¦   ¦   ¦   TR_SciFiSpaceSuitSFW.txt
+¦   ¦   ¦   ¦   TR_SneakingSuit.txt
+¦   ¦   ¦   ¦   TR_SportswearNSFW.txt
+¦   ¦   ¦   ¦   TR_SportswearSFW.txt
+¦   ¦   ¦   ¦   TR_SteampunkNSFW.txt
+¦   ¦   ¦   ¦   TR_SteampunkSFW.txt
+¦   ¦   ¦   ¦   TR_StripperOutfit.txt
+¦   ¦   ¦   ¦   TR_TeacherNSFW.txt
+¦   ¦   ¦   ¦   TR_TeacherSFW.txt
+¦   ¦   ¦   ¦   TR_WitchNSFW.txt
+¦   ¦   ¦   ¦   TR_WitchSFW.txt
+¦   ¦   ¦   ¦   TR_WWESFW.txt
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---Acessories
+¦   ¦   ¦   ¦       TR_Glasses.txt
+¦   ¦   ¦   ¦       TR_SunGlasses.txt
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---Cyberpunk
+¦   ¦   ¦   ¦       TR_CypnkBody.txt
+¦   ¦   ¦   ¦       TR_CypnkBot.txt
+¦   ¦   ¦   ¦       TR_CypnkDet.txt
+¦   ¦   ¦   ¦       TR_CypnkFeet.txt
+¦   ¦   ¦   ¦       TR_CypnkHead.txt
+¦   ¦   ¦   ¦       TR_CypnkTop.txt
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---FemBoyVer
+¦   ¦   ¦   ¦       TR_GothNSFWFemB.txt
+¦   ¦   ¦   ¦       TR_PenisAdjFemb.txt
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---NormClothes
+¦   ¦   ¦   ¦       TR_CasualAccessories.txt
+¦   ¦   ¦   ¦       TR_CasualCloBott.txt
+¦   ¦   ¦   ¦       TR_CasualCloOverTop.txt
+¦   ¦   ¦   ¦       TR_CasualCloTop.txt
+¦   ¦   ¦   ¦       TR_CasualDresses.txt
+¦   ¦   ¦   ¦       TR_CasualFootwear.txt
+¦   ¦   ¦   ¦       TR_FormalCloTop.txt
+¦   ¦   ¦   ¦       TR_NormalAdj.txt
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---SluttyClothes
+¦   ¦   ¦   ¦       TR_SluttyAccessories.txt
+¦   ¦   ¦   ¦       TR_SluttyBott.txt
+¦   ¦   ¦   ¦       TR_SluttyTop.txt
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---Stripper
+¦   ¦   ¦   ¦       TR_StripBot.txt
+¦   ¦   ¦   ¦       TR_StripTop.txt
+¦   ¦   ¦   ¦       TR_Strip_AllP.txt
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---TopOnlyForPaizuriOrBJ
+¦   ¦   ¦           TR_BunnySuitTopNSFW.txt
+¦   ¦   ¦           TR_GothTopNSFW.txt
+¦   ¦   ¦           TR_GyaruTopNSFW.txt
+¦   ¦   ¦           TR_LatexShrugTopNSFW.txt
+¦   ¦   ¦           TR_LibrarianTopNSFW.txt
+¦   ¦   ¦           TR_MaidTopNSFW.txt
+¦   ¦   ¦           TR_PunkTopNSFW.txt
+¦   ¦   ¦           TR_SchoolGirlTopNSFW.txt
+¦   ¦   ¦           TR_SchoolGirlTopSFW.txt
+¦   ¦   ¦           TR_TeacherTopNSFW.txt
+¦   ¦   ¦           
+¦   ¦   +---TR_Styles
+¦   ¦   ¦       TR_Styles.txt
+¦   ¦   ¦       TR_Styles3D.txt
+¦   ¦   ¦       TR_StylesBakedInArtists.txt
+¦   ¦   ¦       TR_StylesOtherMedia.txt
+¦   ¦   ¦       
+¦   ¦   +---TR_Transformations
+¦   ¦           TR_Tra_Angel.txt
+¦   ¦           TR_Tra_Bimbo.txt
+¦   ¦           TR_Tra_CatGirl.txt
+¦   ¦           TR_Tra_DemonGirl.txt
+¦   ¦           TR_Tra_Furry.txt
+¦   ¦           TR_Tra_GoblinGirl.txt
+¦   ¦           TR_Tra_InsectGirl.txt
+¦   ¦           TR_Tra_Mermaid.txt
+¦   ¦           TR_Tra_OrcGirl.txt
+¦   ¦           TR_Tra_RobotGirl.txt
+¦   ¦           TR_Tra_RPGClasses.txt
+¦   ¦           TR_Tra_SonicOCDoNotSteal.txt
+¦   ¦           
+¦   +---Heterosexual couple SFW_NSFW
+¦   ¦   ¦   Heterosexual couple SFW_NSFW.yaml
+¦   ¦   ¦   
+¦   ¦   +---Heterosexual couple SFW_NSFW Sample image
+¦   ¦           00100-4065294520-40-Euler a-7.webp
+¦   ¦           00101-3609636197-40-Euler a-7.webp
+¦   ¦           00103-2350548246-40-Euler a-7.webp
+¦   ¦           00105-3158751954-40-Euler a-7.webp
+¦   ¦           00107-3434746697-40-Euler a-7.webp
+¦   ¦           00109-3819420628-40-Euler a-7.webp
+¦   ¦           00111-2293370622-40-Euler a-7.webp
+¦   ¦           00115-2808552279-40-Euler a-7.webp
+¦   ¦           00116-4222515177-25-Euler a-7.webp
+¦   ¦           00117-3603603406-25-Euler a-7.webp
+¦   ¦           00118-3603627619-25-Euler a-7.webp
+¦   ¦           00123-3741878034-25-Euler a-7.webp
+¦   ¦           00130-1560992815-25-Euler a-7.webp
+¦   ¦           00139-189211269-25-Euler a-7.webp
+¦   ¦           00140-3359978371-25-Euler a-7.webp
+¦   ¦           00143-3975962804-25-Euler a-7.webp
+¦   ¦           00144-1826989426-25-Euler a-7.webp
+¦   ¦           00148-488036102-25-Euler a-7.webp
+¦   ¦           00149-493323467-25-Euler a-7.webp
+¦   ¦           00152-1283673319-25-Euler a-7.webp
+¦   ¦           00154-1227011676-25-Euler a-7.webp
+¦   ¦           00158-2201696781-25-Euler a-7.webp
+¦   ¦           
+¦   +---IllustriousXLTheIdolmasterGirlsWildcards193_v20
+¦   ¦       283_alstroemeria.txt
+¦   ¦       283_cometik.txt
+¦   ¦       283_houkago_climax_girls.txt
+¦   ¦       283_idol_merge.txt
+¦   ¦       283_illumination_stars.txt
+¦   ¦       283_lantica.txt
+¦   ¦       283_noctchill.txt
+¦   ¦       283_shhis.txt
+¦   ¦       283_straylight.txt
+¦   ¦       346_cool.txt
+¦   ¦       346_cute.txt
+¦   ¦       346_idol_merge.txt
+¦   ¦       346_passion.txt
+¦   ¦       765_angel.txt
+¦   ¦       765_fairy.txt
+¦   ¦       765_idol_merge.txt
+¦   ¦       765_princess.txt
+¦   ¦       876_idol_girls.txt
+¦   ¦       idolmaster_girls_all_merge.txt
+¦   ¦       office_clerks.txt
+¦   ¦       
+¦   +---illustriousxl_magic
+¦   ¦   ¦   extra_spice.yaml
+¦   ¦   ¦   
+¦   ¦   +---cards
+¦   ¦   ¦   +---illustXL
+¦   ¦   ¦       +---extra_spice
+¦   ¦   ¦           +---magic
+¦   ¦   ¦                   blood_magic.jpeg
+¦   ¦   ¦                   charm_magic.jpeg
+¦   ¦   ¦                   cosmic_magic.jpeg
+¦   ¦   ¦                   cyber_magic.jpeg
+¦   ¦   ¦                   dark_magic.jpeg
+¦   ¦   ¦                   earth_magic.jpeg
+¦   ¦   ¦                   eldritch_magic.jpeg
+¦   ¦   ¦                   elec_magic.jpeg
+¦   ¦   ¦                   fae_magic.jpeg
+¦   ¦   ¦                   fire_magic.jpeg
+¦   ¦   ¦                   frost_magic.jpeg
+¦   ¦   ¦                   light_magic.jpeg
+¦   ¦   ¦                   magma_magic.jpeg
+¦   ¦   ¦                   metal_magic.jpeg
+¦   ¦   ¦                   psy_magic.jpeg
+¦   ¦   ¦                   runic_magic.jpeg
+¦   ¦   ¦                   soul_magic.jpeg
+¦   ¦   ¦                   time_magic.jpeg
+¦   ¦   ¦                   toxic_magic.jpeg
+¦   ¦   ¦                   water_magic.jpeg
+¦   ¦   ¦                   
+¦   ¦   +---metadata
+¦   ¦           tags_data.json
+¦   ¦           
+¦   +---illustriousxl_namedRaces
+¦   ¦   ¦   creator.yaml
+¦   ¦   ¦   
+¦   ¦   +---cards
+¦   ¦   ¦   +---illustXL
+¦   ¦   ¦       +---creator
+¦   ¦   ¦           +---body
+¦   ¦   ¦               +---race
+¦   ¦   ¦                   +---dragon_ball
+¦   ¦   ¦                   ¦       majin.jpg
+¦   ¦   ¦                   ¦       saiyan.jpg
+¦   ¦   ¦                   ¦       super_saiyan.jpg
+¦   ¦   ¦                   ¦       
+¦   ¦   ¦                   +---final_fantasy
+¦   ¦   ¦                   ¦       au_ra.jpg
+¦   ¦   ¦                   ¦       lalafell.jpg
+¦   ¦   ¦                   ¦       Miqo_te.jpg
+¦   ¦   ¦                   ¦       viera.jpg
+¦   ¦   ¦                   ¦       
+¦   ¦   ¦                   +---granblue_fantasy
+¦   ¦   ¦                   ¦       draph.jpg
+¦   ¦   ¦                   ¦       erune.jpg
+¦   ¦   ¦                   ¦       harvin.jpg
+¦   ¦   ¦                   ¦       
+¦   ¦   ¦                   +---other
+¦   ¦   ¦                   ¦       abyssal_ship.jpg
+¦   ¦   ¦                   ¦       autobot.jpg
+¦   ¦   ¦                   ¦       cyberpsycho.jpg
+¦   ¦   ¦                   ¦       dunmer.jpg
+¦   ¦   ¦                   ¦       gerudo.jpg
+¦   ¦   ¦                   ¦       houseki.jpg
+¦   ¦   ¦                   ¦       inkling.jpg
+¦   ¦   ¦                   ¦       lyn.jpg
+¦   ¦   ¦                   ¦       machine_lifeform.jpg
+¦   ¦   ¦                   ¦       omnic.jpg
+¦   ¦   ¦                   ¦       sheikah.jpg
+¦   ¦   ¦                   ¦       symbiote_host.jpg
+¦   ¦   ¦                   ¦       xenomorph.jpg
+¦   ¦   ¦                   ¦       yorha.jpg
+¦   ¦   ¦                   ¦       
+¦   ¦   ¦                   +---warcraft
+¦   ¦   ¦                           blood_elf.jpg
+¦   ¦   ¦                           draenei.jpg
+¦   ¦   ¦                           night_elf.jpg
+¦   ¦   ¦                           orc.jpg
+¦   ¦   ¦                           troll.jpg
+¦   ¦   ¦                           
+¦   ¦   +---metadata
+¦   ¦           tags_data.json
+¦   ¦           
+¦   +---illustXL
+¦   ¦   ¦   Demidex.yaml
+¦   ¦   ¦   
+¦   ¦   +---cards
+¦   ¦   ¦   +---illustXL
+¦   ¦   ¦       +---demidex
+¦   ¦   ¦           +---abyssal
+¦   ¦   ¦           ¦       corpus_oni.jpeg
+¦   ¦   ¦           ¦       dream_succubus.jpeg
+¦   ¦   ¦           ¦       mindflayer.jpeg
+¦   ¦   ¦           ¦       night_succubus.jpeg
+¦   ¦   ¦           ¦       shapeshifter.jpeg
+¦   ¦   ¦           ¦       soul_oni.jpeg
+¦   ¦   ¦           ¦       
+¦   ¦   ¦           +---amorphus
+¦   ¦   ¦           ¦       alcha_slime.jpeg
+¦   ¦   ¦           ¦       dew_slime.jpeg
+¦   ¦   ¦           ¦       mana_slime.jpeg
+¦   ¦   ¦           ¦       phermo_slime.jpeg
+¦   ¦   ¦           ¦       vitality_slime.jpeg
+¦   ¦   ¦           ¦       
+¦   ¦   ¦           +---amphibian
+¦   ¦   ¦           ¦       ada_lamia.jpeg
+¦   ¦   ¦           ¦       arcto_lamia.jpeg
+¦   ¦   ¦           ¦       dae_lamia.jpeg
+¦   ¦   ¦           ¦       draco_lamia.jpeg
+¦   ¦   ¦           ¦       lake_forg.jpeg
+¦   ¦   ¦           ¦       scarlet_lamia.jpeg
+¦   ¦   ¦           ¦       swamp_lamia.jpeg
+¦   ¦   ¦           ¦       
+¦   ¦   ¦           +---avians
+¦   ¦   ¦           ¦       albino_harpy.jpeg
+¦   ¦   ¦           ¦       bat.jpeg
+¦   ¦   ¦           ¦       forest_harpy.jpeg
+¦   ¦   ¦           ¦       owl.jpeg
+¦   ¦   ¦           ¦       snow_harpy.jpeg
+¦   ¦   ¦           ¦       
+¦   ¦   ¦           +---beastkin
+¦   ¦   ¦           ¦   +---bovids
+¦   ¦   ¦           ¦   ¦       albino_Holstaur.jpeg
+¦   ¦   ¦           ¦   ¦       cave_minotaur.jpeg
+¦   ¦   ¦           ¦   ¦       forest_minotaur.jpeg
+¦   ¦   ¦           ¦   ¦       highland_Holstaur.jpeg
+¦   ¦   ¦           ¦   ¦       Holstaur.jpeg
+¦   ¦   ¦           ¦   ¦       sheepin.jpeg
+¦   ¦   ¦           ¦   ¦       umbra_sheepin.jpeg
+¦   ¦   ¦           ¦   ¦       
+¦   ¦   ¦           ¦   +---bunari
+¦   ¦   ¦           ¦   ¦       cinis_bunari.jpeg
+¦   ¦   ¦           ¦   ¦       nix_bunari.jpeg
+¦   ¦   ¦           ¦   ¦       rosa_bunari.jpeg
+¦   ¦   ¦           ¦   ¦       terra_bunari.jpeg
+¦   ¦   ¦           ¦   ¦       
+¦   ¦   ¦           ¦   +---catfolk
+¦   ¦   ¦           ¦   ¦       Archivineko.jpeg
+¦   ¦   ¦           ¦   ¦       kleptoneko.jpeg
+¦   ¦   ¦           ¦   ¦       lion_catfolk.jpeg
+¦   ¦   ¦           ¦   ¦       primal_cat.jpeg
+¦   ¦   ¦           ¦   ¦       shironeko.jpeg
+¦   ¦   ¦           ¦   ¦       tiger_catfolk.jpeg
+¦   ¦   ¦           ¦   ¦       
+¦   ¦   ¦           ¦   +---centaur
+¦   ¦   ¦           ¦   ¦       ada_centaur.jpeg
+¦   ¦   ¦           ¦   ¦       aqua_centaur.jpeg
+¦   ¦   ¦           ¦   ¦       colles_centaur.jpeg
+¦   ¦   ¦           ¦   ¦       pony_centaur.jpeg
+¦   ¦   ¦           ¦   ¦       zebra_centaur.jpeg
+¦   ¦   ¦           ¦   ¦       
+¦   ¦   ¦           ¦   +---ratin
+¦   ¦   ¦           ¦   ¦       hampter.jpeg
+¦   ¦   ¦           ¦   ¦       Ratin.jpeg
+¦   ¦   ¦           ¦   ¦       
+¦   ¦   ¦           ¦   +---ursine
+¦   ¦   ¦           ¦   ¦       polar_ursine.jpeg
+¦   ¦   ¦           ¦   ¦       ursine.jpeg
+¦   ¦   ¦           ¦   ¦       
+¦   ¦   ¦           ¦   +---wolfkin
+¦   ¦   ¦           ¦           arcto_wolfkin.jpeg
+¦   ¦   ¦           ¦           chihu_wolfkin.jpeg
+¦   ¦   ¦           ¦           dire_wolfkin.jpeg
+¦   ¦   ¦           ¦           dober_wolfkin.jpeg
+¦   ¦   ¦           ¦           hellhound.jpg
+¦   ¦   ¦           ¦           primal_wolf.jpeg
+¦   ¦   ¦           ¦           wolfkin_hound.jpeg
+¦   ¦   ¦           ¦           
+¦   ¦   ¦           +---celestial
+¦   ¦   ¦           ¦       valkyrie_delta.jpeg
+¦   ¦   ¦           ¦       valkyrie_zeta.jpeg
+¦   ¦   ¦           ¦       
+¦   ¦   ¦           +---constructs
+¦   ¦   ¦           ¦       automaton_doll.jpeg
+¦   ¦   ¦           ¦       earth_golem.jpeg
+¦   ¦   ¦           ¦       magma_golem.jpeg
+¦   ¦   ¦           ¦       miniral_golem.jpeg
+¦   ¦   ¦           ¦       soul_doll.jpeg
+¦   ¦   ¦           ¦       
+¦   ¦   ¦           +---draconic
+¦   ¦   ¦           ¦       calamity_dragon.jpeg
+¦   ¦   ¦           ¦       coast_wyvern.jpeg
+¦   ¦   ¦           ¦       Drake.jpeg
+¦   ¦   ¦           ¦       kobold.jpeg
+¦   ¦   ¦           ¦       land_dragon.jpeg
+¦   ¦   ¦           ¦       salamander.jpeg
+¦   ¦   ¦           ¦       silver_dragon.jpeg
+¦   ¦   ¦           ¦       wyrm.jpeg
+¦   ¦   ¦           ¦       wyvern.jpeg
+¦   ¦   ¦           ¦       
+¦   ¦   ¦           +---elfs
+¦   ¦   ¦           ¦       deep_elf.jpeg
+¦   ¦   ¦           ¦       noct_elf.jpeg
+¦   ¦   ¦           ¦       sun_elf.jpeg
+¦   ¦   ¦           ¦       wood_elf.jpeg
+¦   ¦   ¦           ¦       
+¦   ¦   ¦           +---florans
+¦   ¦   ¦           ¦       amanitan.jpeg
+¦   ¦   ¦           ¦       aroma_alraune.jpeg
+¦   ¦   ¦           ¦       cacti.jpeg
+¦   ¦   ¦           ¦       dryad.jpeg
+¦   ¦   ¦           ¦       
+¦   ¦   ¦           +---humans
+¦   ¦   ¦           ¦       highlander.jpeg
+¦   ¦   ¦           ¦       noburi.jpeg
+¦   ¦   ¦           ¦       nomad.jpeg
+¦   ¦   ¦           ¦       
+¦   ¦   ¦           +---insectoid
+¦   ¦   ¦           ¦       arachne.jpeg
+¦   ¦   ¦           ¦       bee.jpeg
+¦   ¦   ¦           ¦       fae.jpeg
+¦   ¦   ¦           ¦       
+¦   ¦   ¦           +---orcish
+¦   ¦   ¦           ¦       goblin.jpeg
+¦   ¦   ¦           ¦       ogre.jpeg
+¦   ¦   ¦           ¦       orc.jpeg
+¦   ¦   ¦           ¦       
+¦   ¦   ¦           +---spirits
+¦   ¦   ¦           ¦       aqua.jpeg
+¦   ¦   ¦           ¦       ifrit.jpeg
+¦   ¦   ¦           ¦       
+¦   ¦   ¦           +---undead
+¦   ¦   ¦                   ancient_vampire.jpeg
+¦   ¦   ¦                   banshee.jpeg
+¦   ¦   ¦                   basic_mummy.jpeg
+¦   ¦   ¦                   crude_poltergeist.jpeg
+¦   ¦   ¦                   dullahan.jpeg
+¦   ¦   ¦                   feral_vampire.jpeg
+¦   ¦   ¦                   ghost.jpeg
+¦   ¦   ¦                   ghoul.jpeg
+¦   ¦   ¦                   jiangshi.jpeg
+¦   ¦   ¦                   lich.jpeg
+¦   ¦   ¦                   royal_mummy.jpeg
+¦   ¦   ¦                   vampire_nobility.jpeg
+¦   ¦   ¦                   will_o_wisp.jpeg
+¦   ¦   ¦                   wraith.jpeg
+¦   ¦   ¦                   zombie.jpeg
+¦   ¦   ¦                   
+¦   ¦   +---metadata
+¦   ¦           tags_data.json
+¦   ¦           
+¦   +---immersiveRoleplay_v10
+¦   ¦       roleplays.yaml
+¦   ¦       
+¦   +---lazyWildcards
+¦   ¦       billions_of_all_in_one.yaml
+¦   ¦       corn-flakes-aio-bundle-sex.yaml
+¦   ¦       corn-flakes-daoist-priest.yaml
+¦   ¦       corn-flakes-jiangshi.yaml
+¦   ¦       corn-flakes-martial-artist.yaml
+¦   ¦       corn-flakes-onmyoji.yaml
+¦   ¦       lazy-wildcards.yaml
+¦   ¦       README.md
+¦   ¦       
+¦   +---Maybelle
+¦   ¦   ¦   blindfold.txt
+¦   ¦   ¦   bondage.txt
+¦   ¦   ¦   camtilt.txt
+¦   ¦   ¦   era.txt
+¦   ¦   ¦   expression.txt
+¦   ¦   ¦   eyecolor.txt
+¦   ¦   ¦   gag.txt
+¦   ¦   ¦   haircolor.txt
+¦   ¦   ¦   hairlength.txt
+¦   ¦   ¦   hairstyle.txt
+¦   ¦   ¦   looking.txt
+¦   ¦   ¦   lying.txt
+¦   ¦   ¦   nationality.txt
+¦   ¦   ¦   perspective.txt
+¦   ¦   ¦   perspective2.txt
+¦   ¦   ¦   posture.txt
+¦   ¦   ¦   severity.txt
+¦   ¦   ¦   
+¦   ¦   +---Additions
+¦   ¦           background.txt
+¦   ¦           
+¦   +---Nightfall
+¦   ¦       cyberpunk_camera_angles.txt
+¦   ¦       cyberpunk_character_details.txt
+¦   ¦       cyberpunk_emotions.txt
+¦   ¦       cyberpunk_fashion.txt
+¦   ¦       cyberpunk_lighting.txt
+¦   ¦       cyberpunk_setting.txt
+¦   ¦       cyberpunk_vehicles.txt
+¦   ¦       cyberpunk_weapons.txt
+¦   ¦       cyberpunk_weather.txt
+¦   ¦       nightfalljumpernsfw_blowjob_actions.txt
+¦   ¦       nightfalljumpernsfw_blowjob_expressions.txt
+¦   ¦       nightfalljumpernsfw_blowjob_fluids.txt
+¦   ¦       nightfalljumpernsfw_blowjob_poses.txt
+¦   ¦       nightfalljumpernsfw_male_body.txt
+¦   ¦       nightfalljumpernsfw_male_color.txt
+¦   ¦       nightfalljumpernsfw_male_genitals.txt
+¦   ¦       nightfalljumpernsfw_male_size.txt
+¦   ¦       nightfalljumpernsfw_male_view_angles.txt
+¦   ¦       nightfalljumperpose_girl_dynamic.txt
+¦   ¦       nightfalljumperpose_girl_static.txt
+¦   ¦       nightfalljumper_bikinis.txt
+¦   ¦       nightfalljumper_bras.txt
+¦   ¦       NightfallJumper_buildAbody_abdomen_type.txt
+¦   ¦       NightfallJumper_buildAbody_age_body_traits.txt
+¦   ¦       NightfallJumper_buildAbody_arms.txt
+¦   ¦       NightfallJumper_buildAbody_back_shape.txt
+¦   ¦       NightfallJumper_buildAbody_body_hair.txt
+¦   ¦       NightfallJumper_buildAbody_body_shape.txt
+¦   ¦       NightfallJumper_buildAbody_breast_size.txt
+¦   ¦       NightfallJumper_buildAbody_combo_proportion.txt
+¦   ¦       NightfallJumper_buildAbody_cybernetic_mods.txt
+¦   ¦       NightfallJumper_buildAbody_fantasy_body_type.txt
+¦   ¦       NightfallJumper_buildAbody_height.txt
+¦   ¦       NightfallJumper_buildAbody_hip_shape.txt
+¦   ¦       NightfallJumper_buildAbody_leg_shape.txt
+¦   ¦       NightfallJumper_buildAbody_muscle_definition.txt
+¦   ¦       NightfallJumper_buildAbody_navel_type.txt
+¦   ¦       NightfallJumper_buildAbody_neck_type.txt
+¦   ¦       NightfallJumper_buildAbody_posture_symmetry.txt
+¦   ¦       NightfallJumper_buildAbody_shoulders.txt
+¦   ¦       NightfallJumper_buildAbody_skin_texture_tone.txt
+¦   ¦       NightfallJumper_buildAbody_torso_shape.txt
+¦   ¦       NightfallJumper_buildAbody_waist.txt
+¦   ¦       NightfallJumper_buildAbody_weight_range.txt
+¦   ¦       nightfalljumper_clothing_combo.txt
+¦   ¦       nightfalljumper_face_accessory_cosplay_fetish.txt
+¦   ¦       nightfalljumper_face_accessory_decorative_horror.txt
+¦   ¦       nightfalljumper_face_accessory_erotic.txt
+¦   ¦       nightfalljumper_face_accessory_eyewear.txt
+¦   ¦       nightfalljumper_face_accessory_jewelry.txt
+¦   ¦       nightfalljumper_face_accessory_masks.txt
+¦   ¦       nightfalljumper_face_accessory_sci-fi_fantasy.txt
+¦   ¦       nightfalljumper_furniture.txt
+¦   ¦       nightfalljumper_gazer.txt
+¦   ¦       nightfalljumper_hair_accessory.txt
+¦   ¦       nightfalljumper_hair_color.txt
+¦   ¦       nightfalljumper_hair_length.txt
+¦   ¦       nightfalljumper_hair_style.txt
+¦   ¦       nightfalljumper_hair_styles.txt
+¦   ¦       nightfalljumper_heels.txt
+¦   ¦       nightfalljumper_jackets.txt
+¦   ¦       nightfalljumper_location.txt
+¦   ¦       nightfalljumper_panties.txt
+¦   ¦       nightfalljumper_pants.txt
+¦   ¦       nightfalljumper_shoes.txt
+¦   ¦       nightfalljumper_skirts.txt
+¦   ¦       nightfalljumper_socks.txt
+¦   ¦       nightfalljumper_spa_character_position.txt
+¦   ¦       nightfalljumper_spa_clothing.txt
+¦   ¦       nightfalljumper_spa_combo.txt
+¦   ¦       nightfalljumper_spa_lighting.txt
+¦   ¦       nightfalljumper_spa_location.txt
+¦   ¦       nightfalljumper_spa_mood_ambiance.txt
+¦   ¦       nightfalljumper_spa_props.txt
+¦   ¦       nightfalljumper_spa_reactions.txt
+¦   ¦       nightfalljumper_spa_roles.txt
+¦   ¦       nightfalljumper_spa_room_type.txt
+¦   ¦       nightfalljumper_spa_service_activity.txt
+¦   ¦       nightfalljumper_spa_soundscape.txt
+¦   ¦       nightfalljumper_spa_staff_clothing.txt
+¦   ¦       nightfalljumper_spa_surface.txt
+¦   ¦       nightfalljumper_spa_type.txt
+¦   ¦       nightfalljumper_spa_water_level.txt
+¦   ¦       nightfalljumper_stripclub_audience.txt
+¦   ¦       nightfalljumper_stripclub_background.txt
+¦   ¦       nightfalljumper_stripclub_combo.txt
+¦   ¦       nightfalljumper_stripclub_environment.txt
+¦   ¦       nightfalljumper_stripclub_lighting.txt
+¦   ¦       nightfalljumper_stripclub_outfit.txt
+¦   ¦       nightfalljumper_stripclub_outfit_fancy.txt
+¦   ¦       nightfalljumper_stripclub_outfit_revealing.txt
+¦   ¦       nightfalljumper_stripclub_outfit_slut.txt
+¦   ¦       nightfalljumper_stripclub_performer_action.txt
+¦   ¦       nightfalljumper_stripclub_pose.txt
+¦   ¦       nightfalljumper_stripclub_props.txt
+¦   ¦       nightfalljumper_stripclub_room.txt
+¦   ¦       nightfalljumper_stripclub_room_backstage.txt
+¦   ¦       nightfalljumper_stripclub_room_bar_lounge.txt
+¦   ¦       nightfalljumper_stripclub_room_dance_rooms.txt
+¦   ¦       nightfalljumper_stripclub_room_stage_area.txt
+¦   ¦       nightfalljumper_stripclub_room_themed_rooms.txt
+¦   ¦       nightfalljumper_stripclub_room_vip_private.txt
+¦   ¦       nightfalljumper_stripclub_type.txt
+¦   ¦       nightfalljumper_surface.txt
+¦   ¦       nightfalljumper_time_of_day.txt
+¦   ¦       nightfalljumper_tops.txt
+¦   ¦       nightfalljumper_ultrarandomizer_expanded.txt
+¦   ¦       nightfalljumper_ultrarandomizer_extremized.txt
+¦   ¦       nightfalljumper_ultrarandomizer_superunleashed.txt
+¦   ¦       nightfallnsfw_action.txt
+¦   ¦       nightfallnsfw_camera.txt
+¦   ¦       nightfallnsfw_characters.txt
+¦   ¦       nightfallnsfw_expression.txt
+¦   ¦       nightfallnsfw_extreme_kinks.txt
+¦   ¦       nightfallnsfw_ffm.txt
+¦   ¦       nightfallnsfw_maleonfemale.txt
+¦   ¦       nightfallnsfw_mfm.txt
+¦   ¦       nightfallnsfw_palette.txt
+¦   ¦       nightfallnsfw_pose.txt
+¦   ¦       nightfallnsfw_setting.txt
+¦   ¦       nightfallnsfw_vehicle.txt
+¦   ¦       nightfallnsfw_weapons.txt
+¦   ¦       nightfallnsfw_weather.txt
+¦   ¦       
+¦   +---ponyxlWildcardsVault_artstylesIII
+¦   ¦   ¦   PonyXl-artstyles.yaml
+¦   ¦   ¦   
+¦   ¦   +---thumbnails
+¦   ¦       +---ponyxl
+¦   ¦           +---artstyle
+¦   ¦               ¦   SKIP.jpeg
+¦   ¦               ¦   
+¦   ¦               +---angular
+¦   ¦               ¦       cutesexyrobutts.jpeg
+¦   ¦               ¦       eduuux.jpeg
+¦   ¦               ¦       joelasko.jpeg
+¦   ¦               ¦       powzin.jpeg
+¦   ¦               ¦       r-mk.jpeg
+¦   ¦               ¦       spring2013.jpeg
+¦   ¦               ¦       tukiwani.jpeg
+¦   ¦               ¦       x55.jpeg
+¦   ¦               ¦       xx115.jpeg
+¦   ¦               ¦       xx160.jpeg
+¦   ¦               ¦       xx188.jpeg
+¦   ¦               ¦       xx25.jpeg
+¦   ¦               ¦       xx29.jpeg
+¦   ¦               ¦       xx63.jpeg
+¦   ¦               ¦       xx88.jpeg
+¦   ¦               ¦       xx90.jpeg
+¦   ¦               ¦       xx93.jpeg
+¦   ¦               ¦       
+¦   ¦               +---bold
+¦   ¦               ¦       cyancapsule.jpeg
+¦   ¦               ¦       maniacpaint.jpeg
+¦   ¦               ¦       mina_cream.jpeg
+¦   ¦               ¦       pumpkinsinclair.jpeg
+¦   ¦               ¦       roadi3.jpeg
+¦   ¦               ¦       twinkle-sez.jpeg
+¦   ¦               ¦       ubanis.jpeg
+¦   ¦               ¦       xx100.jpeg
+¦   ¦               ¦       xx136.jpeg
+¦   ¦               ¦       xx151.jpeg
+¦   ¦               ¦       xx175.jpeg
+¦   ¦               ¦       xx179.jpeg
+¦   ¦               ¦       xx2.jpeg
+¦   ¦               ¦       xx24.jpeg
+¦   ¦               ¦       xx28.jpeg
+¦   ¦               ¦       xx45.jpeg
+¦   ¦               ¦       xx53.jpeg
+¦   ¦               ¦       
+¦   ¦               +---bright
+¦   ¦               ¦       Bonifasko.jpeg
+¦   ¦               ¦       damao_yu.jpeg
+¦   ¦               ¦       flou_art.jpeg
+¦   ¦               ¦       gweda.jpeg
+¦   ¦               ¦       hews.jpeg
+¦   ¦               ¦       jtveemo.jpeg
+¦   ¦               ¦       tofuubear.jpeg
+¦   ¦               ¦       vader-san.jpeg
+¦   ¦               ¦       xx125.jpeg
+¦   ¦               ¦       xx131.jpeg
+¦   ¦               ¦       xx148.jpeg
+¦   ¦               ¦       xx167.jpeg
+¦   ¦               ¦       
+¦   ¦               +---clean
+¦   ¦               ¦       ayanakitori.jpeg
+¦   ¦               ¦       blue-senpai.jpeg
+¦   ¦               ¦       bosshi.jpeg
+¦   ¦               ¦       cle_masahiro.jpeg
+¦   ¦               ¦       fensu-san.jpeg
+¦   ¦               ¦       ke-ta.jpeg
+¦   ¦               ¦       kinkymation.jpeg
+¦   ¦               ¦       mk_mod0.jpeg
+¦   ¦               ¦       mukka.jpeg
+¦   ¦               ¦       tsudamaku.jpeg
+¦   ¦               ¦       uo_denim.jpeg
+¦   ¦               ¦       xx101.jpeg
+¦   ¦               ¦       xx112.jpeg
+¦   ¦               ¦       xx123.jpeg
+¦   ¦               ¦       xx13.jpeg
+¦   ¦               ¦       xx139.jpeg
+¦   ¦               ¦       xx153.jpeg
+¦   ¦               ¦       xx20.jpeg
+¦   ¦               ¦       xx33.jpeg
+¦   ¦               ¦       xx40.jpeg
+¦   ¦               ¦       xx44.jpeg
+¦   ¦               ¦       xx5.jpeg
+¦   ¦               ¦       xx6.jpeg
+¦   ¦               ¦       xx62.jpeg
+¦   ¦               ¦       xx74.jpeg
+¦   ¦               ¦       
+¦   ¦               +---curvy
+¦   ¦               ¦       alp.jpeg
+¦   ¦               ¦       aster_crowley.jpeg
+¦   ¦               ¦       cham22.jpeg
+¦   ¦               ¦       chamchami.jpeg
+¦   ¦               ¦       chelodoy.jpeg
+¦   ¦               ¦       cyancapsule.jpeg
+¦   ¦               ¦       fellatrix.jpeg
+¦   ¦               ¦       jabara_tornado.jpeg
+¦   ¦               ¦       kase_daiki.jpeg
+¦   ¦               ¦       kelvin_hiu.jpeg
+¦   ¦               ¦       konno_tohiro.jpeg
+¦   ¦               ¦       Kunaboto.jpeg
+¦   ¦               ¦       mamamimi.jpeg
+¦   ¦               ¦       metal_owl.jpeg
+¦   ¦               ¦       modeseven.jpeg
+¦   ¦               ¦       moisture.jpeg
+¦   ¦               ¦       momo_no_sukebe.jpeg
+¦   ¦               ¦       natedecock.jpeg
+¦   ¦               ¦       orushibu.jpeg
+¦   ¦               ¦       osiimi.jpeg
+¦   ¦               ¦       pochincoff.jpeg
+¦   ¦               ¦       rkrk12.jpeg
+¦   ¦               ¦       ryuun.jpeg
+¦   ¦               ¦       siu.jpeg
+¦   ¦               ¦       sunhyun.jpeg
+¦   ¦               ¦       xx121.jpeg
+¦   ¦               ¦       xx122.jpeg
+¦   ¦               ¦       xx124.jpeg
+¦   ¦               ¦       xx159.jpeg
+¦   ¦               ¦       xx22.jpeg
+¦   ¦               ¦       xx23.jpeg
+¦   ¦               ¦       xx31.jpeg
+¦   ¦               ¦       xx94.jpeg
+¦   ¦               ¦       
+¦   ¦               +---cute
+¦   ¦               ¦       aaaa.jpeg
+¦   ¦               ¦       abmayo.jpeg
+¦   ¦               ¦       akashio.jpeg
+¦   ¦               ¦       dagasi.jpeg
+¦   ¦               ¦       deadflow.jpeg
+¦   ¦               ¦       konpeto.jpeg
+¦   ¦               ¦       kurokoshou.jpeg
+¦   ¦               ¦       minato_ojitan.jpeg
+¦   ¦               ¦       null_nya.jpeg
+¦   ¦               ¦       sumiyao.jpeg
+¦   ¦               ¦       wagashi.jpeg
+¦   ¦               ¦       xx118.jpeg
+¦   ¦               ¦       xx27.jpeg
+¦   ¦               ¦       xx30.jpeg
+¦   ¦               ¦       zanamaoria.jpeg
+¦   ¦               ¦       zankuro.jpeg
+¦   ¦               ¦       
+¦   ¦               +---detailed
+¦   ¦               ¦       belko.jpeg
+¦   ¦               ¦       
+¦   ¦               +---diverse
+¦   ¦               ¦       agawa_ryou.jpeg
+¦   ¦               ¦       jcm2.jpeg
+¦   ¦               ¦       pepper0.jpeg
+¦   ¦               ¦       xx181.jpeg
+¦   ¦               ¦       xx189.jpeg
+¦   ¦               ¦       
+¦   ¦               +---doujinshi
+¦   ¦               ¦       nakamura_regura.jpeg
+¦   ¦               ¦       wagashi.jpeg
+¦   ¦               ¦       
+¦   ¦               +---experimental
+¦   ¦               ¦       blend22.jpeg
+¦   ¦               ¦       synthetic2.jpeg
+¦   ¦               ¦       xx102.jpeg
+¦   ¦               ¦       xx110.jpeg
+¦   ¦               ¦       xx111.jpeg
+¦   ¦               ¦       xx158.jpeg
+¦   ¦               ¦       xx165.jpeg
+¦   ¦               ¦       xx185.jpeg
+¦   ¦               ¦       xx72.jpeg
+¦   ¦               ¦       
+¦   ¦               +---filter
+¦   ¦               ¦       comic.jpeg
+¦   ¦               ¦       photo.jpeg
+¦   ¦               ¦       
+¦   ¦               +---natural
+¦   ¦               ¦       happoubi_jin.jpeg
+¦   ¦               ¦       ikuchan.jpeg
+¦   ¦               ¦       minakami.jpeg
+¦   ¦               ¦       miyase_mahiro.jpeg
+¦   ¦               ¦       mogudan.jpeg
+¦   ¦               ¦       soso.jpeg
+¦   ¦               ¦       xx126.jpeg
+¦   ¦               ¦       xx129.jpeg
+¦   ¦               ¦       xx130.jpeg
+¦   ¦               ¦       xx135.jpeg
+¦   ¦               ¦       xx16.jpeg
+¦   ¦               ¦       xx171.jpeg
+¦   ¦               ¦       xx176.jpeg
+¦   ¦               ¦       xx19.jpeg
+¦   ¦               ¦       xx36.jpeg
+¦   ¦               ¦       xx71.jpeg
+¦   ¦               ¦       xx89.jpeg
+¦   ¦               ¦       
+¦   ¦               +---render
+¦   ¦               ¦       artnip.jpeg
+¦   ¦               ¦       game_cgi.jpeg
+¦   ¦               ¦       koikatsu.jpeg
+¦   ¦               ¦       rude_frog.jpeg
+¦   ¦               ¦       xx64.jpeg
+¦   ¦               ¦       
+¦   ¦               +---retro
+¦   ¦               ¦       azasuke.jpeg
+¦   ¦               ¦       bluethebone.jpeg
+¦   ¦               ¦       ppp1409.jpeg
+¦   ¦               ¦       screencap.jpeg
+¦   ¦               ¦       umanosuke.jpeg
+¦   ¦               ¦       xter.jpeg
+¦   ¦               ¦       xx156.jpeg
+¦   ¦               ¦       xx161.jpeg
+¦   ¦               ¦       xx26.jpeg
+¦   ¦               ¦       xx42.jpeg
+¦   ¦               ¦       xx65.jpeg
+¦   ¦               ¦       xx92.jpeg
+¦   ¦               ¦       yukishitadou.jpeg
+¦   ¦               ¦       
+¦   ¦               +---semi_realistic
+¦   ¦               ¦       asura.jpeg
+¦   ¦               ¦       dandon_fuga.jpeg
+¦   ¦               ¦       firolian.jpeg
+¦   ¦               ¦       jellytits-7.jpeg
+¦   ¦               ¦       kidmo.jpeg
+¦   ¦               ¦       lasterk.jpeg
+¦   ¦               ¦       miyuki.jpeg
+¦   ¦               ¦       momo_no_sukebe.jpeg
+¦   ¦               ¦       personal_ami.jpeg
+¦   ¦               ¦       rebis.jpeg
+¦   ¦               ¦       sakimichan.jpeg
+¦   ¦               ¦       shiory.jpeg
+¦   ¦               ¦       xx113.jpeg
+¦   ¦               ¦       xx134.jpeg
+¦   ¦               ¦       xx144.jpeg
+¦   ¦               ¦       xx59.jpeg
+¦   ¦               ¦       xx78.jpeg
+¦   ¦               ¦       xx79.jpeg
+¦   ¦               ¦       
+¦   ¦               +---shiny
+¦   ¦               ¦       ganessa.jpeg
+¦   ¦               ¦       xx104.jpeg
+¦   ¦               ¦       xx108.jpeg
+¦   ¦               ¦       
+¦   ¦               +---soft
+¦   ¦               ¦       xx169.jpeg
+¦   ¦               ¦       xx172.jpeg
+¦   ¦               ¦       xx177.jpeg
+¦   ¦               ¦       
+¦   ¦               +---styled
+¦   ¦               ¦       afrobull.jpeg
+¦   ¦               ¦       boris.jpeg
+¦   ¦               ¦       cream_cod.jpeg
+¦   ¦               ¦       doxy.jpeg
+¦   ¦               ¦       grilsay.jpeg
+¦   ¦               ¦       hews.jpeg
+¦   ¦               ¦       incase.jpeg
+¦   ¦               ¦       ishikei.jpeg
+¦   ¦               ¦       kairunoburogu.jpeg
+¦   ¦               ¦       lumineko.jpeg
+¦   ¦               ¦       mirai_hikari.jpeg
+¦   ¦               ¦       mizumizuni.jpeg
+¦   ¦               ¦       mleonheart.jpeg
+¦   ¦               ¦       mo.jpeg
+¦   ¦               ¦       murakami_suigun.jpeg
+¦   ¦               ¦       nanashi.jpeg
+¦   ¦               ¦       neocoill.jpeg
+¦   ¦               ¦       nephlite.jpeg
+¦   ¦               ¦       peculiart.jpeg
+¦   ¦               ¦       reiq.jpeg
+¦   ¦               ¦       rsqkr.jpeg
+¦   ¦               ¦       saltyxodium.jpeg
+¦   ¦               ¦       slugbox.jpeg
+¦   ¦               ¦       SplashBrush.jpeg
+¦   ¦               ¦       sunna.jpeg
+¦   ¦               ¦       tailzkim.jpeg
+¦   ¦               ¦       xx1.jpeg
+¦   ¦               ¦       xx12.jpeg
+¦   ¦               ¦       xx127.jpeg
+¦   ¦               ¦       xx132.jpeg
+¦   ¦               ¦       xx138.jpeg
+¦   ¦               ¦       xx14.jpeg
+¦   ¦               ¦       xx140.jpeg
+¦   ¦               ¦       xx142.jpeg
+¦   ¦               ¦       xx152.jpeg
+¦   ¦               ¦       xx155.jpeg
+¦   ¦               ¦       xx17.jpeg
+¦   ¦               ¦       xx170.jpeg
+¦   ¦               ¦       xx178.jpeg
+¦   ¦               ¦       xx180.jpeg
+¦   ¦               ¦       xx183.jpeg
+¦   ¦               ¦       xx21.jpeg
+¦   ¦               ¦       xx3.jpeg
+¦   ¦               ¦       xx46.jpeg
+¦   ¦               ¦       xx49.jpeg
+¦   ¦               ¦       xx54.jpeg
+¦   ¦               ¦       xx67.jpeg
+¦   ¦               ¦       xx7.jpeg
+¦   ¦               ¦       xx8.jpeg
+¦   ¦               ¦       xx96.jpeg
+¦   ¦               ¦       yomu.jpeg
+¦   ¦               ¦       
+¦   ¦               +---toonish
+¦   ¦               ¦       frumples.jpeg
+¦   ¦               ¦       jack_cayless.jpeg
+¦   ¦               ¦       lunaflame.jpeg
+¦   ¦               ¦       x119.jpeg
+¦   ¦               ¦       xx120.jpeg
+¦   ¦               ¦       xx133.jpeg
+¦   ¦               ¦       xx141.jpeg
+¦   ¦               ¦       xx163.jpeg
+¦   ¦               ¦       xx48.jpeg
+¦   ¦               ¦       xx51.jpeg
+¦   ¦               ¦       xx56.jpeg
+¦   ¦               ¦       xx81.jpeg
+¦   ¦               ¦       xx82.jpeg
+¦   ¦               ¦       xx83.jpeg
+¦   ¦               ¦       xx91.jpeg
+¦   ¦               ¦       
+¦   ¦               +---untested
+¦   ¦               ¦       w1.jpeg
+¦   ¦               ¦       w2.jpeg
+¦   ¦               ¦       
+¦   ¦               +---vivid
+¦   ¦               ¦       fumihiko.jpeg
+¦   ¦               ¦       hinghoi.jpeg
+¦   ¦               ¦       xx106.jpeg
+¦   ¦               ¦       xx117.jpeg
+¦   ¦               ¦       xx146.jpeg
+¦   ¦               ¦       xx147.jpeg
+¦   ¦               ¦       xx150.jpeg
+¦   ¦               ¦       xx154.jpeg
+¦   ¦               ¦       xx162.jpeg
+¦   ¦               ¦       xx173.jpeg
+¦   ¦               ¦       xx34.jpeg
+¦   ¦               ¦       xx35.jpeg
+¦   ¦               ¦       xx38.jpeg
+¦   ¦               ¦       xx41.jpeg
+¦   ¦               ¦       xx68.jpeg
+¦   ¦               ¦       xx69.jpeg
+¦   ¦               ¦       xx80.jpeg
+¦   ¦               ¦       
+¦   ¦               +---warm
+¦   ¦                       animeflux.jpeg
+¦   ¦                       bigrbear.jpeg
+¦   ¦                       bluefield.jpeg
+¦   ¦                       camonome.jpeg
+¦   ¦                       dezz.jpeg
+¦   ¦                       dross.jpeg
+¦   ¦                       galaxist.jpeg
+¦   ¦                       houtengeki.jpeg
+¦   ¦                       lamb-oic029.jpeg
+¦   ¦                       m-da_s-tarou.jpeg
+¦   ¦                       mdf_an.jpeg
+¦   ¦                       nonamoth.jpeg
+¦   ¦                       panken.jpeg
+¦   ¦                       randomboobguy.jpeg
+¦   ¦                       scorpdk.jpeg
+¦   ¦                       thon2hk.jpeg
+¦   ¦                       xx103.jpeg
+¦   ¦                       xx105.jpeg
+¦   ¦                       xx114.jpeg
+¦   ¦                       xx116.jpeg
+¦   ¦                       xx128.jpeg
+¦   ¦                       xx145.jpeg
+¦   ¦                       xx149.jpeg
+¦   ¦                       xx187.jpeg
+¦   ¦                       xx38.jpeg
+¦   ¦                       xx47.jpeg
+¦   ¦                       xx50.jpeg
+¦   ¦                       xx52.jpeg
+¦   ¦                       xx58.jpeg
+¦   ¦                       xx73.jpeg
+¦   ¦                       xx75.jpeg
+¦   ¦                       xx76.jpeg
+¦   ¦                       xx95.jpeg
+¦   ¦                       xx97.jpeg
+¦   ¦                       xx98.jpeg
+¦   ¦                       xx99.jpeg
+¦   ¦                       
+¦   +---quintuplePOrPresentingPussy_v10
+¦   ¦   +---Add quintupleP to Prompt Gallery
+¦   ¦       ¦   PonyXl-poses.yaml
+¦   ¦       ¦   
+¦   ¦       +---thumbnails
+¦   ¦           +---ponyxl
+¦   ¦               +---actions
+¦   ¦                   +---posing
+¦   ¦                       +---all_fours
+¦   ¦                       ¦       all_fours.jpeg
+¦   ¦                       ¦       
+¦   ¦                       +---bent_over
+¦   ¦                       ¦       bent_over_upside-down_from_below.jpeg
+¦   ¦                       ¦       
+¦   ¦                       +---folded
+¦   ¦                       ¦       folded_upside-down.jpeg
+¦   ¦                       ¦       
+¦   ¦                       +---lying
+¦   ¦                       ¦       lying_on_back_folded.jpeg
+¦   ¦                       ¦       lying_on_back_legs_up.jpeg
+¦   ¦                       ¦       lying_on_back_spread_legs.jpeg
+¦   ¦                       ¦       lying_on_side.jpeg
+¦   ¦                       ¦       lying_on_stomach.jpeg
+¦   ¦                       ¦       
+¦   ¦                       +---pretzel
+¦   ¦                       ¦       pretzel_pose.jpeg
+¦   ¦                       ¦       
+¦   ¦                       +---sitting
+¦   ¦                       ¦       sitting.jpeg
+¦   ¦                       ¦       sitting_backwards.jpeg
+¦   ¦                       ¦       
+¦   ¦                       +---squatting
+¦   ¦                       ¦       squatting.jpeg
+¦   ¦                       ¦       squatting__from_behind.jpeg
+¦   ¦                       ¦       
+¦   ¦                       +---standing
+¦   ¦                       ¦       standing.jpeg
+¦   ¦                       ¦       standing_from_behind.jpeg
+¦   ¦                       ¦       standing_split.jpeg
+¦   ¦                       ¦       standing_split_from_below.jpeg
+¦   ¦                       ¦       
+¦   ¦                       +---stepping_on_viewer
+¦   ¦                               stepping_on_viewer.jpeg
+¦   ¦                               
+¦   +---segsWildcards_positions
+¦   ¦   +---stable-diffusion-webui-forge
+¦   ¦       +---extensions
+¦   ¦           +---sd-dynamic-prompts
+¦   ¦           ¦   +---wildcards
+¦   ¦           ¦           SEX-POSITIONS.yaml
+¦   ¦           ¦           
+¦   ¦           +---wildcard-gallery
+¦   ¦               +---cards
+¦   ¦                   +---SEX
+¦   ¦                       +---POSITIONS
+¦   ¦                               Amazon.card
+¦   ¦                               Amazon.jpeg
+¦   ¦                               Anvil.card
+¦   ¦                               Anvil.jpeg
+¦   ¦                               Cowgirl.card
+¦   ¦                               Cowgirl.jpeg
+¦   ¦                               Doggystyle.card
+¦   ¦                               Doggystyle.jpeg
+¦   ¦                               Full_Nelson.card
+¦   ¦                               Full_Nelson.jpeg
+¦   ¦                               Mating_Press.card
+¦   ¦                               Mating_Press.jpeg
+¦   ¦                               Missionary.card
+¦   ¦                               Missionary.jpeg
+¦   ¦                               Piledriver.card
+¦   ¦                               Piledriver.jpeg
+¦   ¦                               Prone_Bone.card
+¦   ¦                               Prone_Bone.jpeg
+¦   ¦                               Reverse_Cowgirl.card
+¦   ¦                               Reverse_Cowgirl.jpeg
+¦   ¦                               Reverse_Spitroast.card
+¦   ¦                               Reverse_Spitroast.jpeg
+¦   ¦                               Reverse_Suspended_Congress.card
+¦   ¦                               Reverse_Suspended_Congress.jpeg
+¦   ¦                               Reverse_Upright_Straddle.card
+¦   ¦                               Reverse_Upright_Straddle.jpeg
+¦   ¦                               Spitroast.card
+¦   ¦                               Spitroast.jpeg
+¦   ¦                               Spooning.card
+¦   ¦                               Spooning.jpeg
+¦   ¦                               Suspended_Congress.card
+¦   ¦                               Suspended_Congress.jpeg
+¦   ¦                               Upright_Straddle.card
+¦   ¦                               Upright_Straddle.jpeg
+¦   ¦                               
+¦   +---swarmWildcardsGorgeous_v10
+¦   ¦       broademotions.txt
+¦   ¦       cameraangles.txt
+¦   ¦       cities.txt
+¦   ¦       clothesbottoms.txt
+¦   ¦       clothesnn.txt
+¦   ¦       clothesnnpublic.txt
+¦   ¦       clothestops.txt
+¦   ¦       clothestopsdemure.txt
+¦   ¦       clothestopsnn.txt
+¦   ¦       clothingfrills.txt
+¦   ¦       colors.txt
+¦   ¦       deepdressnecks.txt
+¦   ¦       dressnecks.txt
+¦   ¦       dressstyles.txt
+¦   ¦       eyebrows.txt
+¦   ¦       eyes.txt
+¦   ¦       eyeshapes.txt
+¦   ¦       fabrics.txt
+¦   ¦       facemods.txt
+¦   ¦       faceshapes.txt
+¦   ¦       fasteners.txt
+¦   ¦       flags.txt
+¦   ¦       haircolors.txt
+¦   ¦       hairmods.txt
+¦   ¦       hairstraightness.txt
+¦   ¦       hairstylescore.txt
+¦   ¦       handsstanding.txt
+¦   ¦       happyemotions.txt
+¦   ¦       indoorhouselocations.txt
+¦   ¦       jewelrymaterials.txt
+¦   ¦       jewels.txt
+¦   ¦       lighting.txt
+¦   ¦       lipstickcolors.txt
+¦   ¦       liptstick colors.txt
+¦   ¦       looks.txt
+¦   ¦       makeup.txt
+¦   ¦       metalliccolors.txt
+¦   ¦       movies.txt
+¦   ¦       mutedcolors.txt
+¦   ¦       nationalities.txt
+¦   ¦       necklaces.txt
+¦   ¦       orgasmemotions.txt
+¦   ¦       outdoorhouselocations.txt
+¦   ¦       patterns.txt
+¦   ¦       positions.txt
+¦   ¦       positionsaerial.txt
+¦   ¦       positionslying.txt
+¦   ¦       positionssitting.txt
+¦   ¦       positionsstanding.txt
+¦   ¦       positionsvertical.txt
+¦   ¦       publiclocations.txt
+¦   ¦       realnames.txt
+¦   ¦       shoes.txt
+¦   ¦       skintones.txt
+¦   ¦       sleeves.txt
+¦   ¦       socks.txt
+¦   ¦       softcolors.txt
+¦   ¦       sweaterfabrics.txt
+¦   ¦       videogames.txt
+¦   ¦       videosexemotions.txt
+¦   ¦       womanbedrooms.txt
+¦   ¦       womanbeds.txt
+¦   ¦       words1.txt
+¦   ¦       words2.txt
+¦   ¦       
+¦   +---thePromptBuilder_v21PonyIllustrious
+¦   ¦       background_abstract.txt
+¦   ¦       background_asian.txt
+¦   ¦       background_bathtub.txt
+¦   ¦       background_beautiful.txt
+¦   ¦       background_beds.txt
+¦   ¦       background_buildings.txt
+¦   ¦       background_caves.txt
+¦   ¦       background_city_streets.txt
+¦   ¦       background_crowded_place.txt
+¦   ¦       background_fantasy_themed.txt
+¦   ¦       background_furry.txt
+¦   ¦       background_futuristic.txt
+¦   ¦       background_horror_place.txt
+¦   ¦       background_interiors.txt
+¦   ¦       background_interiors_fantasy.txt
+¦   ¦       background_monster_girl.txt
+¦   ¦       background_movie.txt
+¦   ¦       background_other.txt
+¦   ¦       background_school.txt
+¦   ¦       background_spaceships.txt
+¦   ¦       background_spooky.txt
+¦   ¦       background_weather.txt
+¦   ¦       body_anthro.txt
+¦   ¦       body_breast_size.txt
+¦   ¦       body_nipples.txt
+¦   ¦       body_penis.txt
+¦   ¦       body_penis_animal.txt
+¦   ¦       body_pubes.txt
+¦   ¦       body_skin_color_fanatsy.txt
+¦   ¦       body_tail.txt
+¦   ¦       body_tattoos.txt
+¦   ¦       body_vaginas.txt
+¦   ¦       body_vaginas_animal.txt
+¦   ¦       body_wings.txt
+¦   ¦       clothing_accessories.txt
+¦   ¦       clothing_asian.txt
+¦   ¦       clothing_christmas.txt
+¦   ¦       clothing_damaged.txt
+¦   ¦       clothing_dress.txt
+¦   ¦       clothing_female_bottom.txt
+¦   ¦       clothing_female_erotic.txt
+¦   ¦       clothing_female_fantasy.txt
+¦   ¦       clothing_female_futuristic.txt
+¦   ¦       clothing_female_horror.txt
+¦   ¦       clothing_female_swimsuits.txt
+¦   ¦       clothing_female_top.txt
+¦   ¦       clothing_female_undies.txt
+¦   ¦       clothing_full_female.txt
+¦   ¦       clothing_gamer_accessories.txt
+¦   ¦       clothing_hats.txt
+¦   ¦       clothing_lingerie.txt
+¦   ¦       clothing_male_bottom.txt
+¦   ¦       clothing_male_top.txt
+¦   ¦       clothing_panties.txt
+¦   ¦       clothing_pantyhose.txt
+¦   ¦       clothing_sets_female.txt
+¦   ¦       clothing_shoes.txt
+¦   ¦       clothing_stockings.txt
+¦   ¦       face_beards.txt
+¦   ¦       face_ears_fantasy.txt
+¦   ¦       face_expression.txt
+¦   ¦       face_eyes.txt
+¦   ¦       face_hair_female.txt
+¦   ¦       face_hair_male.txt
+¦   ¦       face_horns.txt
+¦   ¦       face_horns_fantasy.txt
+¦   ¦       face_makeup.txt
+¦   ¦       face_teeth.txt
+¦   ¦       fantasy_races.txt
+¦   ¦       food_detailed.txt
+¦   ¦       food_fruits.txt
+¦   ¦       food_snacks.txt
+¦   ¦       food_vegetables.txt
+¦   ¦       other_animals.txt
+¦   ¦       other_bugs.txt
+¦   ¦       other_camera.txt
+¦   ¦       other_camera_lens.txt
+¦   ¦       other_color.txt
+¦   ¦       other_color_duo.txt
+¦   ¦       other_color_palette.txt
+¦   ¦       other_filter.txt
+¦   ¦       other_full_character_prompts.txt
+¦   ¦       other_gems.txt
+¦   ¦       other_lighting.txt
+¦   ¦       other_material.txt
+¦   ¦       other_melee_weapons.txt
+¦   ¦       other_monster.txt
+¦   ¦       other_movie_horror.txt
+¦   ¦       other_pattern.txt
+¦   ¦       other_perspective.txt
+¦   ¦       other_plants.txt
+¦   ¦       other_post_processing.txt
+¦   ¦       other_shader.txt
+¦   ¦       other_style.txt
+¦   ¦       other_textures.txt
+¦   ¦       other_vechicle.txt
+¦   ¦       other_video_games.txt
+¦   ¦       pose.txt
+¦   ¦       pose_action.txt
+¦   ¦       pose_dance.txt
+¦   ¦       pose_erotic.txt
+¦   ¦       pose_extra.txt
+¦   ¦       pose_grim_face.txt
+¦   ¦       pose_hand_gestures.txt
+¦   ¦       pose_magic.txt
+¦   ¦       pose_sex.txt
+¦   ¦       pose_sinister.txt
+¦   ¦       scenario_abstract.txt
+¦   ¦       scenario_christmas.txt
+¦   ¦       scenario_fantasy.txt
+¦   ¦       scenario_fighting.txt
+¦   ¦       scenario_pirates.txt
+¦   ¦       scenario_scifi.txt
+¦   ¦       style_artistic.txt
+¦   ¦       style_comic.txt
+¦   ¦       style_movie.txt
+¦   ¦       style_photo.txt
+¦   ¦       Style_shot.txt
+¦   ¦       style_video_game.txt
+¦   ¦       
+¦   +---Vision
+¦   ¦       Background-Activity&Gym&Fitness v2.yaml
+¦   ¦       Background-Amusement-Park.yaml
+¦   ¦       Background-Ancient-Abandoned-Castle.yaml
+¦   ¦       Background-Ballet-Dance.yaml
+¦   ¦       Background-Bathroom v2.yaml
+¦   ¦       Background-Bathroom.yaml
+¦   ¦       Background-Beaches-Day&Night.yaml
+¦   ¦       Background-Bedroom v2.yaml
+¦   ¦       Background-Bedroom.yaml
+¦   ¦       Background-Between-Lights-2.yaml
+¦   ¦       Background-Between-Lights.yaml
+¦   ¦       Background-Christmas-Special.yaml
+¦   ¦       Background-Dining-Room v2.yaml
+¦   ¦       Background-Dining-Room.yaml
+¦   ¦       Background-Farmyard-Haven.yaml
+¦   ¦       Background-Garten V1.yaml
+¦   ¦       Background-Gym-Fitness.yaml
+¦   ¦       Background-HomeTheater-Office-Party.yaml
+¦   ¦       Background-Kitchen v2.yaml
+¦   ¦       Background-Kitchen.yaml
+¦   ¦       Background-Lagoon.yaml
+¦   ¦       Background-Lake-Waterfall.yaml
+¦   ¦       Background-Lake.yaml
+¦   ¦       Background-Landmarks-Day&Night.yaml
+¦   ¦       Background-Living-Room v2.yaml
+¦   ¦       Background-Living-Room.yaml
+¦   ¦       Background-Master-Bedroom.yaml
+¦   ¦       Background-Mix-Outside.yaml
+¦   ¦       Background-Mountain-Day&Night.yaml
+¦   ¦       Background-Office-Spaces.yaml
+¦   ¦       Background-Partylocation.yaml
+¦   ¦       Background-Playroom.yaml
+¦   ¦       Background-Rooftop v1.yaml
+¦   ¦       Background-Room-XIII.yaml
+¦   ¦       Background-Rooms.yaml
+¦   ¦       Background-sanctuary-flow.yaml
+¦   ¦       Background-Swimwear-Shoot.yaml
+¦   ¦       Background-Untamed-Nature-v1.yaml
+¦   ¦       Background-Untamed-Urban-v1.yaml
+¦   ¦       Background-Urban-Landmarks-Day&Night.yaml
+¦   ¦       Background-Urban-Mountain-Day&Night.yaml
+¦   ¦       Background-Veranda.yaml
+¦   ¦       Background-Waterfall.yaml
+¦   ¦       Cute-Outfits-LOutfits.yaml
+¦   ¦       Everyday-Underwear-2.yaml
+¦   ¦       Illustrious Update Bikini.yaml
+¦   ¦       Illustrious Update Dress.yaml
+¦   ¦       Illustrious Update Hair&Eyes.yaml
+¦   ¦       Illustrious Update Leggings.yaml
+¦   ¦       Illustrious Update Leotard.yaml
+¦   ¦       Illustrious Update one-piece_swimsuit.yaml
+¦   ¦       Illustrious Update Pantyhose.yaml
+¦   ¦       Illustrious Update Skirt.yaml
+¦   ¦       Makeup.yaml
+¦   ¦       Outfit-Ballet-clothing-sets.yaml
+¦   ¦       Outfit-Burlesque-Dreams.yaml
+¦   ¦       Outfit-Business.yaml
+¦   ¦       Outfit-Christmas-Special.yaml
+¦   ¦       Outfit-Dance.yaml
+¦   ¦       Outfit-Dress.yaml
+¦   ¦       Outfit-Farm-Chic.yaml
+¦   ¦       Outfit-Golf.yaml
+¦   ¦       Outfit-Gothic-Outfit-2.yaml
+¦   ¦       Outfit-Gothic-Outfit.yaml
+¦   ¦       Outfit-inspired-by-metalmusic.yaml
+¦   ¦       Outfit-inspired-by-Punkmusic.yaml
+¦   ¦       Outfit-Leggings.yaml
+¦   ¦       Outfit-Rave-Techno.yaml
+¦   ¦       Outfit-Ribellea.yaml
+¦   ¦       Outfit-Skirt&Dresses.yaml
+¦   ¦       Outfit-Sport-1-3.yaml
+¦   ¦       Outfit-Sport.yaml
+¦   ¦       Outfit-SummerParty.yaml
+¦   ¦       Outfit-Swimwear-Bikini-2.yaml
+¦   ¦       Outfit-Swimwear-Bikini.yaml
+¦   ¦       Outfit-Swimwear-one-piece-2.yaml
+¦   ¦       Outfit-Swimwear-one-piece.yaml
+¦   ¦       Outfit-Swimwear.yaml
+¦   ¦       Outfit-Tennis.yaml
+¦   ¦       Outfit-Track&Field.yaml
+¦   ¦       Outfit-Underwear-Sporty.yaml
+¦   ¦       Outfit-Underwear2.yaml
+¦   ¦       Outfit-Underweare.yaml
+¦   ¦       Outfit-Urban-Chic.yaml
+¦   ¦       Outfit-young-Casual.yaml
+¦   ¦       Photoshoot V2.yaml
+¦   ¦       Photoshoot-2  V1.yaml
+¦   ¦       Photoshoot-3.yaml
+¦   ¦       Photoshoot-4.yaml
+¦   ¦       Pose-Photoshoot v1.0.yaml
+¦   ¦       Pose-Photoshoot-Sexy v1.0.yaml
+¦   ¦       Pose-Relaxing v1.0.yaml
+¦   ¦       Pose-slightly-Sensual&Location.yaml
+¦   ¦       Posepack-v1-Kneeling.yaml
+¦   ¦       Posepack-v1-Lying.yaml
+¦   ¦       Posepack-v1-Mix&Match.yaml
+¦   ¦       Posepack-v1-Sitting.yaml
+¦   ¦       Posepack-v1-Standing.yaml
+¦   ¦       Sexy-Underwear-1.yaml
+¦   ¦       Sexy-Underwear-2.yaml
+¦   ¦       Sexy-Underwear-3.yaml
+¦   ¦       Sexy-Underwear-4.yaml
+¦   ¦       Sexy-Underwear-5.yaml
+¦   ¦       Sexy-Underwear-6.yaml
+¦   ¦       Sexy-Underwear-7.yaml
+¦   ¦       Styles.yaml
+¦   ¦       VC-Age.txt
+¦   ¦       VC-Appearance-Clothing.txt
+¦   ¦       VC-Background.txt
+¦   ¦       VC-Body.txt
+¦   ¦       VC-Camera-Angle.txt
+¦   ¦       VC-Camera-Distance.txt
+¦   ¦       VC-Clothing.txt
+¦   ¦       VC-Face.txt
+¦   ¦       VC-Pose.txt
+¦   ¦       VCP-Prompt.txt
+¦   ¦       Vision.yaml
+¦   ¦       
+¦   +---waifu
+¦   ¦       waifus.txt
+¦   ¦       waifu_accessories-makeup.yaml
+¦   ¦       waifu_base-character.yaml
+¦   ¦       waifu_clothes.yaml
+¦   ¦       waifu_expressions.yaml
+¦   ¦       waifu_poses.yaml
+¦   ¦       
+¦   +---wildrun_v16
+¦           settings_1.png
+¦           settings_2_expanded.png
+¦           wildrun_v1.6.yaml
+¦           wildrun_xxx_v1.6.yaml
+¦           
++---AA
+¦       character_clothing.txt
+¦       character_expression.txt
+¦       character_lighting.txt
+¦       character_pose.txt
+¦       character_setting.txt
+¦       character_shot.txt
+¦       clothing.txt
+¦       prompt.txt
+¦       wearing_clothing.txt
+¦       
++---AAA
+¦   ¦   AAClothingAll.txt
+¦   ¦   AAEye_Colors.txt
+¦   ¦   AAJewlery.txt
+¦   ¦   AAMakeup.txt
+¦   ¦   AAModelbackgrounds_ALL.txt
+¦   ¦   AANaturalBackgrounds.txt
+¦   ¦   AANatural_Haircolors.txt
+¦   ¦   AASimple_Camera.txt
+¦   ¦   AASkin.txt
+¦   ¦   AAWorldBackgrounds.txt
+¦   ¦   CheerleaderOutfits.txt
+¦   ¦   ClothingMaterial.txt
+¦   ¦   Cosplay_Outfit.txt
+¦   ¦   Elvenclothing.txt
+¦   ¦   MarvelCosplay.txt
+¦   ¦   NaturalMaterials.txt
+¦   ¦   Outfit.txt
+¦   ¦   RaverOutfit.txt
+¦   ¦   Raver_background.txt
+¦   ¦   Schoolpatterns.txt
+¦   ¦   School_Uniforms.txt
+¦   ¦   Tower13Studios.txt
+¦   ¦   TribalClothes.txt
+¦   ¦   
+¦   +---Vicious
+¦           DV_VICIOUS_S.txt
+¦           DV_VICIOUS_S1.txt
+¦           DV_VICIOUS_S2.txt
+¦           DV_VICIOUS_S3.txt
+¦           DV_VICIOUS_S4.txt
+¦           EGIRLSMANSION.txt
+¦           GIRLSNEXTDOOR.txt
+¦           INFLUENCERS.txt
+¦           SELFIEANGELS.txt
+¦           TOWER13Girls.txt
+¦           Tower13Studios.txt
+¦           TOWEROFDOOM.txt
+¦           TRUALITYCAMPUS.txt
+¦           WILDCATISLAND.txt
+¦           
++---accessory
+¦   ¦   advanced-post-apocalyptic-accessories.txt
+¦   ¦   advanced-post-apocalyptic-weapons.txt
+¦   ¦   advanced-science-fiction-helmets.txt
+¦   ¦   arm.txt
+¦   ¦   Attires_Accessory_Ear.txt
+¦   ¦   Attires_Accessory_wrist.txt
+¦   ¦   Attires_Tattoo.txt
+¦   ¦   attire_headwear.txt
+¦   ¦   attire_jewelry_and_accessories_head_and_face.txt
+¦   ¦   attire_jewelry_and_accessories_limbs.txt
+¦   ¦   attire_jewelry_and_accessories_neck_and_shoulders.txt
+¦   ¦   attire_jewelry_and_accessories_torso_and_misc.txt
+¦   ¦   CC_female_sunglasses.txt
+¦   ¦   choker.txt
+¦   ¦   earrings.txt
+¦   ¦   ears_objects.txt
+¦   ¦   eyes_accessories.txt
+¦   ¦   eyewear_eyewear_lens_colors.txt
+¦   ¦   eyewear_eyewear_misc.txt
+¦   ¦   eyewear_eyewear_types.txt
+¦   ¦   eyewear_glasses_types.txt
+¦   ¦   eyewear_main.txt
+¦   ¦   fire_actions.txt
+¦   ¦   fire_body_parts.txt
+¦   ¦   fire_colors.txt
+¦   ¦   fire_forms.txt
+¦   ¦   hair_objects_accessories.txt
+¦   ¦   head.txt
+¦   ¦   headwear_hats_misc.txt
+¦   ¦   headwear_hats_with_brim.txt
+¦   ¦   headwear_not_headwear.txt
+¦   ¦   injury_coverings.txt
+¦   ¦   piercings_general_locations_body.txt
+¦   ¦   piercings_general_locations_head_and_facial.txt
+¦   ¦   piercings_genital_female.txt
+¦   ¦   pillow.txt
+¦   ¦   pussy_adornments.txt
+¦   ¦   sex_objects_BDSM.txt
+¦   ¦   sex_objects_fluids.txt
+¦   ¦   sex_objects_sex_toys.txt
+¦   ¦   So-Tag-Tails.txt
+¦   ¦   So-Tag-Wings.txt
+¦   ¦   So-Wings&Tails.txt
+¦   ¦   tail_misc.txt
+¦   ¦   tail_types_elemental.txt
+¦   ¦   tail_types_mammals.txt
+¦   ¦   tail_types_supernatural.txt
+¦   ¦   tattoo-arm.txt
+¦   ¦   tattoo-full.txt
+¦   ¦   tattoo-hand.txt
+¦   ¦   tattoo-leg.txt
+¦   ¦   tattoo-neckface.txt
+¦   ¦   tattoo-specific.txt
+¦   ¦   tattoo-torso.txt
+¦   ¦   tattoo.txt
+¦   ¦   technology_personal_communication.txt
+¦   ¦   technology_prosthetics.txt
+¦   ¦   wings_colors.txt
+¦   ¦   wings_misc.txt
+¦   ¦   wings_number.txt
+¦   ¦   wings_sizes.txt
+¦   ¦   wings_types_elemental.txt
+¦   ¦   wings_types_insects.txt
+¦   ¦   wings_types_other.txt
+¦   ¦   wings_types_supernatural.txt
+¦   ¦   wings_where_attached.txt
+¦   ¦   
+¦   +---food
+¦           food_actions.txt
+¦           food_breads.txt
+¦           food_condiments.txt
+¦           food_dairy.txt
+¦           food_drink_containers.txt
+¦           food_drink_main.txt
+¦           food_fruit.txt
+¦           food_professions_and_establishments.txt
+¦           food_sexual.txt
+¦           food_sweets.txt
+¦           
++---action
+¦   ¦   acts_explicit.txt
+¦   ¦   climax.txt
+¦   ¦   group_config.txt
+¦   ¦   poses_seductive.txt
+¦   ¦   
+¦   +---!AIFiltered
+¦       ¦   bdsm-type.txt
+¦       ¦   bra-actions.txt
+¦       ¦   combined4.txt
+¦       ¦   cumplay.txt
+¦       ¦   interacting-screen.txt
+¦       ¦   NSFW_Poses_Only.txt
+¦       ¦   panties-actions.txt
+¦       ¦   PDA.txt
+¦       ¦   Pony_1girl1boySex.txt
+¦       ¦   Pony_1girl2boySex.txt
+¦       ¦   Pony_1girlSexSolo.txt
+¦       ¦   Pony_2girlSex.txt
+¦       ¦   Pony_BDSM1girl1boy.txt
+¦       ¦   Pony_BDSMGroup.txt
+¦       ¦   Pony_BDSMSolo.txt
+¦       ¦   Pony_GroupSex.txt
+¦       ¦   Pony_TentacleSex.txt
+¦       ¦   posing.txt
+¦       ¦   Random_Posing_NSFW.txt
+¦       ¦   sex-act.txt
+¦       ¦   sex-positions.txt
+¦       ¦   sex-toys.txt
+¦       ¦   sexual_positions_main.txt
+¦       ¦   sex_acts_penetration_and_insertion.txt
+¦       ¦   sex_acts_stimulation.txt
+¦       ¦   So-Unique Tasks.txt
+¦       ¦   stage_performance.txt
+¦       ¦   verbs_and_gerunds_verbs.txt
+¦       ¦   
+¦       +---Sex
+¦           ¦   combined.txt
+¦           ¦   combined2.txt
+¦           ¦   combined3.txt
+¦           ¦   female solo masturbation.txt
+¦           ¦   ffm.txt
+¦           ¦   groping.txt
+¦           ¦   group sex.txt
+¦           ¦   NSFW-During sex.txt
+¦           ¦   NSFW.txt
+¦           ¦   pos.txt
+¦           ¦   sex positionsv1.txt
+¦           ¦   sex.txt
+¦           ¦   So-Nsfw-After Sex.txt
+¦           ¦   So-Nsfw-ForePlay.txt
+¦           ¦   So-Nsfw-Hand and Foot Titjob.txt
+¦           ¦   So-Nsfw-Oral Sex.txt
+¦           ¦   So-Nsfw-Sex.txt
+¦           ¦   solo.txt
+¦           ¦   stimulation.txt
+¦           ¦   
+¦           +---Fast1KK_NSFW
+¦               +---heterostimulation
+¦               ¦       69.txt
+¦               ¦       blowjob.txt
+¦               ¦       buttjob.txt
+¦               ¦       cuddlinghandjob.txt
+¦               ¦       cunnilingus.txt
+¦               ¦       deepthroat.txt
+¦               ¦       facesitting.txt
+¦               ¦       fellatio.txt
+¦               ¦       footjob.txt
+¦               ¦       footjobonballs.txt
+¦               ¦       forcedcunnilingus.txt
+¦               ¦       forcedfellatio.txt
+¦               ¦       handjob.txt
+¦               ¦       kissingpennis.txt
+¦               ¦       lickingpenis.txt
+¦               ¦       lickingpussy.txt
+¦               ¦       nursinghandjob.txt
+¦               ¦       paizuri.txt
+¦               ¦       rimming.txt
+¦               ¦       standingcunnilingus.txt
+¦               ¦       standingfellatio.txt
+¦               ¦       throatbulge.txt
+¦               ¦       titfuckoverclothes.txt
+¦               ¦       
+¦               +---sensualposes
+¦               ¦       accidentalexposure.txt
+¦               ¦       sensualposes.txt
+¦               ¦       sexualposes.txt
+¦               ¦       suggestivecamera.txt
+¦               ¦       suggestiveposes.txt
+¦               ¦       
+¦               +---sex
+¦               ¦       acrobatic_unstable.txt
+¦               ¦       aftersex.txt
+¦               ¦       armheldback.txt
+¦               ¦       assiststandingsex.txt
+¦               ¦       bentoversex.txt
+¦               ¦       cowgirl.txt
+¦               ¦       doggystyle.txt
+¦               ¦       fullnelson.txt
+¦               ¦       hanginglegs.txt
+¦               ¦       legglider_unstable.txt
+¦               ¦       lustfullegsex.txt
+¦               ¦       masterysex.txt
+¦               ¦       matingpress.txt
+¦               ¦       missionary.txt
+¦               ¦       missionaryholding.txt
+¦               ¦       overeasysex.txt
+¦               ¦       piledriver.txt
+¦               ¦       princesscarry.txt
+¦               ¦       pronebone.txt
+¦               ¦       pushup.txt
+¦               ¦       reversecowgirl.txt
+¦               ¦       reverseSuspendedCongress.txt
+¦               ¦       reverseuprightstraddle.txt
+¦               ¦       sexfrombehind.txt
+¦               ¦       speedbumpposition.txt
+¦               ¦       spooning.txt
+¦               ¦       squating.txt
+¦               ¦       standandcarry.txt
+¦               ¦       standanddeliversex.txt
+¦               ¦       standingsex.txt
+¦               ¦       stranddlingsex.txt
+¦               ¦       suspendedcongress.txt
+¦               ¦       topdownbottomup.txt
+¦               ¦       uprightstraddle.txt
+¦               ¦       
+¦               +---solo
+¦               ¦       analbead.txt
+¦               ¦       analdildo.txt
+¦               ¦       buttplug.txt
+¦               ¦       clothedmasturbation.txt
+¦               ¦       crotchrub.txt
+¦               ¦       dildoinmouth.txt
+¦               ¦       dildoriding.txt
+¦               ¦       fingering.txt
+¦               ¦       fuckingmachine.txt
+¦               ¦       hitachimagicwand.txt
+¦               ¦       hugedildo.txt
+¦               ¦       impliedmasturbation.txt
+¦               ¦       jewelbuttplug.txt
+¦               ¦       masturbation.txt
+¦               ¦       milkingmachine.txt
+¦               ¦       spikeddildo.txt
+¦               ¦       stealthfellatio.txt
+¦               ¦       stealthfingering.txt
+¦               ¦       stealthmasturbationtoy.txt
+¦               ¦       sybian.txt
+¦               ¦       vaginaldildo.txt
+¦               ¦       vibrator.txt
+¦               ¦       
+¦               +---yuri
+¦                       breasttribadism_unstable.txt
+¦                       strapon.txt
+¦                       tribadism.txt
+¦                       yurifingering.txt
+¦                       
++---age
+¦       10-25.txt
+¦       18-30.txt
+¦       8-20.txt
+¦       
++---animals
+¦       animals_categories.txt
+¦       animals_types_aquatic_cambrian.txt
+¦       animals_types_aquatic_crustacean.txt
+¦       animals_types_aquatic_fish.txt
+¦       animals_types_aquatic_invertebrate.txt
+¦       animals_types_aquatic_whale.txt
+¦       animals_types_cat.txt
+¦       animals_types_dog.txt
+¦       animals_types_insects.txt
+¦       animals_types_large.txt
+¦       animals_types_medium.txt
+¦       animals_types_reptile_and_amphibian.txt
+¦       animals_types_rodent.txt
+¦       birds_main.txt
+¦       birds_mythological.txt
+¦       birds_real.txt
+¦       cats_behavior.txt
+¦       cats_breeds.txt
+¦       cats_coat.txt
+¦       cats_felines.txt
+¦       cats_main.txt
+¦       cats_misc.txt
+¦       cats_places.txt
+¦       cats_related.txt
+¦       dogs_main.txt
+¦       dog_breeds.txt
+¦       dog_canines.txt
+¦       dog_misc.txt
+¦       dog_related.txt
+¦       ears_animal.txt
+¦       groups_animals.txt
+¦       
++---body
+¦       ass_anatomy.txt
+¦       ass_and_hands.txt
+¦       ass_and_heads.txt
+¦       body-light.txt
+¦       body-short.txt
+¦       body-tall.txt
+¦       body_parts_appendages.txt
+¦       body_parts_head.txt
+¦       body_parts_torso_lower.txt
+¦       body_parts_torso_upper.txt
+¦       breastsize.txt
+¦       breasts_and_other_body_parts_hands.txt
+¦       breasts_and_other_body_parts_head.txt
+¦       breasts_and_other_body_parts_mouth.txt
+¦       breasts_and_other_body_parts_penis.txt
+¦       breasts_sizes_scenes_revolving_around.txt
+¦       breasts_style.txt
+¦       breasts_visibilty_parts.txt
+¦       breasts_visibilty_whole.txt
+¦       ears_misc.txt
+¦       ears_other.txt
+¦       women-body.txt
+¦       
++---Character
+¦       adorable_nature_siren.txt
+¦       armored_heroine.txt
+¦       bikini.txt
+¦       costume_image.txt
+¦       Disney1.txt
+¦       Disney2.txt
+¦       Disney3.txt
+¦       dragon_jewel_stylist.txt
+¦       fantasy_female_vehicle.txt
+¦       female_alchemist.txt
+¦       female_in_fantasyland.txt
+¦       female_rpg_character_image.txt
+¦       female_rpg_image.txt
+¦       heavenly_guardian.txt
+¦       housewife.txt
+¦       landscape_guardian.txt
+¦       lotr_female_rpg_character_image.txt
+¦       masterpiece_medieval_armor_portrait_image.txt
+¦       medieval_armor_portrait_image.txt
+¦       mystical_alchemist.txt
+¦       mystic_adventuress.txt
+¦       nature_manipulator.txt
+¦       nocturnal_seductress.txt
+¦       pd_female_character.txt
+¦       rpg_females_combinations.txt
+¦       stripper.txt
+¦       Stripper_Poses.txt
+¦       
++---clothesCascade_clothesCascadeV1
+¦       11CCascadeNSFW.txt
+¦       11ClothesCascade.txt
+¦       12CCAddOn.txt
+¦       12CCascadeBasic.txt
+¦       12CCCombined.txt
+¦       12CCComplete.txt
+¦       12CCNSFWAddon.txt
+¦       12MaterialCascade.txt
+¦       12NSFWExplicit.txt
+¦       12NSFWTame.txt
+¦       13Accesories.txt
+¦       13Bras.txt
+¦       13ClothesBottom.txt
+¦       13ClothesFull.txt
+¦       13ClothesTop.txt
+¦       13Panties.txt
+¦       13Shoes.txt
+¦       13Sleeves.txt
+¦       13Socks.txt
+¦       13Swimsuit.txt
+¦       14Dress.txt
+¦       14Earrings.txt
+¦       14FullBody.txt
+¦       14Glasses.txt
+¦       14Hats.txt
+¦       14Jacket.txt
+¦       14Necklace.txt
+¦       14Pants.txt
+¦       14Piercing.txt
+¦       14Shirt.txt
+¦       14Skirts.txt
+¦       15clothFabrics.txt
+¦       15clothPattern.txt
+¦       15color.txt
+¦       15colorModifiers.txt
+¦       15JeweleryMaterials.txt
+¦       15Prints.txt
+¦       
++---clothing
+¦       bdsm-gag.txt
+¦       bdsm-gear.txt
+¦       bot-leggings.txt
+¦       bot-panties-actions.txt
+¦       bot-panties.txt
+¦       bot-pants.txt
+¦       bot-shorts.txt
+¦       bot-skirt.txt
+¦       bot-tights.txt
+¦       footwear-boots.txt
+¦       footwear-heels.txt
+¦       footwear-sandals.txt
+¦       footwear-shoes.txt
+¦       footwear-slippers.txt
+¦       footwear.txt
+¦       limbwear.txt
+¦       lingerie.txt
+¦       outfit-athletic.txt
+¦       outfit-bathroom.txt
+¦       outfit-bottomless.txt
+¦       outfit-dress.txt
+¦       outfit-lingerie.txt
+¦       outfit-sleepwear.txt
+¦       outfit-suit-fictional.txt
+¦       outfit-suit.txt
+¦       outfit-swimwear.txt
+¦       outfit-topless.txt
+¦       outfits.txt
+¦       prefix-expose.txt
+¦       top-bra.txt
+¦       top-corset.txt
+¦       top-outer.txt
+¦       top-shirt.txt
+¦       top-sweater.txt
+¦       
++---colors
+¦       color.txt
+¦       Palette.txt
+¦       
++---composition
+¦       art_genre.txt
+¦       camera.txt
+¦       camera_angle.txt
+¦       framing.txt
+¦       image_composition_angle_perspective_depth.txt
+¦       image_composition_composition.txt
+¦       image_composition_framing_body.txt
+¦       lens.txt
+¦       photoshoot-type.txt
+¦       trippy.txt
+¦       vision.txt
+¦       
++---details
+¦       adj-beauty.txt
+¦       beauty.txt
+¦       detail.txt
+¦       
++---Expression
+¦       Angry.txt
+¦       CC_facial_expression.txt
+¦       Contemplative.txt
+¦       erotic.txt
+¦       face_emotions.txt
+¦       face_smile.txt
+¦       face_surprised_scared_sad.txt
+¦       face_surprised_scared_sad_main.txt
+¦       Happy.txt
+¦       Negative.txt
+¦       Pained.txt
+¦       Positive.txt
+¦       Sad.txt
+¦       Sensual.txt
+¦       Sexual.txt
+¦       
++---eyes
+¦       color.txt
+¦       eyes_around.txt
+¦       eyes_closed.txt
+¦       eyes_gazes.txt
+¦       eyes_iris_multiple_colors.txt
+¦       eyes_misc.txt
+¦       eyes_more_appearance_animal.txt
+¦       eyes_more_appearance_other.txt
+¦       eyes_more_appearance_stylistic.txt
+¦       eyes_pupils.txt
+¦       eyes_sclera.txt
+¦       naturalEyeColor.txt
+¦       shape.txt
+¦       size.txt
+¦       
++---face
+¦   ¦   bw_face_shapes.txt
+¦   ¦   CC_lip_shape.txt
+¦   ¦   face.txt
+¦   ¦   faceExpressions.txt
+¦   ¦   face_drawing_styles.txt
+¦   ¦   pd_expression.txt
+¦   ¦   pov expressions.txt
+¦   ¦   reijexpressionsP1flirty.txt
+¦   ¦   reijexpressionsP1happy.txt
+¦   ¦   sex facial expression.txt
+¦   ¦   sexual emotions.txt
+¦   ¦   So-Face-Emojis-Negative.txt
+¦   ¦   So-Face-Emojis.txt
+¦   ¦   women_eyebrow.txt
+¦   ¦   
+¦   +---Silfr-Expression
+¦           Express-Alluring.txt
+¦           Express-Angry&Annoyed.txt
+¦           Express-Awe&Surprise.txt
+¦           Express-Comedy&Goofy.txt
+¦           Express-Cute.txt
+¦           Express-Emotionless.txt
+¦           Express-Erotic.txt
+¦           Express-Happy.txt
+¦           Express-Sad.txt
+¦           Express-Scared.txt
+¦           Express-Serious.txt
+¦           Express-Shy&Embarrassed.txt
+¦           Express-Sinister.txt
+¦           Express-Worried.txt
+¦           
++---full prompt
+¦       aboard_a_spaceship.txt
+¦       batchall.txt
+¦       boudoir-pose-LS-2.txt
+¦       boudoir-pose-LS.txt
+¦       boudoir-pose-PT-2.txt
+¦       boudoir-pose-PT.txt
+¦       Couple poses.txt
+¦       cozy_combinations.txt
+¦       cozy_female.txt
+¦       cozy_masterpiece_composition.txt
+¦       cozy_portrait.txt
+¦       cozy_private_area.txt
+¦       cozy_tiktok_posing.txt
+¦       crystallized_female.txt
+¦       crystallized_females_combinations.txt
+¦       crystallized_masterpiece.txt
+¦       explosive_view.txt
+¦       facial.txt
+¦       female_abstract_gem.txt
+¦       female_bikini_sugbmerged_in_liquid.txt
+¦       female_flowerful_gems.txt
+¦       female_flower_garden.txt
+¦       female_flower_tree.txt
+¦       female_gem_garden.txt
+¦       female_liquid_lights.txt
+¦       female_sugbmerged_in_liquid.txt
+¦       female_watersports.txt
+¦       filth.txt
+¦       hardcore.txt
+¦       lapdance.txt
+¦       mutual masturbation.txt
+¦       naked couples.txt
+¦       NSFW_Poses_Full_Prompt.txt
+¦       Pony_FullPrompt.txt
+¦       POV sex.txt
+¦       RandomPromptsFemale.txt
+¦       scifi_female_combinations.txt
+¦       scifi_outfit_image.txt
+¦       sex.txt
+¦       sexy.txt
+¦       space_adventure.txt
+¦       submerged_preppy_bae.txt
+¦       swimwear_watersports.txt
+¦       the big finish.txt
+¦       views_from_a_spaceship.txt
+¦       watersports_combinations.txt
+¦       water_yoga.txt
+¦       xxx.txt
+¦       _acme_sexy_2.txt
+¦       
++---hair
+¦   ¦   blondes.txt
+¦   ¦   CC_pastel_hair_color.txt
+¦   ¦   color.txt
+¦   ¦   hair_actions.txt
+¦   ¦   hair_color.txt
+¦   ¦   hair_color_multiple.txt
+¦   ¦   hair_fantasy.txt
+¦   ¦   hair_styles_front.txt
+¦   ¦   hair_styles_over_the_body.txt
+¦   ¦   naturalHairColor.txt
+¦   ¦   So-Hair-Women's hairstyles and colors.txt
+¦   ¦   style-women.txt
+¦   ¦   
+¦   +---HairPrompt
+¦           Hair Color Mix.txt
+¦           Hair Color.txt
+¦           Hair Length.txt
+¦           Hair Master.txt
+¦           Hair Style.txt
+¦           Hair Texture.txt
+¦           
++---Makeup
+¦       CC_lipstick_normal_color.txt
+¦       CC_lipstick_pastel_color.txt
+¦       CC_lipstick_style.txt
+¦       lipstick-shade.txt
+¦       lipstick.txt
+¦       makeup.txt
+¦       makeup1.txt
+¦       
++---other
+¦       3d-term.txt
+¦       accessory_arm.txt
+¦       accessory_head.txt
+¦       accessory_leg.txt
+¦       actor.txt
+¦       actress.txt
+¦       adj-architecture.txt
+¦       adj-beauty.txt
+¦       adj-general.txt
+¦       adj-horror.txt
+¦       adj_barren.txt
+¦       adj_beauty.txt
+¦       adj_big.txt
+¦       adj_boss.txt
+¦       adj_chaos.txt
+¦       adj_destroy.txt
+¦       adj_happy.txt
+¦       adj_hazard.txt
+¦       adj_horror.txt
+¦       adj_infinite.txt
+¦       adj_magical.txt
+¦       adj_mystery.txt
+¦       adj_order.txt
+¦       adj_populous.txt
+¦       adj_powerful.txt
+¦       adj_small.txt
+¦       adj_valuable.txt
+¦       adj_void.txt
+¦       age1-20.txt
+¦       age10-25.txt
+¦       aircraft.txt
+¦       alien.txt
+¦       altar.txt
+¦       angel.txt
+¦       angle.txt
+¦       animal.txt
+¦       anomaly_space.txt
+¦       arch.txt
+¦       artifact.txt
+¦       artist-anime.txt
+¦       artist-black-white.txt
+¦       artist-botanical.txt
+¦       artist-c.txt
+¦       artist-cartoon.txt
+¦       artist-concept.txt
+¦       artist-csv.txt
+¦       artist-dig1.txt
+¦       artist-dig2.txt
+¦       artist-dig3.txt
+¦       artist-director.txt
+¦       artist-fantasy.txt
+¦       artist-fareast.txt
+¦       artist-fineart.txt
+¦       artist-horror.txt
+¦       artist-n.txt
+¦       artist-nudity.txt
+¦       artist-photographer.txt
+¦       artist-scifi.txt
+¦       artist-scribbles.txt
+¦       artist-special.txt
+¦       artist-surreal.txt
+¦       artist-ukioe.txt
+¦       artist-weird.txt
+¦       artist.txt
+¦       artist_concept.txt
+¦       artist_director.txt
+¦       artist_photographer.txt
+¦       art_genre.txt
+¦       aspect-ratio.txt
+¦       background-color.txt
+¦       background.txt
+¦       bag.txt
+¦       bangs.txt
+¦       bathroom.txt
+¦       bed.txt
+¦       belt.txt
+¦       biome.txt
+¦       bird.txt
+¦       blonde.txt
+¦       body-fit.txt
+¦       body-framing.txt
+¦       body-heavy.txt
+¦       body-light.txt
+¦       body-poor.txt
+¦       body-shape.txt
+¦       body-shape2.txt
+¦       body-short.txt
+¦       body-tall.txt
+¦       book.txt
+¦       bottle.txt
+¦       box.txt
+¦       box_fictional.txt
+¦       braid.txt
+¦       camera-manu.txt
+¦       camera.txt
+¦       candle.txt
+¦       car.txt
+¦       card.txt
+¦       cartoon.txt
+¦       car_brand.txt
+¦       cat.txt
+¦       cauldron.txt
+¦       celeb.txt
+¦       chair.txt
+¦       chemical.txt
+¦       choker.txt
+¦       civilization.txt
+¦       class.txt
+¦       clock.txt
+¦       closet.txt
+¦       clothing-female.txt
+¦       clothing-male.txt
+¦       cloud.txt
+¦       color.txt
+¦       color_eye.txt
+¦       color_hair.txt
+¦       color_scheme.txt
+¦       color_skin.txt
+¦       computer.txt
+¦       computer_fictional.txt
+¦       computer_peripheral.txt
+¦       console_graphics.txt
+¦       container.txt
+¦       coral.txt
+¦       cosmic-galaxy.txt
+¦       cosmic-nebula.txt
+¦       cosmic-star.txt
+¦       cosmic-term.txt
+¦       costume-female.txt
+¦       costume-male.txt
+¦       cult.txt
+¦       daytime.txt
+¦       decade.txt
+¦       deity.txt
+¦       dessert.txt
+¦       detail.txt
+¦       device_fictional.txt
+¦       dinosaur.txt
+¦       dog.txt
+¦       door.txt
+¦       dress.txt
+¦       drink.txt
+¦       earrings.txt
+¦       egg.txt
+¦       embed_char.txt
+¦       emoji-combo.txt
+¦       emoji.txt
+¦       emoji_combo.txt
+¦       emote.txt
+¦       energy_beam.txt
+¦       energy_source.txt
+¦       entity_actor.txt
+¦       entity_actress.txt
+¦       entity_animal.txt
+¦       entity_bird.txt
+¦       entity_class.txt
+¦       entity_comicbook.txt
+¦       entity_deity.txt
+¦       entity_dinosaur.txt
+¦       entity_eldritch.txt
+¦       entity_fictional.txt
+¦       entity_fish.txt
+¦       entity_ghost.txt
+¦       entity_king.txt
+¦       entity_mech.txt
+¦       entity_myth.txt
+¦       entity_pokemon.txt
+¦       entity_queen.txt
+¦       entity_robot.txt
+¦       entity_transformer.txt
+¦       entity_tribe.txt
+¦       entity_underwater.txt
+¦       entity_yugioh.txt
+¦       event_celestial.txt
+¦       event_cosmic.txt
+¦       event_doomsday.txt
+¦       event_fashion.txt
+¦       event_festival.txt
+¦       event_game.txt
+¦       event_gathering.txt
+¦       event_geological.txt
+¦       event_myth.txt
+¦       event_physics.txt
+¦       event_political.txt
+¦       event_social.txt
+¦       event_weather.txt
+¦       event_weather_fictional.txt
+¦       expression.txt
+¦       eye-color.txt
+¦       eyeliner.txt
+¦       f-stop.txt
+¦       face_shape.txt
+¦       faction.txt
+¦       fantasy-creature.txt
+¦       fantasy-setting.txt
+¦       fantasy.txt
+¦       female-adult.txt
+¦       female-young.txt
+¦       film-genre.txt
+¦       fish.txt
+¦       flooring.txt
+¦       flower.txt
+¦       focal-length.txt
+¦       food.txt
+¦       forest-type.txt
+¦       fractal.txt
+¦       fruit.txt
+¦       furniture.txt
+¦       game.txt
+¦       game_artifact.txt
+¦       game_attack.txt
+¦       game_horror.txt
+¦       game_studio.txt
+¦       gate.txt
+¦       gauntlet.txt
+¦       gem.txt
+¦       gen-modifier.txt
+¦       gender-ext.txt
+¦       gender.txt
+¦       glasses.txt
+¦       glasses_fictional.txt
+¦       graphic_design.txt
+¦       hair-accessory.txt
+¦       hair-color.txt
+¦       hair-female-short.txt
+¦       hair-female.txt
+¦       hair-length.txt
+¦       hair-male.txt
+¦       hashtag.txt
+¦       hat.txt
+¦       hd.txt
+¦       HDA_Embed.txt
+¦       headwear-female.txt
+¦       headwear-male.txt
+¦       home_appliance.txt
+¦       horror.txt
+¦       house.txt
+¦       identity.txt
+¦       interior.txt
+¦       iso-stop.txt
+¦       item_rpg.txt
+¦       jar.txt
+¦       jewel.txt
+¦       kaiju.txt
+¦       landscape.txt
+¦       lantern.txt
+¦       legwear.txt
+¦       lighting.txt
+¦       light_rays.txt
+¦       light_source.txt
+¦       lipstick-shade.txt
+¦       lipstick.txt
+¦       location.txt
+¦       location_abandoned.txt
+¦       location_alien.txt
+¦       location_building.txt
+¦       location_controlroom.txt
+¦       location_famous.txt
+¦       location_fictional.txt
+¦       location_forest.txt
+¦       location_ground.txt
+¦       location_heritage.txt
+¦       location_laboratory.txt
+¦       location_mountain.txt
+¦       location_myth.txt
+¦       location_natural.txt
+¦       location_planet.txt
+¦       location_religious.txt
+¦       location_road.txt
+¦       location_sky.txt
+¦       location_space.txt
+¦       location_underground.txt
+¦       location_underwater.txt
+¦       location_water.txt
+¦       location_workshop.txt
+¦       magic_trick.txt
+¦       makeup.txt
+¦       male-adult.txt
+¦       male-young.txt
+¦       material_bone.txt
+¦       material_ceramic.txt
+¦       material_cloth.txt
+¦       material_crystal.txt
+¦       material_fantasy.txt
+¦       material_fictional.txt
+¦       material_fossil.txt
+¦       material_fur.txt
+¦       material_glass.txt
+¦       material_leather.txt
+¦       material_metal.txt
+¦       material_mineral.txt
+¦       material_misc.txt
+¦       material_nano.txt
+¦       material_plastic.txt
+¦       material_resin.txt
+¦       material_rock.txt
+¦       material_scifi.txt
+¦       material_synthetic.txt
+¦       material_wood.txt
+¦       men_body.txt
+¦       men_clothing.txt
+¦       men_eyebrow.txt
+¦       men_footwear.txt
+¦       men_hair.txt
+¦       mirror.txt
+¦       mixed.txt
+¦       mod_entity.txt
+¦       mod_fantasy.txt
+¦       mod_graphics.txt
+¦       mod_monster.txt
+¦       mod_pattern.txt
+¦       mod_punk.txt
+¦       mod_purpose.txt
+¦       mod_scifi.txt
+¦       mod_shape.txt
+¦       mod_style.txt
+¦       mod_yugioh.txt
+¦       monster.txt
+¦       movement.txt
+¦       mushroom.txt
+¦       musical_instrument.txt
+¦       name-female.txt
+¦       name-male.txt
+¦       national-park.txt
+¦       nationality.txt
+¦       neckwear.txt
+¦       neg-weight.txt
+¦       Negative.txt
+¦       New Text Document.txt
+¦       noun-beauty.txt
+¦       noun-fantasy.txt
+¦       noun-general.txt
+¦       noun-horror.txt
+¦       noun-landscape.txt
+¦       noun-romance.txt
+¦       noun-scifi.txt
+¦       nsfw-bdsm-type.txt
+¦       nsfw-bdsm.txt
+¦       nsfw-bra.txt
+¦       nsfw-breastsize.txt
+¦       nsfw-clothing-state.txt
+¦       nsfw-corset.txt
+¦       nsfw-cumplay.txt
+¦       nsfw-expression.txt
+¦       nsfw-fetish.txt
+¦       nsfw-gag.txt
+¦       nsfw-lingerie-state.txt
+¦       nsfw-lingerie.txt
+¦       nsfw-panties.txt
+¦       nsfw-position.txt
+¦       nsfw-public.txt
+¦       nsfw-publicity.txt
+¦       nsfw-sex-act.txt
+¦       nsfw-sex-position.txt
+¦       nsfw-sex-toy.txt
+¦       nsfw-subreddit.txt
+¦       object_age.txt
+¦       object_anomaly.txt
+¦       object_architecture.txt
+¦       object_casing.txt
+¦       object_condition_bad.txt
+¦       object_condition_good.txt
+¦       object_detail.txt
+¦       object_lighting.txt
+¦       object_magic.txt
+¦       object_origin.txt
+¦       object_pose.txt
+¦       object_quality.txt
+¦       object_rarity.txt
+¦       object_rpg.txt
+¦       object_shading.txt
+¦       object_space.txt
+¦       object_texture.txt
+¦       occupation.txt
+¦       oil-painting.txt
+¦       pet.txt
+¦       pet_fictional.txt
+¦       photo-term.txt
+¦       photoshoot-type.txt
+¦       photo_angle.txt
+¦       photo_camera.txt
+¦       photo_camera_special.txt
+¦       photo_composition.txt
+¦       photo_fstop.txt
+¦       photo_ISO.txt
+¦       photo_lens.txt
+¦       photo_lighting.txt
+¦       photo_location.txt
+¦       photo_medium.txt
+¦       photo_posing.txt
+¦       photo_shutter.txt
+¦       photo_tone.txt
+¦       photo_type.txt
+¦       physics_theory.txt
+¦       pillow.txt
+¦       planet.txt
+¦       pool.txt
+¦       pop-culture.txt
+¦       pop-location.txt
+¦       portrait-type.txt
+¦       pose.txt
+¦       profession.txt
+¦       profession_fictional.txt
+¦       punk.txt
+¦       purse.txt
+¦       put_wildcards_here
+¦       quantity.txt
+¦       race.txt
+¦       religion_fictional.txt
+¦       religion_ism.txt
+¦       render-engine.txt
+¦       render.txt
+¦       render_engine.txt
+¦       resolution.txt
+¦       ring.txt
+¦       robe.txt
+¦       robot.txt
+¦       roofing.txt
+¦       room.txt
+¦       rpg-Item.txt
+¦       scenario-fantasy.txt
+¦       scenario-romance.txt
+¦       scenario-scifi.txt
+¦       scenario.txt
+¦       scenario2.txt
+¦       scene.txt
+¦       scepter.txt
+¦       scifi.txt
+¦       screen.txt
+¦       sculpture.txt
+¦       setting.txt
+¦       shell.txt
+¦       ship.txt
+¦       site.txt
+¦       skin-color.txt
+¦       skin_type.txt
+¦       sky_condition.txt
+¦       spaceship.txt
+¦       spell.txt
+¦       sport.txt
+¦       stage_performance.txt
+¦       star.txt
+¦       still-life.txt
+¦       style.txt
+¦       subject-fantasy.txt
+¦       subject-horror.txt
+¦       subject-romance.txt
+¦       subject-scifi.txt
+¦       subject.txt
+¦       subreddit.txt
+¦       suit-female.txt
+¦       suit-male.txt
+¦       suit.txt
+¦       suit_fictional.txt
+¦       superhero.txt
+¦       supermodel.txt
+¦       supervillain.txt
+¦       swimwear.txt
+¦       table.txt
+¦       tarot.txt
+¦       technique.txt
+¦       temperature.txt
+¦       term_astrology.txt
+¦       term_graphics.txt
+¦       terrain.txt
+¦       time.txt
+¦       time_period.txt
+¦       toolkit.txt
+¦       toy_maker.txt
+¦       train.txt
+¦       tree.txt
+¦       tree_fictional.txt
+¦       tribe.txt
+¦       trippy.txt
+¦       tvshow.txt
+¦       underwater.txt
+¦       utensil.txt
+¦       vegetable.txt
+¦       vegetation.txt
+¦       vehicle.txt
+¦       vehicle_fictional.txt
+¦       virus.txt
+¦       vision.txt
+¦       wand.txt
+¦       watch.txt
+¦       water.txt
+¦       watercolor.txt
+¦       wave.txt
+¦       weapon.txt
+¦       weapon_gun.txt
+¦       weapon_myth.txt
+¦       weapon_ranged.txt
+¦       weapon_shield.txt
+¦       weapon_sword.txt
+¦       weapon_sword_fictional.txt
+¦       wearable.txt
+¦       window.txt
+¦       
++---Outfit
+¦   ¦   advanced-post-apocalyptic-outfits.txt
+¦   ¦   advanced-science-fiction-spacesuits.txt
+¦   ¦   animal cosplay.txt
+¦   ¦   attire.txt
+¦   ¦   Attires_NSFW_Outfit.txt
+¦   ¦   Attires_sock_Stocking.txt
+¦   ¦   Attires_Swimsuit.txt
+¦   ¦   attire_styles_and_patterns_prints.txt
+¦   ¦   bdsmfetish.txt
+¦   ¦   bikini.txt
+¦   ¦   blouse.txt
+¦   ¦   bodypaint.txt
+¦   ¦   Casual outfit.txt
+¦   ¦   CC_female_first_date_outfit.txt
+¦   ¦   CC_female_upper_body_clothing.txt
+¦   ¦   coat.txt
+¦   ¦   cocktail_dress.txt
+¦   ¦   collared_shirt and flared_skirt as material1.txt
+¦   ¦   complete_lingerie_outfits.txt
+¦   ¦   costume-female.txt
+¦   ¦   dress.txt
+¦   ¦   Extremely beautiful clothes(different stlyes).txt
+¦   ¦   fem-outfits.txt
+¦   ¦   female_highly_revealing_swimwear.txt
+¦   ¦   female_see_through_clothes.txt
+¦   ¦   frilled_shirt and long_skirt.txt
+¦   ¦   FutureBdsmFetish.txt
+¦   ¦   golflook.txt
+¦   ¦   Jff-clothes.txt
+¦   ¦   jffBikini.txt
+¦   ¦   lingerie.txt
+¦   ¦   LingerieSet.txt
+¦   ¦   NSFW2.txt
+¦   ¦   NSFWcostumes.txt
+¦   ¦   one-piece styles.txt
+¦   ¦   pyjamas for women.txt
+¦   ¦   school uniform.txt
+¦   ¦   see_through_clothing.txt
+¦   ¦   sexy_swimwear.txt
+¦   ¦   slumbasexyoutfitsillu.txt
+¦   ¦   slut-bottoms.txt
+¦   ¦   slut-outfits.txt
+¦   ¦   slut-shoes.txt
+¦   ¦   slut-tops.txt
+¦   ¦   sluttyout3.txt
+¦   ¦   sluttyvv.txt
+¦   ¦   So-Clothes-Dress.txt
+¦   ¦   So-Clothes-Professions.txt
+¦   ¦   So-Clothes-Sexy Lingerie.txt
+¦   ¦   So-Clothes-Stockings.txt
+¦   ¦   So-Clothes-tops and bottoms.txt
+¦   ¦   streetslutc.txt
+¦   ¦   sundress.txt
+¦   ¦   supercutelingerie.txt
+¦   ¦   t-shirt styles.txt
+¦   ¦   technology_armor_futuristic.txt
+¦   ¦   traning_look.txt
+¦   ¦   two-piece styles.txt
+¦   ¦   underwear.txt
+¦   ¦   undies.txt
+¦   ¦   yoga outfits.txt
+¦   ¦   
+¦   +---Fabric
+¦   ¦       Fabric.txt
+¦   ¦       FabricDescriptive.txt
+¦   ¦       
+¦   +---heroCostumeWildcards_herocustumesV10
+¦           c-color.txt
+¦           c-hero-f.txt
+¦           c-hero-m.txt
+¦           c-hero.txt
+¦           
++---Pose
+¦   ¦   back arch.txt
+¦   ¦   female-poses.txt
+¦   ¦   Female_Charming_Poses.txt
+¦   ¦   General_Posing.txt
+¦   ¦   NSFW_Poses_Only.txt
+¦   ¦   poses.txt
+¦   ¦   poses2.txt
+¦   ¦   posture_other_whole_body.txt
+¦   ¦   reij-motion sitting wall.txt
+¦   ¦   reijssexyposing.txt
+¦   ¦   sex_poses.txt
+¦   ¦   So-Pose-Sexy.txt
+¦   ¦   So-Pose.txt
+¦   ¦   sunvibebdsm.txt
+¦   ¦   yoga poses.txt
+¦   ¦   
+¦   +---gesture
+¦           gestures_one_hand_one_open_finger.txt
+¦           gestures_one_hand_three_open_fingers.txt
+¦           gestures_one_hand_two_open_fingers.txt
+¦           gestures_one_hand_variable_number_of_open_fingers.txt
+¦           gestures_one_hand_whole_closed_hand.txt
+¦           gestures_one_hand_whole_open_hand.txt
+¦           gestures_other.txt
+¦           gestures_two_hands.txt
+¦           
++---setting
+¦   ¦   CC_beach_background.txt
+¦   ¦   CC_everyday_background.txt
+¦   ¦   CC_nude_photo_backdrop.txt
+¦   ¦   CC_various_background.txt
+¦   ¦   setting.txt
+¦   ¦   sky_condition.txt
+¦   ¦   tree.txt
+¦   ¦   vehicle.txt
+¦   ¦   
+¦   +---Location
+¦   ¦       advanced-post-apocalyptic-locations.txt
+¦   ¦       advanced-science-fiction-locations.txt
+¦   ¦       background.txt
+¦   ¦       fantasy.txt
+¦   ¦       house.txt
+¦   ¦       indoor-private.txt
+¦   ¦       indoor-public.txt
+¦   ¦       inspiration.txt
+¦   ¦       locations.txt
+¦   ¦       locations_cyberpunk.txt
+¦   ¦       locations_fantasy.txt
+¦   ¦       locations_medieval.txt
+¦   ¦       locations_post-apocalyptic.txt
+¦   ¦       locations_sci-fi.txt
+¦   ¦       outdoor-public.txt
+¦   ¦       outdoor-remote.txt
+¦   ¦       places.txt
+¦   ¦       pool.txt
+¦   ¦       reijaccentsmagicaldreamy.txt
+¦   ¦       So-Background-Beautiful.txt
+¦   ¦       vehicle.txt
+¦   ¦       water.txt
+¦   ¦       
+¦   +---Scenario
+¦           fantasy.txt
+¦           fantasy2.txt
+¦           horror.txt
+¦           romance.txt
+¦           romance2.txt
+¦           scenario.txt
+¦           scenario2.txt
+¦           scifi.txt
+¦           scifi2.txt
+¦           
++---skin
+¦       CC_skin_color.txt
+¦       
++---SwarmWC
+¦   ¦   accessory.txt
+¦   ¦   action.txt
+¦   ¦   body.txt
+¦   ¦   color.txt
+¦   ¦   comp.txt
+¦   ¦   example.txt
+¦   ¦   expression.txt
+¦   ¦   eyes.txt
+¦   ¦   female solo masturbation.txt
+¦   ¦   hair.txt
+¦   ¦   lighting.txt
+¦   ¦   location.txt
+¦   ¦   outfit.txt
+¦   ¦   skin.txt
+¦   ¦   
+¦   +---AA
+¦   ¦       character_clothing.txt
+¦   ¦       character_expression.txt
+¦   ¦       character_lighting.txt
+¦   ¦       character_pose.txt
+¦   ¦       character_setting.txt
+¦   ¦       character_shot.txt
+¦   ¦       prompt.txt
+¦   ¦       
+¦   +---AAA
+¦   ¦   ¦   AAClothingAll.txt
+¦   ¦   ¦   AAEye_Colors.txt
+¦   ¦   ¦   AAJewlery.txt
+¦   ¦   ¦   AAMakeup.txt
+¦   ¦   ¦   AAModelbackgrounds_ALL.txt
+¦   ¦   ¦   AANaturalBackgrounds.txt
+¦   ¦   ¦   AANatural_Haircolors.txt
+¦   ¦   ¦   AASimple_Camera.txt
+¦   ¦   ¦   AASkin.txt
+¦   ¦   ¦   AAWorldBackgrounds.txt
+¦   ¦   ¦   CheerleaderOutfits.txt
+¦   ¦   ¦   ClothingMaterial.txt
+¦   ¦   ¦   Cosplay_Outfit.txt
+¦   ¦   ¦   Elvenclothing.txt
+¦   ¦   ¦   MarvelCosplay.txt
+¦   ¦   ¦   NaturalMaterials.txt
+¦   ¦   ¦   Outfit.txt
+¦   ¦   ¦   RaverOutfit.txt
+¦   ¦   ¦   Raver_background.txt
+¦   ¦   ¦   Schoolpatterns.txt
+¦   ¦   ¦   School_Uniforms.txt
+¦   ¦   ¦   Tower13Studios.txt
+¦   ¦   ¦   TribalClothes.txt
+¦   ¦   ¦   
+¦   ¦   +---Vicious
+¦   ¦           DV_VICIOUS_S.txt
+¦   ¦           DV_VICIOUS_S1.txt
+¦   ¦           DV_VICIOUS_S2.txt
+¦   ¦           DV_VICIOUS_S3.txt
+¦   ¦           DV_VICIOUS_S4.txt
+¦   ¦           EGIRLSMANSION.txt
+¦   ¦           GIRLSNEXTDOOR.txt
+¦   ¦           INFLUENCERS.txt
+¦   ¦           SELFIEANGELS.txt
+¦   ¦           TOWER13Girls.txt
+¦   ¦           Tower13Studios.txt
+¦   ¦           TOWEROFDOOM.txt
+¦   ¦           TRUALITYCAMPUS.txt
+¦   ¦           WILDCATISLAND.txt
+¦   ¦           
+¦   +---accessory
+¦   ¦       arm.txt
+¦   ¦       choker.txt
+¦   ¦       earrings.txt
+¦   ¦       head.txt
+¦   ¦       pillow.txt
+¦   ¦       tattoo-arm.txt
+¦   ¦       tattoo-full.txt
+¦   ¦       tattoo-hand.txt
+¦   ¦       tattoo-leg.txt
+¦   ¦       tattoo-neckface.txt
+¦   ¦       tattoo-specific.txt
+¦   ¦       tattoo-torso.txt
+¦   ¦       tattoo.txt
+¦   ¦       
+¦   +---Action
+¦   ¦       bdsm-positions.txt
+¦   ¦       bdsm-type.txt
+¦   ¦       bra-actions.txt
+¦   ¦       cumplay.txt
+¦   ¦       interacting-screen.txt
+¦   ¦       panties-actions.txt
+¦   ¦       PDA.txt
+¦   ¦       posing.txt
+¦   ¦       sex-act.txt
+¦   ¦       sex-positions.txt
+¦   ¦       sex-toys.txt
+¦   ¦       stage_performance.txt
+¦   ¦       
+¦   +---age
+¦   ¦       10-25.txt
+¦   ¦       18-30.txt
+¦   ¦       8-20.txt
+¦   ¦       
+¦   +---body
+¦   ¦       breastsize.txt
+¦   ¦       women-body.txt
+¦   ¦       
+¦   +---clothing
+¦   ¦       bdsm-gag.txt
+¦   ¦       bdsm-gear.txt
+¦   ¦       bot-leggings.txt
+¦   ¦       bot-panties-actions.txt
+¦   ¦       bot-panties.txt
+¦   ¦       bot-pants.txt
+¦   ¦       bot-shorts.txt
+¦   ¦       bot-skirt.txt
+¦   ¦       bot-tights.txt
+¦   ¦       footwear-boots.txt
+¦   ¦       footwear-heels.txt
+¦   ¦       footwear-sandals.txt
+¦   ¦       footwear-shoes.txt
+¦   ¦       footwear-slippers.txt
+¦   ¦       footwear.txt
+¦   ¦       limbwear.txt
+¦   ¦       lingerie.txt
+¦   ¦       outfit-athletic.txt
+¦   ¦       outfit-bathroom.txt
+¦   ¦       outfit-bottomless.txt
+¦   ¦       outfit-dress.txt
+¦   ¦       outfit-lingerie.txt
+¦   ¦       outfit-sleepwear.txt
+¦   ¦       outfit-suit-fictional.txt
+¦   ¦       outfit-suit.txt
+¦   ¦       outfit-swimwear.txt
+¦   ¦       outfit-topless.txt
+¦   ¦       outfits.txt
+¦   ¦       prefix-expose.txt
+¦   ¦       top-bra.txt
+¦   ¦       top-corset.txt
+¦   ¦       top-outer.txt
+¦   ¦       top-shirt.txt
+¦   ¦       top-sweater.txt
+¦   ¦       
+¦   +---colors
+¦   ¦       color.txt
+¦   ¦       
+¦   +---composition
+¦   ¦       art_genre.txt
+¦   ¦       camera_angle.txt
+¦   ¦       framing.txt
+¦   ¦       lens.txt
+¦   ¦       photoshoot-type.txt
+¦   ¦       trippy.txt
+¦   ¦       vision.txt
+¦   ¦       
+¦   +---details
+¦   ¦       adj-beauty.txt
+¦   ¦       beauty.txt
+¦   ¦       detail.txt
+¦   ¦       
+¦   +---Expression
+¦   ¦       Angry.txt
+¦   ¦       Contemplative.txt
+¦   ¦       erotic.txt
+¦   ¦       Happy.txt
+¦   ¦       Negative.txt
+¦   ¦       Pained.txt
+¦   ¦       Positive.txt
+¦   ¦       Sad.txt
+¦   ¦       Sensual.txt
+¦   ¦       Sexual.txt
+¦   ¦       
+¦   +---eyes
+¦   ¦       color.txt
+¦   ¦       shape.txt
+¦   ¦       size.txt
+¦   ¦       
+¦   +---face
+¦   ¦       women_eyebrow.txt
+¦   ¦       
+¦   +---fantasy_girls
+¦   ¦   +---fantasy_girls
+¦   ¦       ¦   animal_parts.txt
+¦   ¦       ¦   colors.txt
+¦   ¦       ¦   effects.txt
+¦   ¦       ¦   look.txt
+¦   ¦       ¦   shots.txt
+¦   ¦       ¦   
+¦   ¦       +---boy_types
+¦   ¦       ¦       little_boy.txt
+¦   ¦       ¦       mature_boy.txt
+¦   ¦       ¦       
+¦   ¦       +---clothes
+¦   ¦       ¦       clothesA.txt
+¦   ¦       ¦       clothesB.txt
+¦   ¦       ¦       clothesBottoms.txt
+¦   ¦       ¦       clothesBottomsM.txt
+¦   ¦       ¦       clothesCosplay.txt
+¦   ¦       ¦       clothesDress.txt
+¦   ¦       ¦       clothesLegsSEXY.txt
+¦   ¦       ¦       clothesM.txt
+¦   ¦       ¦       clothesOuter.txt
+¦   ¦       ¦       clothesPajamas.txt
+¦   ¦       ¦       clothesSEXY.txt
+¦   ¦       ¦       clothesShoes.txt
+¦   ¦       ¦       clothesSocks.txt
+¦   ¦       ¦       clothesSports.txt
+¦   ¦       ¦       clothesSwimsuit.txt
+¦   ¦       ¦       
+¦   ¦       +---emotions
+¦   ¦       ¦       facial.txt
+¦   ¦       ¦       facialS.txt
+¦   ¦       ¦       facialX.txt
+¦   ¦       ¦       
+¦   ¦       +---girl_types
+¦   ¦       ¦       little_girl.txt
+¦   ¦       ¦       mature_girl.txt
+¦   ¦       ¦       
+¦   ¦       +---hairs
+¦   ¦       ¦       hairA.txt
+¦   ¦       ¦       hairBangs.txt
+¦   ¦       ¦       hairM.txt
+¦   ¦       ¦       
+¦   ¦       +---lightings
+¦   ¦       ¦       lighitingTime.txt
+¦   ¦       ¦       lighting.txt
+¦   ¦       ¦       lightingColor.txt
+¦   ¦       ¦       lightingSource.txt
+¦   ¦       ¦       
+¦   ¦       +---NSFW
+¦   ¦       ¦       ass.txt
+¦   ¦       ¦       breast.txt
+¦   ¦       ¦       emotion.txt
+¦   ¦       ¦       fluids.txt
+¦   ¦       ¦       hairiness.txt
+¦   ¦       ¦       pussy.txt
+¦   ¦       ¦       skin-effect.txt
+¦   ¦       ¦       
+¦   ¦       +---n_boys
+¦   ¦       ¦       1boy.txt
+¦   ¦       ¦       2boys.txt
+¦   ¦       ¦       nboys.txt
+¦   ¦       ¦       
+¦   ¦       +---n_girls
+¦   ¦       ¦       1girl.txt
+¦   ¦       ¦       2girls.txt
+¦   ¦       ¦       ngirls.txt
+¦   ¦       ¦       
+¦   ¦       +---poses
+¦   ¦       ¦       poses.txt
+¦   ¦       ¦       posesSitting.txt
+¦   ¦       ¦       
+¦   ¦       +---premadePrompts
+¦   ¦       ¦       1boyOnSuit.txt
+¦   ¦       ¦       1girlAnimal.txt
+¦   ¦       ¦       1girlBloodyDemon.txt
+¦   ¦       ¦       1girlCyberpunkOni.txt
+¦   ¦       ¦       1girlDragon.txt
+¦   ¦       ¦       1girlEcchiAnimal.txt
+¦   ¦       ¦       1girlElfMagical.txt
+¦   ¦       ¦       1girlGalaxyGoddess.txt
+¦   ¦       ¦       1girlSamuraiMecha.txt
+¦   ¦       ¦       
+¦   ¦       +---Randoms
+¦   ¦       ¦       Random1girl.txt
+¦   ¦       ¦       RandomNSFW.txt
+¦   ¦       ¦       RandomSetup.txt
+¦   ¦       ¦       RandomShape.txt
+¦   ¦       ¦       RandomShapeM.txt
+¦   ¦       ¦       
+¦   ¦       +---scenes
+¦   ¦       ¦       fantasy_scene.txt
+¦   ¦       ¦       Outdoors.txt
+¦   ¦       ¦       OutdoorsFantasy.txt
+¦   ¦       ¦       OutdoorsNature.txt
+¦   ¦       ¦       scene.txt
+¦   ¦       ¦       sceneG.txt
+¦   ¦       ¦       sceneIndoors.txt
+¦   ¦       ¦       sceneOutdoors.txt
+¦   ¦       ¦       sceneSF.txt
+¦   ¦       ¦       Town_amusement.txt
+¦   ¦       ¦       Town_indoors.txt
+¦   ¦       ¦       Town_shopping.txt
+¦   ¦       ¦       
+¦   ¦       +---setups
+¦   ¦               bad_girl_setup.txt
+¦   ¦               cyberpunk_setup.txt
+¦   ¦               dress_up_setup.txt
+¦   ¦               ecchi_setup.txt
+¦   ¦               highschool_setup.txt
+¦   ¦               horror_setup.txt
+¦   ¦               japanese_miko_setup.txt
+¦   ¦               
+¦   +---hair
+¦   ¦       color.txt
+¦   ¦       style-women.txt
+¦   ¦       
+¦   +---setting
+¦   ¦   ¦   setting.txt
+¦   ¦   ¦   sky_condition.txt
+¦   ¦   ¦   tree.txt
+¦   ¦   ¦   vehicle.txt
+¦   ¦   ¦   
+¦   ¦   +---Location
+¦   ¦   ¦       background.txt
+¦   ¦   ¦       fantasy.txt
+¦   ¦   ¦       house.txt
+¦   ¦   ¦       indoor-private.txt
+¦   ¦   ¦       indoor-public.txt
+¦   ¦   ¦       outdoor-public.txt
+¦   ¦   ¦       outdoor-remote.txt
+¦   ¦   ¦       pool.txt
+¦   ¦   ¦       vehicle.txt
+¦   ¦   ¦       water.txt
+¦   ¦   ¦       
+¦   ¦   +---Scenario
+¦   ¦           fantasy.txt
+¦   ¦           fantasy2.txt
+¦   ¦           horror.txt
+¦   ¦           romance.txt
+¦   ¦           romance2.txt
+¦   ¦           scenario.txt
+¦   ¦           scenario2.txt
+¦   ¦           scifi.txt
+¦   ¦           scifi2.txt
+¦   ¦           
+¦   +---skin
+¦   +---weights
+¦           -3-3.txt
+¦           -8-0.txt
+¦           0-0.5-1.txt
+¦           0-1.5.txt
+¦           0-1.txt
+¦           0-2.txt
+¦           0-3.txt
+¦           0.5-1.5.txt
+¦           0.5-1.txt
+¦           0.5-3.txt
+¦           0.6-2.4.txt
+¦           1-1.5.txt
+¦           1-2.txt
+¦           weights.txt
+¦           
++---waifuGenerator_v15
+¦       !full_scene_plus_character.txt
+¦       !full_scene_plus_clothes.txt
+¦       accessories.txt
+¦       body.txt
+¦       bottoms.txt
+¦       breasts.txt
+¦       character.txt
+¦       clothes.txt
+¦       colors.txt
+¦       composition.txt
+¦       costumes.txt
+¦       faces.txt
+¦       full_scene.txt
+¦       hair.txt
+¦       hair_addon.txt
+¦       locations.txt
+¦       look.txt
+¦       poses.txt
+¦       shoes.txt
+¦       time.txt
+¦       tops.txt
+¦       
++---weights
+¦       -3-3.txt
+¦       -5-0.txt
+¦       -8-0.txt
+¦       0-0.5-1.txt
+¦       0-1.5.txt
+¦       0-1.txt
+¦       0-2.txt
+¦       0-3.txt
+¦       0.5-1.5.txt
+¦       0.5-1.txt
+¦       0.5-3.txt
+¦       0.6-2.4.txt
+¦       1-1.3.txt
+¦       1-1.5.txt
+¦       1-2.txt
+¦       weights.txt
+¦       
++---wildcardsThatDont_v10
+¦       !dix.txt
+¦       !peen.txt
+¦       !techshirt2.txt
+¦       !techshoes.txt
+¦       !techworn.txt
+¦       !tiddies.txt
+¦       boobshape.txt
+¦       bottoms.txt
+¦       cyberjunk.txt
+¦       cyberplace.txt
+¦       cyberposed.txt
+¦       dongshape.txt
+¦       foreskin.txt
+¦       nipples.txt
+¦       nutz.txt
+¦       psheath.txt
+¦       shoes.txt
+¦       size.txt
+¦       species1.txt
+¦       techbelt.txt
+¦       techbra.txt
+¦       techbradam.txt
+¦       techcarmods.txt
+¦       techcestralcybermods.txt
+¦       techcoat.txt
+¦       techdrawers.txt
+¦       techeyes.txt
+¦       techhat.txt
+¦       techjacket.txt
+¦       techjaw.txt
+¦       techmechsuits.txt
+¦       techneck.txt
+¦       techpantsdam.txt
+¦       techpantsL.txt
+¦       techpatrols.txt
+¦       techrace.txt
+¦       techritualweapons.txt
+¦       techshirt.txt
+¦       techshorts.txt
+¦       techskirts.txt
+¦       techsox.txt
+¦       techtopdam.txt
+¦       techtugging.txt
+¦       
++---zOther
+    +---devilkkw
+    ¦   ¦   README.md
+    ¦   ¦   
+    ¦   +---animals
+    ¦   ¦       animals_categories.txt
+    ¦   ¦       animals_types_aquatic_cambrian.txt
+    ¦   ¦       animals_types_aquatic_crustacean.txt
+    ¦   ¦       animals_types_aquatic_fish.txt
+    ¦   ¦       animals_types_aquatic_invertebrate.txt
+    ¦   ¦       animals_types_aquatic_whale.txt
+    ¦   ¦       animals_types_cat.txt
+    ¦   ¦       animals_types_dog.txt
+    ¦   ¦       animals_types_insects.txt
+    ¦   ¦       animals_types_large.txt
+    ¦   ¦       animals_types_medium.txt
+    ¦   ¦       animals_types_reptile_and_amphibian.txt
+    ¦   ¦       animals_types_rodent.txt
+    ¦   ¦       birds_main.txt
+    ¦   ¦       birds_mythological.txt
+    ¦   ¦       birds_real.txt
+    ¦   ¦       cats_behavior.txt
+    ¦   ¦       cats_breeds.txt
+    ¦   ¦       cats_coat.txt
+    ¦   ¦       cats_felines.txt
+    ¦   ¦       cats_main.txt
+    ¦   ¦       cats_misc.txt
+    ¦   ¦       cats_places.txt
+    ¦   ¦       cats_related.txt
+    ¦   ¦       dogs_main.txt
+    ¦   ¦       dog_breeds.txt
+    ¦   ¦       dog_canines.txt
+    ¦   ¦       dog_misc.txt
+    ¦   ¦       dog_related.txt
+    ¦   ¦       ears_animal.txt
+    ¦   ¦       groups_animals.txt
+    ¦   ¦       
+    ¦   +---attire
+    ¦   ¦       attire_headwear.txt
+    ¦   ¦       attire_jewelry_and_accessories_head_and_face.txt
+    ¦   ¦       attire_jewelry_and_accessories_limbs.txt
+    ¦   ¦       attire_jewelry_and_accessories_neck_and_shoulders.txt
+    ¦   ¦       attire_jewelry_and_accessories_torso_and_misc.txt
+    ¦   ¦       attire_legs_and_feet.txt
+    ¦   ¦       attire_other.txt
+    ¦   ¦       attire_pants_and_bottomwear.txt
+    ¦   ¦       attire_shirts_and_topwear.txt
+    ¦   ¦       attire_shoes_and_footwear.txt
+    ¦   ¦       attire_styles_and_patterns_patterns.txt
+    ¦   ¦       attire_styles_and_patterns_prints.txt
+    ¦   ¦       attire_swimsuits_and_bodysuits.txt
+    ¦   ¦       attire_traditional_clothing.txt
+    ¦   ¦       attire_uniforms_and_costumes.txt
+    ¦   ¦       
+    ¦   +---audio
+    ¦   ¦       audio_genre.txt
+    ¦   ¦       audio_instruments_brass.txt
+    ¦   ¦       audio_instruments_keyboard.txt
+    ¦   ¦       audio_instruments_other.txt
+    ¦   ¦       audio_instruments_percussion.txt
+    ¦   ¦       audio_instruments_strings.txt
+    ¦   ¦       audio_instruments_woodwinds.txt
+    ¦   ¦       audio_misc.txt
+    ¦   ¦       audio_places.txt
+    ¦   ¦       audio_playback_media.txt
+    ¦   ¦       audio_playback_other.txt
+    ¦   ¦       audio_playback_players.txt
+    ¦   ¦       audio_playback_speakers_and_headphones.txt
+    ¦   ¦       audio_professions.txt
+    ¦   ¦       
+    ¦   +---background
+    ¦   ¦       backgrounds_colors.txt
+    ¦   ¦       backgrounds_multiple_colors.txt
+    ¦   ¦       backgrounds_other.txt
+    ¦   ¦       backgrounds_patterns.txt
+    ¦   ¦       
+    ¦   +---body-1
+    ¦   ¦       ass_anatomy.txt
+    ¦   ¦       ass_and_hands.txt
+    ¦   ¦       ass_and_heads.txt
+    ¦   ¦       ass_anus_anatomy.txt
+    ¦   ¦       ass_misc.txt
+    ¦   ¦       ass_with_cum.txt
+    ¦   ¦       body_parts_appendages.txt
+    ¦   ¦       body_parts_head.txt
+    ¦   ¦       body_parts_torso_lower.txt
+    ¦   ¦       body_parts_torso_upper.txt
+    ¦   ¦       breasts_and_other_body_parts_docking.txt
+    ¦   ¦       breasts_and_other_body_parts_hands.txt
+    ¦   ¦       breasts_and_other_body_parts_head.txt
+    ¦   ¦       breasts_and_other_body_parts_mouth.txt
+    ¦   ¦       breasts_and_other_body_parts_penis.txt
+    ¦   ¦       breasts_and_other_body_parts_toys.txt
+    ¦   ¦       breasts_clothes_for.txt
+    ¦   ¦       breasts_descriptions.txt
+    ¦   ¦       breasts_main.txt
+    ¦   ¦       breasts_misc.txt
+    ¦   ¦       breasts_sizes_ranges.txt
+    ¦   ¦       breasts_sizes_scenes_revolving_around.txt
+    ¦   ¦       breasts_visibilty_parts.txt
+    ¦   ¦       breasts_visibilty_whole.txt
+    ¦   ¦       ears_misc.txt
+    ¦   ¦       ears_number.txt
+    ¦   ¦       ears_objects.txt
+    ¦   ¦       ears_other.txt
+    ¦   ¦       eyes_accessories.txt
+    ¦   ¦       eyes_around.txt
+    ¦   ¦       eyes_closed.txt
+    ¦   ¦       eyes_emotions_and_expressions.txt
+    ¦   ¦       eyes_gazes.txt
+    ¦   ¦       eyes_iris_colors.txt
+    ¦   ¦       eyes_iris_form.txt
+    ¦   ¦       eyes_iris_multiple_colors.txt
+    ¦   ¦       eyes_misc.txt
+    ¦   ¦       eyes_more_appearance_animal.txt
+    ¦   ¦       eyes_more_appearance_other.txt
+    ¦   ¦       eyes_more_appearance_series_specific.txt
+    ¦   ¦       eyes_more_appearance_stylistic.txt
+    ¦   ¦       eyes_number.txt
+    ¦   ¦       eyes_pupils.txt
+    ¦   ¦       eyes_sclera.txt
+    ¦   ¦       face_drawing_styles.txt
+    ¦   ¦       face_emotes.txt
+    ¦   ¦       face_emotions.txt
+    ¦   ¦       face_looking_at.txt
+    ¦   ¦       face_main.txt
+    ¦   ¦       face_misc.txt
+    ¦   ¦       face_sexual.txt
+    ¦   ¦       face_smile.txt
+    ¦   ¦       face_smile_main.txt
+    ¦   ¦       face_smug.txt
+    ¦   ¦       face_smug_main.txt
+    ¦   ¦       face_surprised_scared_sad.txt
+    ¦   ¦       face_surprised_scared_sad_main.txt
+    ¦   ¦       hair_actions.txt
+    ¦   ¦       hair_color.txt
+    ¦   ¦       hair_color_misc.txt
+    ¦   ¦       hair_color_multiple.txt
+    ¦   ¦       hair_facial.txt
+    ¦   ¦       hair_fantasy.txt
+    ¦   ¦       hair_misc.txt
+    ¦   ¦       hair_objects_accessories.txt
+    ¦   ¦       hair_objects_care.txt
+    ¦   ¦       hair_styles_back.txt
+    ¦   ¦       hair_styles_front.txt
+    ¦   ¦       hair_styles_length.txt
+    ¦   ¦       hair_styles_long.txt
+    ¦   ¦       hair_styles_medium.txt
+    ¦   ¦       hair_styles_misc.txt
+    ¦   ¦       hair_styles_over_the_body.txt
+    ¦   ¦       hair_styles_short.txt
+    ¦   ¦       hair_styles_tall.txt
+    ¦   ¦       hair_styles_texture.txt
+    ¦   ¦       hair_styles_tied.txt
+    ¦   ¦       hair_styles_top.txt
+    ¦   ¦       hands_strange.txt
+    ¦   ¦       hands_where_above_neck.txt
+    ¦   ¦       hands_where_breasts.txt
+    ¦   ¦       hands_where_lower_body.txt
+    ¦   ¦       hands_where_members.txt
+    ¦   ¦       hands_where_somewhere_else.txt
+    ¦   ¦       hands_where_upper_body.txt
+    ¦   ¦       
+    ¦   +---body-2
+    ¦   ¦       legwear_action.txt
+    ¦   ¦       legwear_bands.txt
+    ¦   ¦       legwear_colors.txt
+    ¦   ¦       legwear_main.txt
+    ¦   ¦       legwear_misc.txt
+    ¦   ¦       legwear_multiple_colors.txt
+    ¦   ¦       legwear_pattern.txt
+    ¦   ¦       legwear_style.txt
+    ¦   ¦       neck_and_neckwear_actions.txt
+    ¦   ¦       neck_and_neckwear_anatomy.txt
+    ¦   ¦       neck_and_neckwear_attire_accessories_objects.txt
+    ¦   ¦       neck_and_neckwear_collar.txt
+    ¦   ¦       neck_and_neckwear_styles_colors.txt
+    ¦   ¦       neck_and_neckwear_styles_patterns.txt
+    ¦   ¦       nudity_by_gender.txt
+    ¦   ¦       nudity_complete.txt
+    ¦   ¦       nudity_dressing_covering_body_parts.txt
+    ¦   ¦       nudity_misc.txt
+    ¦   ¦       nudity_naughty_points_of_view.txt
+    ¦   ¦       nudity_partial_any_clothes.txt
+    ¦   ¦       nudity_partial_exposed_breasts.txt
+    ¦   ¦       nudity_partial_exposed_breasts_parts_of.txt
+    ¦   ¦       nudity_partial_exposed_chest.txt
+    ¦   ¦       nudity_partial_exposed_head_or_neck.txt
+    ¦   ¦       nudity_partial_exposed_nipples.txt
+    ¦   ¦       nudity_partial_exposed_shoulders_and_arms.txt
+    ¦   ¦       nudity_partial_exposed_torso.txt
+    ¦   ¦       nudity_partial_focus_on_exposed_ass_or_crotch.txt
+    ¦   ¦       nudity_partial_focus_on_exposed_legs_or_feet.txt
+    ¦   ¦       nudity_partial_misc.txt
+    ¦   ¦       nudity_partial_specific_clothes_or_ornaments_being_worn_as_exceptions.txt
+    ¦   ¦       nudity_touching_clothes.txt
+    ¦   ¦       panties_and_body_parts_breasts.txt
+    ¦   ¦       panties_and_body_parts_hands.txt
+    ¦   ¦       panties_and_body_parts_head.txt
+    ¦   ¦       panties_and_body_parts_legs.txt
+    ¦   ¦       panties_and_body_parts_misc.txt
+    ¦   ¦       panties_and_body_parts_penis.txt
+    ¦   ¦       panties_and_fluids.txt
+    ¦   ¦       panties_and_objects.txt
+    ¦   ¦       panties_appearance_additional.txt
+    ¦   ¦       panties_appearance_colors.txt
+    ¦   ¦       panties_appearance_incomplete.txt
+    ¦   ¦       panties_appearance_lowleg_highleg.txt
+    ¦   ¦       panties_appearance_materials.txt
+    ¦   ¦       panties_appearance_multiple_colors.txt
+    ¦   ¦       panties_appearance_patterns_and_prints.txt
+    ¦   ¦       panties_appearance_sizes.txt
+    ¦   ¦       panties_main.txt
+    ¦   ¦       panties_number.txt
+    ¦   ¦       panties_with_other_clothes.txt
+    ¦   ¦       piercings_general_locations_body.txt
+    ¦   ¦       piercings_general_locations_head_and_facial.txt
+    ¦   ¦       piercings_genital_female.txt
+    ¦   ¦       piercings_genital_male.txt
+    ¦   ¦       piercings_main.txt
+    ¦   ¦       piercings_misc.txt
+    ¦   ¦       pussy_adornments.txt
+    ¦   ¦       pussy_anatomy.txt
+    ¦   ¦       pussy_attire.txt
+    ¦   ¦       pussy_fluids.txt
+    ¦   ¦       pussy_hands_on.txt
+    ¦   ¦       pussy_sexual_objects_and_acts.txt
+    ¦   ¦       pussy_under_clothes.txt
+    ¦   ¦       pussy_visible_parts.txt
+    ¦   ¦       shoulders_anatomy.txt
+    ¦   ¦       shoulders_attire_clothing_desgined_to_leave_shoulders_asymmetrical_necklines.txt
+    ¦   ¦       shoulders_attire_clothing_desgined_to_leave_shoulders_bare_low_and_wide_cut_necklines.txt
+    ¦   ¦       shoulders_attire_clothing_desgined_to_leave_shoulders_bare_sleeveless.txt
+    ¦   ¦       shoulders_attire_clothing_desgined_to_leave_shoulders_bare_strapless.txt
+    ¦   ¦       shoulders_attire_exposed.txt
+    ¦   ¦       shoulders_attire_for.txt
+    ¦   ¦       shoulders_attire_other.txt
+    ¦   ¦       shoulders_with_somethinge_else_animals.txt
+    ¦   ¦       shoulders_with_somethinge_else_hands.txt
+    ¦   ¦       shoulders_with_somethinge_else_misc.txt
+    ¦   ¦       shoulders_with_somethinge_else_objects.txt
+    ¦   ¦       shoulders_with_somethinge_else_touching.txt
+    ¦   ¦       skin_color_abnormal.txt
+    ¦   ¦       skin_color_misc.txt
+    ¦   ¦       skin_color_normal.txt
+    ¦   ¦       water_wet.txt
+    ¦   ¦       
+    ¦   +---clothes
+    ¦   ¦       bra_colors.txt
+    ¦   ¦       bra_main.txt
+    ¦   ¦       bra_misc.txt
+    ¦   ¦       bra_models.txt
+    ¦   ¦       bra_multiple_colors.txt
+    ¦   ¦       bra_patterns_and_prints.txt
+    ¦   ¦       dress_appearance_colors.txt
+    ¦   ¦       dress_appearance_models.txt
+    ¦   ¦       dress_appearance_multiple_colors.txt
+    ¦   ¦       dress_appearance_other.txt
+    ¦   ¦       dress_appearance_patterns_and_prints.txt
+    ¦   ¦       dress_misc.txt
+    ¦   ¦       sleeves_colors.txt
+    ¦   ¦       sleeves_lack_thereof.txt
+    ¦   ¦       sleeves_lenght.txt
+    ¦   ¦       sleeves_misc.txt
+    ¦   ¦       sleeves_prints.txt
+    ¦   ¦       sleeves_styled.txt
+    ¦   ¦       sleeves_styles.txt
+    ¦   ¦       sleeves_trims.txt
+    ¦   ¦       swimsuit_colors.txt
+    ¦   ¦       swimsuit_male.txt
+    ¦   ¦       swimsuit_misc.txt
+    ¦   ¦       swimsuit_styles.txt
+    ¦   ¦       swimsuit_types.txt
+    ¦   ¦       water_clothes.txt
+    ¦   ¦       
+    ¦   +---colors
+    ¦   ¦       colors_collections.txt
+    ¦   ¦       colors_dominant_palettes.txt
+    ¦   ¦       colors_dominant_specific.txt
+    ¦   ¦       colors_misc.txt
+    ¦   ¦       
+    ¦   +---composition
+    ¦   ¦       image_composition_angle_perspective_depth.txt
+    ¦   ¦       image_composition_composition.txt
+    ¦   ¦       image_composition_flaws.txt
+    ¦   ¦       image_composition_focus.txt
+    ¦   ¦       image_composition_format.txt
+    ¦   ¦       image_composition_framing_body.txt
+    ¦   ¦       image_composition_other_patterns.txt
+    ¦   ¦       image_composition_styles.txt
+    ¦   ¦       image_composition_subject_matter.txt
+    ¦   ¦       image_composition_techniques.txt
+    ¦   ¦       image_composition_traditional_japanese_patterns.txt
+    ¦   ¦       
+    ¦   +---emoji
+    ¦   ¦       emoji.txt
+    ¦   ¦       
+    ¦   +---focus
+    ¦   ¦       focus_body_parts.txt
+    ¦   ¦       focus_gender.txt
+    ¦   ¦       focus_objects.txt
+    ¦   ¦       focus_other.txt
+    ¦   ¦       
+    ¦   +---food
+    ¦   ¦       food_actions.txt
+    ¦   ¦       food_breads.txt
+    ¦   ¦       food_condiments.txt
+    ¦   ¦       food_dairy.txt
+    ¦   ¦       food_drink_containers.txt
+    ¦   ¦       food_drink_main.txt
+    ¦   ¦       food_fruit.txt
+    ¦   ¦       food_main.txt
+    ¦   ¦       food_meal.txt
+    ¦   ¦       food_meat.txt
+    ¦   ¦       food_misc.txt
+    ¦   ¦       food_professions_and_establishments.txt
+    ¦   ¦       food_sexual.txt
+    ¦   ¦       food_snacks.txt
+    ¦   ¦       food_sweets.txt
+    ¦   ¦       food_sweets_main.txt
+    ¦   ¦       food_utensils.txt
+    ¦   ¦       food_vegetable.txt
+    ¦   ¦       
+    ¦   +---games
+    ¦   ¦       board_games_main.txt
+    ¦   ¦       board_games_pieces.txt
+    ¦   ¦       game_activities_board.txt
+    ¦   ¦       game_activities_card.txt
+    ¦   ¦       game_activities_group.txt
+    ¦   ¦       game_activities_hand.txt
+    ¦   ¦       game_activities_mechanical.txt
+    ¦   ¦       game_activities_places.txt
+    ¦   ¦       game_activities_puzzle.txt
+    ¦   ¦       
+    ¦   +---gesture
+    ¦   ¦       gestures_one_hand_one_open_finger.txt
+    ¦   ¦       gestures_one_hand_three_open_fingers.txt
+    ¦   ¦       gestures_one_hand_two_open_fingers.txt
+    ¦   ¦       gestures_one_hand_variable_number_of_open_fingers.txt
+    ¦   ¦       gestures_one_hand_whole_closed_hand.txt
+    ¦   ¦       gestures_one_hand_whole_open_hand.txt
+    ¦   ¦       gestures_other.txt
+    ¦   ¦       gestures_two_hands.txt
+    ¦   ¦       
+    ¦   +---group
+    ¦   ¦       groups_by_gender_boys.txt
+    ¦   ¦       groups_by_gender_girls.txt
+    ¦   ¦       groups_by_gender_other.txt
+    ¦   ¦       groups_everyone.txt
+    ¦   ¦       groups_main.txt
+    ¦   ¦       
+    ¦   +---nature and elements
+    ¦   ¦       fire_actions.txt
+    ¦   ¦       fire_body_parts.txt
+    ¦   ¦       fire_colors.txt
+    ¦   ¦       fire_forms.txt
+    ¦   ¦       fire_main.txt
+    ¦   ¦       fire_misc.txt
+    ¦   ¦       fire_objects.txt
+    ¦   ¦       flowers_main.txt
+    ¦   ¦       flowers_misc.txt
+    ¦   ¦       flowers_species.txt
+    ¦   ¦       plant_actions.txt
+    ¦   ¦       plant_locations.txt
+    ¦   ¦       plant_misc.txt
+    ¦   ¦       plant_parts.txt
+    ¦   ¦       plant_types.txt
+    ¦   ¦       tree_action.txt
+    ¦   ¦       tree_habitats.txt
+    ¦   ¦       tree_misc.txt
+    ¦   ¦       tree_parts.txt
+    ¦   ¦       tree_types.txt
+    ¦   ¦       water_geography_bodies.txt
+    ¦   ¦       water_geography_landforms.txt
+    ¦   ¦       water_ice.txt
+    ¦   ¦       water_main.txt
+    ¦   ¦       water_meteorology.txt
+    ¦   ¦       water_misc.txt
+    ¦   ¦       water_steam.txt
+    ¦   ¦       
+    ¦   +---object
+    ¦   ¦       eyewear_eyewear_frame_colors.txt
+    ¦   ¦       eyewear_eyewear_lens_colors.txt
+    ¦   ¦       eyewear_eyewear_misc.txt
+    ¦   ¦       eyewear_eyewear_types.txt
+    ¦   ¦       eyewear_glasses_misc.txt
+    ¦   ¦       eyewear_glasses_types.txt
+    ¦   ¦       eyewear_main.txt
+    ¦   ¦       eyewear_sunglasses.txt
+    ¦   ¦       headwear_accessories.txt
+    ¦   ¦       headwear_actions.txt
+    ¦   ¦       headwear_colors.txt
+    ¦   ¦       headwear_crowns.txt
+    ¦   ¦       headwear_hats_brimless.txt
+    ¦   ¦       headwear_hats_misc.txt
+    ¦   ¦       headwear_hats_with_brim.txt
+    ¦   ¦       headwear_hats_with_ear_flaps.txt
+    ¦   ¦       headwear_hats_with_visor.txt
+    ¦   ¦       headwear_helmets.txt
+    ¦   ¦       headwear_non_specific_styles.txt
+    ¦   ¦       headwear_not_headwear.txt
+    ¦   ¦       headwear_other.txt
+    ¦   ¦       headwear_types.txt
+    ¦   ¦       injury_coverings.txt
+    ¦   ¦       injury_misc.txt
+    ¦   ¦       injury_visible.txt
+    ¦   ¦       sex_objects_BDSM.txt
+    ¦   ¦       sex_objects_fluids.txt
+    ¦   ¦       sex_objects_sex_toys.txt
+    ¦   ¦       sports_equpment.txt
+    ¦   ¦       tail_and_objects.txt
+    ¦   ¦       tail_and_sex.txt
+    ¦   ¦       tail_main.txt
+    ¦   ¦       tail_misc.txt
+    ¦   ¦       tail_number.txt
+    ¦   ¦       tail_types_elemental.txt
+    ¦   ¦       tail_types_mammals.txt
+    ¦   ¦       tail_types_other_animals.txt
+    ¦   ¦       tail_types_supernatural.txt
+    ¦   ¦       technology_armor_futuristic.txt
+    ¦   ¦       technology_armor_modern.txt
+    ¦   ¦       technology_artificial_life.txt
+    ¦   ¦       technology_computers.txt
+    ¦   ¦       technology_costumes.txt
+    ¦   ¦       technology_descriptions.txt
+    ¦   ¦       technology_holograms.txt
+    ¦   ¦       technology_jobs.txt
+    ¦   ¦       technology_mecha.txt
+    ¦   ¦       technology_medical.txt
+    ¦   ¦       technology_parts_electronic.txt
+    ¦   ¦       technology_parts_main.txt
+    ¦   ¦       technology_parts_mechanical.txt
+    ¦   ¦       technology_personal_communication.txt
+    ¦   ¦       technology_places.txt
+    ¦   ¦       technology_prosthetics.txt
+    ¦   ¦       technology_radio.txt
+    ¦   ¦       technology_robots.txt
+    ¦   ¦       technology_scientific.txt
+    ¦   ¦       technology_space.txt
+    ¦   ¦       technology_themes.txt
+    ¦   ¦       technology_tools.txt
+    ¦   ¦       technology_vehicles_aerospace.txt
+    ¦   ¦       technology_vehicles_land.txt
+    ¦   ¦       technology_vehicles_naval.txt
+    ¦   ¦       technology_vehicles_power_sources.txt
+    ¦   ¦       water_vehicles.txt
+    ¦   ¦       wings_colors.txt
+    ¦   ¦       wings_main.txt
+    ¦   ¦       wings_misc.txt
+    ¦   ¦       wings_number.txt
+    ¦   ¦       wings_sizes.txt
+    ¦   ¦       wings_types_elemental.txt
+    ¦   ¦       wings_types_false.txt
+    ¦   ¦       wings_types_insects.txt
+    ¦   ¦       wings_types_other.txt
+    ¦   ¦       wings_types_supernatural.txt
+    ¦   ¦       wings_where_attached.txt
+    ¦   ¦       
+    ¦   +---pose
+    ¦   ¦       posture_arms_basic.txt
+    ¦   ¦       posture_arms_specific.txt
+    ¦   ¦       posture_basic.txt
+    ¦   ¦       posture_carrying.txt
+    ¦   ¦       posture_foot_position.txt
+    ¦   ¦       posture_hands_touching_each_other.txt
+    ¦   ¦       posture_hand_position.txt
+    ¦   ¦       posture_head.txt
+    ¦   ¦       posture_hips.txt
+    ¦   ¦       posture_hugging_main.txt
+    ¦   ¦       posture_hugging_one_character.txt
+    ¦   ¦       posture_hugging_two_characters.txt
+    ¦   ¦       posture_knee_location.txt
+    ¦   ¦       posture_leg_location.txt
+    ¦   ¦       posture_movement_of_the_body.txt
+    ¦   ¦       posture_other_whole_body.txt
+    ¦   ¦       posture_poses.txt
+    ¦   ¦       posture_rest_points.txt
+    ¦   ¦       posture_three_characters.txt
+    ¦   ¦       posture_torso.txt
+    ¦   ¦       posture_two_characters.txt
+    ¦   ¦       sexual_positions_bondage.txt
+    ¦   ¦       sexual_positions_main.txt
+    ¦   ¦       sex_acts_before.txt
+    ¦   ¦       sex_acts_fetishes_ageplay.txt
+    ¦   ¦       sex_acts_fetishes_animal_play.txt
+    ¦   ¦       sex_acts_fetishes_body_types.txt
+    ¦   ¦       sex_acts_fetishes_bondage.txt
+    ¦   ¦       sex_acts_fetishes_breasts.txt
+    ¦   ¦       sex_acts_fetishes_cum_play.txt
+    ¦   ¦       sex_acts_fetishes_exhibitionism.txt
+    ¦   ¦       sex_acts_fetishes_extreme_mutilation.txt
+    ¦   ¦       sex_acts_fetishes_extreme_scat_and_urination.txt
+    ¦   ¦       sex_acts_fetishes_facial_expressions.txt
+    ¦   ¦       sex_acts_fetishes_gender_play.txt
+    ¦   ¦       sex_acts_fetishes_incest.txt
+    ¦   ¦       sex_acts_fetishes_misc.txt
+    ¦   ¦       sex_acts_fetishes_rape.txt
+    ¦   ¦       sex_acts_fetishes_smother.txt
+    ¦   ¦       sex_acts_fetishes_views.txt
+    ¦   ¦       sex_acts_group_sex.txt
+    ¦   ¦       sex_acts_penetration_and_insertion.txt
+    ¦   ¦       sex_acts_same_sex.txt
+    ¦   ¦       sex_acts_stimulation.txt
+    ¦   ¦       sleeves_actions.txt
+    ¦   ¦       
+    ¦   +---var
+    ¦           jobs.txt
+    ¦           prints_patterns.txt
+    ¦           prints_patterns_specific.txt
+    ¦           prints_patterns_things.txt
+    ¦           prints_print_items.txt
+    ¦           sports_list.txt
+    ¦           sports_main.txt
+    ¦           verbs_and_gerunds_ambiguous.txt
+    ¦           verbs_and_gerunds_gerunds.txt
+    ¦           verbs_and_gerunds_verbs.txt
+    ¦           
+    +---faker-js
+    ¦       fkr-animal-bear.txt
+    ¦       fkr-animal-bird.txt
+    ¦       fkr-animal-cat.txt
+    ¦       fkr-animal-cetacean.txt
+    ¦       fkr-animal-cow.txt
+    ¦       fkr-animal-crocodilia.txt
+    ¦       fkr-animal-dog.txt
+    ¦       fkr-animal-fish.txt
+    ¦       fkr-animal-horse.txt
+    ¦       fkr-animal-insect.txt
+    ¦       fkr-animal-lion.txt
+    ¦       fkr-animal-rabbit.txt
+    ¦       fkr-animal-rodent.txt
+    ¦       fkr-animal-snake.txt
+    ¦       fkr-animal-type.txt
+    ¦       fkr-bicycle-type.txt
+    ¦       fkr-business-adjective.txt
+    ¦       fkr-business-descriptor.txt
+    ¦       fkr-business-noun.txt
+    ¦       fkr-business-verb.txt
+    ¦       fkr-chemical-element.txt
+    ¦       fkr-color-human.txt
+    ¦       fkr-color-space.txt
+    ¦       fkr-creature.txt
+    ¦       fkr-hacker-abbr.txt
+    ¦       fkr-hacker-adjective.txt
+    ¦       fkr-hacker-ingverb.txt
+    ¦       fkr-hacker-noun.txt
+    ¦       fkr-hacker-verb.txt
+    ¦       fkr-job-descriptor.txt
+    ¦       fkr-job-level.txt
+    ¦       fkr-job.txt
+    ¦       fkr-location-city.txt
+    ¦       fkr-location-country.txt
+    ¦       fkr-location-county.txt
+    ¦       fkr-location-direction.txt
+    ¦       fkr-location-state.txt
+    ¦       fkr-location-timezone.txt
+    ¦       fkr-lorem-supplemental.txt
+    ¦       fkr-lorem-word.txt
+    ¦       fkr-month.txt
+    ¦       fkr-music-genre.txt
+    ¦       fkr-music-song.txt
+    ¦       fkr-person-gender.txt
+    ¦       fkr-person-name-prefix.txt
+    ¦       fkr-person-name-suffix.txt
+    ¦       fkr-person-sex.txt
+    ¦       fkr-vehicle-fuel.txt
+    ¦       fkr-vehicle-manufacturer.txt
+    ¦       fkr-vehicle-model.txt
+    ¦       fkr-vehicle-type.txt
+    ¦       fkr-weekday.txt
+    ¦       fkr-word-adjective.txt
+    ¦       fkr-word-adverb.txt
+    ¦       fkr-word-conjunction.txt
+    ¦       fkr-word-interjection.txt
+    ¦       fkr-word-noun.txt
+    ¦       fkr-word-preposition.txt
+    ¦       fkr-word-verb.txt
+    ¦       fkr-zodiac-sign.txt
+    ¦       
+    +---naiwildcards
+    ¦       nai-angle.txt
+    ¦       nai-background.txt
+    ¦       nai-bangs.txt
+    ¦       nai-bdsm-extras.txt
+    ¦       nai-bdsm-gear.txt
+    ¦       nai-bdsm-outfit.txt
+    ¦       nai-bdsm-positions.txt
+    ¦       nai-body-framing.txt
+    ¦       nai-bra-actions.txt
+    ¦       nai-bra-colours.txt
+    ¦       nai-bra-pattern.txt
+    ¦       nai-bra-type.txt
+    ¦       nai-breast-state.txt
+    ¦       nai-celebration.txt
+    ¦       nai-characters.txt
+    ¦       nai-clothing-print.txt
+    ¦       nai-clothing-state.txt
+    ¦       nai-clothing-style.txt
+    ¦       nai-clothing.txt
+    ¦       nai-collar.txt
+    ¦       nai-composition.txt
+    ¦       nai-covering.txt
+    ¦       nai-cumplay.txt
+    ¦       nai-earrings.txt
+    ¦       nai-exposing.txt
+    ¦       nai-eye-colour.txt
+    ¦       nai-face.txt
+    ¦       nai-fetishes.txt
+    ¦       nai-fluids.txt
+    ¦       nai-focus.txt
+    ¦       nai-footwear.txt
+    ¦       nai-format.txt
+    ¦       nai-hair-color.txt
+    ¦       nai-hair-length.txt
+    ¦       nai-hair-style-female.txt
+    ¦       nai-hair-style.txt
+    ¦       nai-hair-texture.txt
+    ¦       nai-hair-top.txt
+    ¦       nai-headwear.txt
+    ¦       nai-jewelry.txt
+    ¦       nai-jobs.txt
+    ¦       nai-legwear-state.txt
+    ¦       nai-legwear.txt
+    ¦       nai-limbwear-state.txt
+    ¦       nai-limbwear.txt
+    ¦       nai-lingerie-state.txt
+    ¦       nai-lingerie.txt
+    ¦       nai-location.txt
+    ¦       nai-masks.txt
+    ¦       nai-naked-state.txt
+    ¦       nai-neckwear-colour.txt
+    ¦       nai-neckwear-pattern.txt
+    ¦       nai-neckwear.txt
+    ¦       nai-nsfw-expression.txt
+    ¦       nai-panties-actions.txt
+    ¦       nai-panties-colour.txt
+    ¦       nai-panties-detail.txt
+    ¦       nai-panties-pattern.txt
+    ¦       nai-panties-types.txt
+    ¦       nai-pose.txt
+    ¦       nai-publicity.txt
+    ¦       nai-sex-acts.txt
+    ¦       nai-sex-positions.txt
+    ¦       nai-sex-toys.txt
+    ¦       nai-sports.txt
+    ¦       nai-style.txt
+    ¦       nai-swimwear-state.txt
+    ¦       nai-swimwear.txt
+    ¦       nai-time.txt
+    ¦       nai-torso-extras.txt
+    ¦       nai-torsowear-state.txt
+    ¦       nai-touching-clothes.txt
+    ¦       
+    +---noodle-soup
+    ¦       nsp-3d-terms.txt
+    ¦       nsp-adj-architecture.txt
+    ¦       nsp-adj-beauty.txt
+    ¦       nsp-adj-general.txt
+    ¦       nsp-adj-horror.txt
+    ¦       nsp-animals.txt
+    ¦       nsp-artist-botanical.txt
+    ¦       nsp-artist-surreal.txt
+    ¦       nsp-artist.txt
+    ¦       nsp-aspect-ratio.txt
+    ¦       nsp-bird.txt
+    ¦       nsp-body-fit.txt
+    ¦       nsp-body-heavy.txt
+    ¦       nsp-body-light.txt
+    ¦       nsp-body-poor.txt
+    ¦       nsp-body-shape.txt
+    ¦       nsp-body-short.txt
+    ¦       nsp-body-tall.txt
+    ¦       nsp-bodyshape.txt
+    ¦       nsp-camera-manu.txt
+    ¦       nsp-camera.txt
+    ¦       nsp-celeb.txt
+    ¦       nsp-color-palette.txt
+    ¦       nsp-color.txt
+    ¦       nsp-cosmic-galaxy.txt
+    ¦       nsp-cosmic-nebula.txt
+    ¦       nsp-cosmic-star.txt
+    ¦       nsp-cosmic-terms.txt
+    ¦       nsp-details.txt
+    ¦       nsp-dinosaur.txt
+    ¦       nsp-eyecolor.txt
+    ¦       nsp-f-stop.txt
+    ¦       nsp-fantasy-creature.txt
+    ¦       nsp-fantasy-setting.txt
+    ¦       nsp-fish.txt
+    ¦       nsp-flower.txt
+    ¦       nsp-focal-length.txt
+    ¦       nsp-foods.txt
+    ¦       nsp-forest-type.txt
+    ¦       nsp-fruit.txt
+    ¦       nsp-games.txt
+    ¦       nsp-gen-modifier.txt
+    ¦       nsp-gender-ext.txt
+    ¦       nsp-gender.txt
+    ¦       nsp-hair.txt
+    ¦       nsp-hd.txt
+    ¦       nsp-identity-adult.txt
+    ¦       nsp-identity-young.txt
+    ¦       nsp-identity.txt
+    ¦       nsp-iso-stop.txt
+    ¦       nsp-landscape-type.txt
+    ¦       nsp-movement.txt
+    ¦       nsp-nationality.txt
+    ¦       nsp-natl-park.txt
+    ¦       nsp-neg-weight.txt
+    ¦       nsp-noun-emote.txt
+    ¦       nsp-noun-fantasy.txt
+    ¦       nsp-noun-general.txt
+    ¦       nsp-noun-horror.txt
+    ¦       nsp-occupation.txt
+    ¦       nsp-photo-term.txt
+    ¦       nsp-pop-culture.txt
+    ¦       nsp-pop-location.txt
+    ¦       nsp-portrait-type.txt
+    ¦       nsp-punk.txt
+    ¦       nsp-quantity.txt
+    ¦       nsp-rpg-Item.txt
+    ¦       nsp-scenario-desc.txt
+    ¦       nsp-site.txt
+    ¦       nsp-style.txt
+    ¦       nsp-tree.txt
+    ¦       nsp-trippy.txt
+    ¦       nsp-water.txt
+    ¦       nsp-wh-site.txt
+    ¦       
+    +---parrot-zone
+    ¦       prz-modifier-all.txt
+    ¦       prz-modifier-high.txt
+    ¦       prz-modifier-low.txt
+    ¦       prz-modifier-med.txt
+    ¦       prz-tag-aesthetic.txt
+    ¦       prz-tag-art-movement.txt
+    ¦       prz-tag-color.txt
+    ¦       prz-tag-medium.txt
+    ¦       prz-tag-mood.txt
+    ¦       prz-tag-perspective.txt
+    ¦       prz-tag-photography.txt
+    ¦       prz-tag-pop-culture.txt
+    ¦       prz-tag-quality.txt
+    ¦       prz-tag-setting.txt
+    ¦       prz-tag-style.txt
+    ¦       
+    +---sdwildcardlists
+            wcl-adjective.txt
+            wcl-buildingmaterial.txt
+            wcl-ceramic.txt
+            wcl-composite.txt
+            wcl-gemstone.txt
+            wcl-material.txt
+            wcl-metal.txt
+            wcl-noun-full.txt
+            wcl-noun.txt
+            wcl-preposition.txt
+            wcl-verb.txt
+            wcl-verbing.txt
+            wcl-wood.txt
+            

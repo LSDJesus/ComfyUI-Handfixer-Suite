@@ -1,0 +1,10 @@
+__expression/Angry__ facial expression
+__expression/Contemplative__ facial expression
+__expression/erotic__ facial expression
+__expression/Happy__ facial expression
+__expression/Negative__ facial expression
+__expression/Pained__ facial expression
+__expression/Positive__ facial expression
+__expression/Sad__ facial expression
+__expression/Sensual__ facial expression
+__expression/Sexual__ facial expression

@@ -1,0 +1,10 @@
+__setting/location/fantasy__, __setting/sky_condition__
+__setting/location/house__
+__setting/location/indoor-private__
+__setting/location/indoor-public__
+__setting/location/outdoor-public__, __setting/sky_condition__
+__setting/location/outdoor-remote__, __setting/sky_condition__
+__setting/location/house__
+__setting/location/vehicle__
+__setting/location/water__, __setting/sky_condition__
+cosmic background

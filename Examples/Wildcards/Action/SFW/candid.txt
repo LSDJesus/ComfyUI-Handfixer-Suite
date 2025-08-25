@@ -1,0 +1,13 @@
+(laughing heartily:1.2), head thrown back, genuine joy, eyes crinkling
+(tripping on curb:1.2), stumbling, flustered, trying to regain balance
+(dropping papers:1.1), papers scattering in the wind, trying to catch them
+(hailing a cab:1.1), arm raised, confident, looking down the street
+(checking phone while walking:1.1), distracted, navigating a crowd
+(eating an ice cream cone:1.1), licking, focused on not making a mess
+(sipping coffee from a mug:1.1), warming hands, thoughtful expression
+(reacting to a loud noise:1.2), startled, jumping slightly, looking around
+(reading a book in a park:1.1), engrossed, turning a page
+(chasing after a bus:1.2), running, desperate, arm outstretched
+(sheltering from rain:1.2), holding a newspaper over her head, huddled in a doorway
+(window shopping:1.1), looking at a display, pointing at something
+(unlocking a door:1.1), fumbling for keys, focused on the lock

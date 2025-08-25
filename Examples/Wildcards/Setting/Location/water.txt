@@ -1,0 +1,14 @@
+__setting/location/pool__
+beach
+shore
+oasis
+island
+lake
+ocean
+pond
+river
+stream
+waterfall
+pool
+poolside
+waterpark

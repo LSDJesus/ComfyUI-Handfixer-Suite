@@ -1,0 +1,53 @@
+hazel
+green
+brown
+black
+grey
+purple
+pink
+red
+silver
+yellow
+Sapphire color
+turquoise color
+amethyst color
+aquamarine color
+ruby  color
+coral color
+peach color
+gold
+dark brown
+jade color
+teal color
+ice blue
+light blue
+blue
+grey-blue
+amber
+blue sclera
+black sclera
+blank eyes
+bloodshot eyes
+green sclera
+mismatched sclera
+no sclera
+orange sclera
+red sclera
+yellow sclera
+Brown
+Blue
+Green
+Hazel
+Amber
+Gray
+Violet
+Red 
+Black 
+Blue-Green
+Gray-Blue
+Green-Brown
+Hazel-Blue
+Amber-Green
+Brown-Grey
+Grey-Green
+Violet-Blue

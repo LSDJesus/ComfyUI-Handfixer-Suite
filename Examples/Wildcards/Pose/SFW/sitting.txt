@@ -1,0 +1,14 @@
+(sitting on a chair, legs crossed:1.1), poised, elegant, attentive
+(slouching on a couch:1.2), relaxed, watching tv, casual
+(sitting on the floor, knees pulled to chest:1.1), pensive, thoughtful, introspective
+(cross-legged on the ground:1.1), meditative, yoga pose, calm
+(sitting at a desk:1.1), working, typing on a computer, focused
+(perched on a stool:1.1), bar, waiting, alert
+(sitting on a windowsill:1.2), looking out the window, contemplative, rain outside
+(sitting on steps:1.1), outdoor, urban setting, waiting for someone
+(lotus position:1.1), yoga, meditation, serene expression
+(sitting with legs dangling:1.1), on a pier, over water, carefree
+(huddled on the floor:1.2), sad, trying to be small, emotional
+(sitting back-to-back with someone:1.1), partnership, silent understanding
+(sitting on a park bench:1.1), feeding pigeons, enjoying the day
+(rocking in a rocking chair:1.1), gentle motion, peaceful, nostalgic

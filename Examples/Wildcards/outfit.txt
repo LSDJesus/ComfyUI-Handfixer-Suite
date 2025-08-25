@@ -1,0 +1,74 @@
+nude
+nude
+nude
+__color__ __clothing/bot-panties__, __clothing/bot-panties-actions__
+__color__ __clothing/outfit-athletic__
+__color__ __clothing/outfit-bathroom__
+__color__ __clothing/outfit-bottomless__
+__color__ __clothing/outfit-dress__, __clothing/footwear-heels__
+__color__ __clothing/outfit-lingerie__
+__color__ __clothing/outfit-sleepwear__
+__color__ __clothing/outfit-suit__
+__color__ __clothing/outfit-suit-fictional__
+__color__ __clothing/outfit-swimwear__
+__color__ __clothing/outfit-swimwear__, __clothing/footwear-sandals__
+__color__ __clothing/outfit-topless__
+__clothing/prefix-expose__ __color__ __clothing/outfit-athletic__
+__clothing/prefix-expose__ __color__ __clothing/outfit-bathroom__
+__clothing/prefix-expose__ __color__ __clothing/outfit-bottomless__
+__clothing/prefix-expose__ __color__ __clothing/outfit-dress__
+__clothing/prefix-expose__ __color__ __clothing/outfit-lingerie__
+__clothing/prefix-expose__ __color__ __clothing/outfit-sleepwear__
+__clothing/prefix-expose__ __color__ __clothing/outfit-suit__
+__clothing/prefix-expose__ __color__ __clothing/outfit-suit-fictional__
+__clothing/prefix-expose__ __color__ __clothing/outfit-swimwear__
+__clothing/prefix-expose__ __color__ __clothing/outfit-topless__
+__color__ __clothing/bot-panties__, __color__ __clothing/top-corset__
+__color__ __clothing/bot-panties__, __color__ __clothing/top-outer__
+__color__ __clothing/bot-panties__, __color__ __clothing/top-shirt__
+__color__ __clothing/bot-panties__, __color__ __clothing/top-sweater__
+__color__ __clothing/bot-panties__, __clothing/bot-panties-actions__
+__color__ __clothing/bot-leggings__, __color__ __clothing/top-bra__
+__color__ __clothing/bot-leggings__, __color__ __clothing/top-corset__
+__color__ __clothing/bot-leggings__, __color__ __clothing/top-outer__
+__color__ __clothing/bot-leggings__, __color__ __clothing/top-shirt__
+__color__ __clothing/bot-leggings__, __color__ __clothing/top-sweater__
+__color__ __clothing/bot-pants__, __color__ __clothing/top-bra__
+__color__ __clothing/bot-pants__, __color__ __clothing/top-corset__
+__color__ __clothing/bot-pants__, __color__ __clothing/top-outer__
+__color__ __clothing/bot-pants__, __color__ __clothing/top-shirt__
+__color__ __clothing/bot-pants__, __color__ __clothing/top-sweater__
+__color__ __clothing/bot-shorts__, __color__ __clothing/top-bra__
+__color__ __clothing/bot-shorts__, __color__ __clothing/top-corset__
+__color__ __clothing/bot-shorts__, __color__ __clothing/top-outer__
+__color__ __clothing/bot-shorts__, __color__ __clothing/top-shirt__
+__color__ __clothing/bot-shorts__, __color__ __clothing/top-sweater__
+__color__ __clothing/bot-skirt__, __color__ __clothing/top-bra__
+__color__ __clothing/bot-skirt__, __color__ __clothing/top-corset__
+__color__ __clothing/bot-skirt__, __color__ __clothing/top-outer__
+__color__ __clothing/bot-skirt__, __color__ __clothing/top-shirt__
+__color__ __clothing/bot-skirt__, __color__ __clothing/top-sweater__
+__color__ __clothing/bot-tights__, __color__ __clothing/top-bra__
+__color__ __clothing/bot-tights__, __color__ __clothing/top-corset__
+__color__ __clothing/bot-tights__, __color__ __clothing/top-outer__
+__color__ __clothing/bot-tights__, __color__ __clothing/top-shirt__
+__color__ __clothing/bot-tights__, __color__ __clothing/top-sweater__
+__color__ __clothing/top-bra__, __color__ __clothing/bot-leggings__ 
+__color__ __clothing/top-bra__, __color__ __clothing/bot-panties__
+__color__ __clothing/top-bra__, __color__ __clothing/bot-pants__
+__color__ __clothing/top-bra__, __color__ __clothing/bot-shorts__
+__color__ __clothing/top-bra__, __color__ __clothing/bot-skirt__
+__color__ __clothing/top-bra__, __color__ __clothing/bot-tights__
+__color__ __clothing/top-corset__, __color__ __clothing/bot-leggings__ 
+__color__ __clothing/top-corset__, __color__ __clothing/bot-panties__
+__color__ __clothing/top-corset__, __color__ __clothing/bot-pants__
+__color__ __clothing/top-corset__, __color__ __clothing/bot-shorts__
+__color__ __clothing/top-corset__, __color__ __clothing/bot-skirt__
+__color__ __clothing/top-corset__, __color__ __clothing/bot-tights__
+__color__ __clothing/top-shirt__, __color__ __clothing/bot-leggings__ 
+__color__ __clothing/top-shirt__, __color__ __clothing/bot-panties__
+__color__ __clothing/top-shirt__, __color__ __clothing/bot-pants__
+__color__ __clothing/top-shirt__, __color__ __clothing/bot-shorts__
+__color__ __clothing/top-shirt__, __color__ __clothing/bot-skirt__
+__color__ __clothing/top-shirt__, __color__ __clothing/bot-tights__
+__color__ __clothing/outfits__

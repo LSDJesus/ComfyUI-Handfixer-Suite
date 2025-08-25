@@ -1,0 +1,12 @@
+(lying on back, staring at ceiling:1.1), pensive, lost in thought, hands behind head
+(sleeping on stomach:1.1), face turned to the side, one arm under the pillow, peaceful
+(fetal position:1.2), curled up, knees to chest, sleeping deeply, self-comforting
+(lying on side, reading a book:1.1), propped up on one elbow, casual, engrossed
+(sprawled out on bed:1.2), starfished, taking up space, completely relaxed
+(lying on the floor:1.1), listening to music with headphones, eyes closed
+(lying in grass:1.1), looking up at the sky, daydreaming, surrounded by nature
+(sunbathing:1.1), on a towel, sunglasses on, enjoying the warmth
+(passed out on couch:1.2), fully clothed, exhausted, awkward sleeping position
+(head in lap:1.1), resting head on someone's lap, a moment of trust and comfort
+(planking:1.1), exercising, rigid body, fitness
+(doing crunches:1.1), sit-ups, workout, focused expression

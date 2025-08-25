@@ -1,0 +1,12 @@
+(brushing teeth:1.1), looking in the mirror, foam at the mouth
+(washing her face:1.1), splashing water, fresh and clean
+(applying makeup:1.1), using a brush, eyeliner, lipstick, careful precision
+(brushing hair:1.1), long strokes, looking in mirror, getting out tangles
+(drying hair with a towel:1.1), vigorous rubbing, messy and damp
+(using a hairdryer:1.1), wind blowing her hair, loud noise
+(choosing an outfit:1.2), looking through a closet, holding up clothes to herself
+(tying shoelaces:1.1), bent over, focused on the knot
+(putting on earrings:1.1), looking in a mirror, delicate work
+(spraying perfume:1.1), on her neck and wrists, eyes closed
+(making the bed:1.1), pulling up sheets, fluffing pillows, domestic
+(making coffee:1.1), pouring water, waiting for it to brew, morning ritual

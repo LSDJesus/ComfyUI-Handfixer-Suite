@@ -1,0 +1,383 @@
+Folder PATH listing for volume Storage
+Volume serial number is E836-AE70
+D:.
+¦   bigaspV25_v25.safetensors
+¦   illustriousXLV20_v20Stable.safetensors
+¦   IlustRealdollij.safetensors
+¦   my_checkpoint_library.txt
+¦   
++---AceStep
+¦       ace_step_v1_3.5b.safetensors
+¦       
++---Flux-Dev
++---Flux-Schnell
+¦       demonflux_10LowramSchnell_vaebaked.fp16.safetensors
+¦       
++---Illustrious
+¦   +---3DCG
+¦   ¦       dixar_2DoubleTheDix.safetensors
+¦   ¦       dollij_v10.safetensors
+¦   ¦       ilijelle_v30.safetensors
+¦   ¦       miaomiao3DHarem_nbxl10.safetensors
+¦   ¦       nova3DCGXL_illustriousV40.safetensors
+¦   ¦       
+¦   +---Anime
+¦   ¦       anicomeij_v30.civitai.info
+¦   ¦       anicomeij_v30.safetensors
+¦   ¦       anicomeij_v30.sha256
+¦   ¦       anilust_v10.civitai.info
+¦   ¦       anilust_v10.safetensors
+¦   ¦       anilust_v10.sha256
+¦   ¦       animij_v5.civitai.info
+¦   ¦       animij_v5.safetensors
+¦   ¦       animij_v5.sha256
+¦   ¦       celestialShine_10.safetensors
+¦   ¦       celestialShine_10.sha256
+¦   ¦       coldmilkIllustrious_v10.safetensors
+¦   ¦       coldmilkIllustrious_v10.sha256
+¦   ¦       darkmixMimosaIllustrious_v200.safetensors
+¦   ¦       darkmixMimosaIllustrious_v200.sha256
+¦   ¦       divingIllustrious_nijiVAE.safetensors
+¦   ¦       divingIllustrious_nijiVAE.sha256
+¦   ¦       dutch_v30.civitai.info
+¦   ¦       dutch_v30.safetensors
+¦   ¦       dutch_v30.sha256
+¦   ¦       fiveStarsIllustrious_70.safetensors
+¦   ¦       fiveStarsIllustrious_70.sha256
+¦   ¦       flyingDutchrious_v2.safetensors
+¦   ¦       flyingDutchrious_v2.sha256
+¦   ¦       kawaij_v20.safetensors
+¦   ¦       kawaij_v20.sha256
+¦   ¦       matureCitronIL_v50.civitai.info
+¦   ¦       matureCitronIL_v50.safetensors
+¦   ¦       matureCitronIL_v50.sha256
+¦   ¦       matureCitronIL_v60.safetensors
+¦   ¦       matureCitronIL_v60.sha256
+¦   ¦       miaomiao3DHarem_lh3d10.safetensors
+¦   ¦       miaomiao3DHarem_lh3d10.sha256
+¦   ¦       miaomiaoHarem_v16G.safetensors
+¦   ¦       miaomiaoHarem_v16G.sha256
+¦   ¦       novaAnime3dXL_v30.civitai.info
+¦   ¦       novaAnime3dXL_v30.safetensors
+¦   ¦       novaAnime3dXL_v30.sha256
+¦   ¦       novaCartoonXL_v30.civitai.info
+¦   ¦       novaCartoonXL_v30.safetensors
+¦   ¦       novaCartoonXL_v30.sha256
+¦   ¦       novaExanimeXL_illustriousV10.civitai.info
+¦   ¦       novaExanimeXL_illustriousV10.safetensors
+¦   ¦       novaExanimeXL_illustriousV10.sha256
+¦   ¦       ntrMIXIllustriousXL_xiii.civitai.info
+¦   ¦       ntrMIXIllustriousXL_xiii.safetensors
+¦   ¦       ntrMIXIllustriousXL_xiii.sha256
+¦   ¦       oneObsession_1424DNsfw.safetensors
+¦   ¦       oneObsession_1424DNsfw.sha256
+¦   ¦       posilustrij_v10.civitai.info
+¦   ¦       posilustrij_v10.safetensors
+¦   ¦       posilustrij_v10.sha256
+¦   ¦       prefectIllustriousXL_v20p.civitai.info
+¦   ¦       prefectIllustriousXL_v20p.safetensors
+¦   ¦       prefectIllustriousXL_v20p.sha256
+¦   ¦       prefectiousXLNSFW_v10.civitai.info
+¦   ¦       prefectiousXLNSFW_v10.safetensors
+¦   ¦       prefectiousXLNSFW_v10.sha256
+¦   ¦       reijil_v20.safetensors
+¦   ¦       reijil_v20.sha256
+¦   ¦       riMixPONYIllustrious_neoRiMix.safetensors
+¦   ¦       riMixPONYIllustrious_neoRiMix.sha256
+¦   ¦       riMixPONYIllustrious_riMix.safetensors
+¦   ¦       riMixPONYIllustrious_riMix.sha256
+¦   ¦       smoothMixIllustrious_illustriousV5.civitai.info
+¦   ¦       smoothMixIllustrious_illustriousV5.safetensors
+¦   ¦       smoothMixIllustrious_illustriousV5.sha256
+¦   ¦       toonmergeIllustrious_v7025D.civitai.info
+¦   ¦       toonmergeIllustrious_v7025D.safetensors
+¦   ¦       toonmergeIllustrious_v7025D.sha256
+¦   ¦       waveij_.civitai.info
+¦   ¦       waveij_.safetensors
+¦   ¦       waveij_.sha256
+¦   ¦       
+¦   +---Lightning_Hyper_DmD
+¦   ¦       autismmixSDXL_autismmixLightning.safetensors
+¦   ¦       autismmixSDXL_autismmixLightning.sha256
+¦   ¦       Babes_Illustrious_BSY_V5_Patreon_Pro_DMD2_C36.safetensors
+¦   ¦       Babes_Illustrious_BSY_V5_Patreon_Pro_DMD2_C36.sha256
+¦   ¦       Realism_Illustrious_BSY_PATREON_DMD2_V4.5_C28.safetensors
+¦   ¦       Realism_Illustrious_BSY_PATREON_DMD2_V4.5_C28.sha256
+¦   ¦       Ultra_Realistic_BSY_ILLUS_V1_PRO_Patreon_DMD2_C22.safetensors
+¦   ¦       Ultra_Realistic_BSY_ILLUS_V1_PRO_Patreon_DMD2_C22.sha256
+¦   ¦       
+¦   +---Realistic
+¦   ¦       Babes_Illustrious_BSY_V5_Patreon_Pro_FP16_C35.safetensors
+¦   ¦       Babes_Illustrious_BSY_V5_Patreon_Pro_FP16_C35.sha256
+¦   ¦       cyberillustrious_v40.safetensors
+¦   ¦       cyberillustrious_v40.sha256
+¦   ¦       cyberillustrious_v50.safetensors
+¦   ¦       cyberillustrious_v50.sha256
+¦   ¦       damnIllustriousPony_v50IllustriousNoobai.civitai.info
+¦   ¦       damnIllustriousPony_v50IllustriousNoobai.safetensors
+¦   ¦       damnIllustriousPony_v50IllustriousNoobai.sha256
+¦   ¦       darkmixMargarita_v200.safetensors
+¦   ¦       darkmixMargarita_v200.sha256
+¦   ¦       fantasticReality_10.safetensors
+¦   ¦       fantasticReality_10.sha256
+¦   ¦       goddessOfRealism_gorV6ilxlVAE.civitai.info
+¦   ¦       goddessOfRealism_gorV6ilxlVAE.safetensors
+¦   ¦       goddessOfRealism_gorV6ilxlVAE.sha256
+¦   ¦       hyphoriaRealIllu_v09.civitai.info
+¦   ¦       hyphoriaRealIllu_v09.safetensors
+¦   ¦       hyphoriaRealIllu_v09.sha256
+¦   ¦       illustriousRealismBy_v10VAE.safetensors
+¦   ¦       illustriousRealismBy_v10VAE.sha256
+¦   ¦       ilustreal_v50VAE.safetensors
+¦   ¦       ilustreal_v50VAE.sha256
+¦   ¦       jedpointreal_v3ilVae.civitai.info
+¦   ¦       jedpointreal_v3ilVae.safetensors
+¦   ¦       jedpointreal_v3ilVae.sha256
+¦   ¦       jibMixIllustrious_v20Revelation.safetensors
+¦   ¦       jibMixIllustrious_v20Revelation.sha256
+¦   ¦       novaRealityXL_illustriousV50.civitai.info
+¦   ¦       novaRealityXL_illustriousV50.safetensors
+¦   ¦       novaRealityXL_illustriousV50.sha256
+¦   ¦       perfectionCinematicILXL_v20.civitai.info
+¦   ¦       perfectionCinematicILXL_v20.safetensors
+¦   ¦       perfectionCinematicILXL_v20.sha256
+¦   ¦       perfectionRealisticILXL_v32.safetensors
+¦   ¦       perfectionRealisticILXL_v32.sha256
+¦   ¦       realismIllustriousBy_v45BF16.safetensors
+¦   ¦       realismIllustriousBy_v45BF16.sha256
+¦   ¦       Realism_BSY_Illustrious_V5_PATREON_FP16_C37.safetensors
+¦   ¦       Realism_BSY_Illustrious_V5_PATREON_FP16_C37.sha256
+¦   ¦       Realism_Illustrious_BSY_PATREON_FP16_V4.5_C27.safetensors
+¦   ¦       Realism_Illustrious_BSY_PATREON_FP16_V4.5_C27.sha256
+¦   ¦       reijality_v20.safetensors
+¦   ¦       reijality_v20.sha256
+¦   ¦       semimergeij_ilv4vae.safetensors
+¦   ¦       semimergeij_ilv4vae.sha256
+¦   ¦       serendipityPDXL_realisticV20.safetensors
+¦   ¦       serendipityPDXL_realisticV20.sha256
+¦   ¦       shutter_v20.safetensors
+¦   ¦       shutter_v20.sha256
+¦   ¦       Ultra_Realistic_BSY_ILLUS_V1_PRO_Patreon_Fp16_C21.safetensors
+¦   ¦       Ultra_Realistic_BSY_ILLUS_V1_PRO_Patreon_Fp16_C21.sha256
+¦   ¦       waiXREAL_v10.safetensors
+¦   ¦       waiXREAL_v10.sha256
+¦   ¦       
+¦   +---SemiReal
+¦           aij_v10.safetensors
+¦           aij_v10.sha256
+¦           anireijl_v10.safetensors
+¦           anireijl_v10.sha256
+¦           creativitij_v10.safetensors
+¦           creativitij_v10.sha256
+¦           darkmixMojitoIllustrious_v200.safetensors
+¦           darkmixMojitoIllustrious_v200.sha256
+¦           divingIllustrious3D_v20VAE.safetensors
+¦           divingIllustrious3D_v20VAE.sha256
+¦           divingIllustriousSemi_v10.safetensors
+¦           divingIllustriousSemi_v10.sha256
+¦           ereijtic_v1.safetensors
+¦           ereijtic_v1.sha256
+¦           fireflij_v10.safetensors
+¦           fireflij_v10.sha256
+¦           fiveStarsIllustrious_60.safetensors
+¦           fiveStarsIllustrious_60.sha256
+¦           glimmerReverie_10.safetensors
+¦           glimmerReverie_10.sha256
+¦           illicious_v10.safetensors
+¦           illicious_v10.sha256
+¦           illustreijl_v20.safetensors
+¦           illustreijl_v20.sha256
+¦           illustrijEVO_lvl1.safetensors
+¦           illustrijEVO_lvl1.sha256
+¦           illustrij_v17.civitai.info
+¦           illustrij_v17.safetensors
+¦           illustrij_v17.sha256
+¦           illustriousFromHades_v2Series.safetensors
+¦           illustriousFromHades_v2Series.sha256
+¦           ilMergeij_v20.safetensors
+¦           ilMergeij_v20.sha256
+¦           ilustmix_v70Cinematic.safetensors
+¦           ilustmix_v70Cinematic.sha256
+¦           ilustmix_v80.civitai.info
+¦           ilustmix_v80.safetensors
+¦           ilustmix_v80.sha256
+¦           iluvorija_v10.safetensors
+¦           iluvorija_v10.sha256
+¦           keij_no01.safetensors
+¦           keij_no01.sha256
+¦           lusterij_no1.safetensors
+¦           lusterij_no1.sha256
+¦           mergeijPONYIL_v40VAE.safetensors
+¦           mergeijPONYIL_v40VAE.sha256
+¦           morelustrious_v20VAE.safetensors
+¦           morelustrious_v20VAE.sha256
+¦           myrij_.safetensors
+¦           myrij_.sha256
+¦           Nitrals-Illustrious-Hot-Cross-Buns-v3.safetensors
+¦           Nitrals-Illustrious-Hot-Cross-Buns-v3.sha256
+¦           nuvijelle_v10.civitai.info
+¦           nuvijelle_v10.safetensors
+¦           nuvijelle_v10.sha256
+¦           oneObsession_0325DSemiRealistic.safetensors
+¦           perfectdeliberate_XL.safetensors
+¦           perfectdeliberate_XL.sha256
+¦           perfection25DILXLIllustrious_30.safetensors
+¦           perfection25DILXLIllustrious_30.sha256
+¦           perfection3DILXLIllustrious_v11.safetensors
+¦           perfection3DILXLIllustrious_v11.sha256
+¦           semilust_v10.safetensors
+¦           semilust_v10.sha256
+¦           semilust_v30.safetensors
+¦           semilust_v30.sha256
+¦           semimergeij_ilv5vae.safetensors
+¦           semimergeij_ilv5vae.sha256
+¦           semimergeij_ilv6vae.safetensors
+¦           semimergeij_ilv6vae.sha256
+¦           serendipityPDXL_v20.safetensors
+¦           serendipityPDXL_v20.sha256
+¦           shift_v20.safetensors
+¦           shift_v20.sha256
+¦           shimmer_v10.safetensors
+¦           shimmer_v10.sha256
+¦           sijren_no1.safetensors
+¦           sijren_no1.sha256
+¦           smoothMixIllustrious2_illustrious2NoobaiV3.safetensors
+¦           smoothMixIllustrious2_illustrious2NoobaiV3.sha256
+¦           smoothmixRealism_realismV30.safetensors
+¦           smoothmixRealism_realismV30.sha256
+¦           toonmergeIllustrious_v50Semi.safetensors
+¦           toonmergeIllustrious_v50Semi.sha256
+¦           transformixIL_v111.safetensors
+¦           transformixIL_v111.sha256
+¦           tweenij_v10.safetensors
+¦           tweenij_v10.sha256
+¦           vanimix_v15.safetensors
+¦           vanimix_v15.sha256
+¦           waiX3DCGI_v10.safetensors
+¦           waiX3DCGI_v10.sha256
+¦           wonderMarvels_20.safetensors
+¦           wonderMarvels_20.sha256
+¦           
++---NoobAI
+¦   ¦   anthromixXL_v30.safetensors
+¦   ¦   anthromixXL_v30.sha256
+¦   ¦   smoothMixIllustrious2_illustrious2NoobaiV3.safetensors
+¦   ¦   smoothMixIllustrious2_illustrious2NoobaiV3.sha256
+¦   ¦   smoothMixNoobai_noobaiV30.safetensors
+¦   ¦   smoothMixNoobai_noobaiV30.sha256
+¦   ¦   
+¦   +---Realistic
+¦   ¦       samBase_v10Alt.safetensors
+¦   ¦       samBase_v10Alt.sha256
+¦   ¦       
+¦   +---SemiReal
+¦           smoothMixNoobai_noobaiV30.safetensors
+¦           smoothMixNoobai_noobaiV30.sha256
+¦           
++---Pony
+¦   ¦   bemypony_Photo2.safetensors
+¦   ¦   bemypony_Photo3.safetensors
+¦   ¦   bemypony_Photo4.safetensors
+¦   ¦   tamePonyThe_v25.safetensors
+¦   ¦   
+¦   +---3DCG
+¦   ¦       miaomiao3DHarem_pdxlBeta25.safetensors
+¦   ¦       miaomiao3DHarem_pdxlBeta25.sha256
+¦   ¦       miaomiaopony_v15.safetensors
+¦   ¦       
+¦   +---Anime
+¦   ¦       animergemeij_v30VAE.safetensors
+¦   ¦       animergeme_v10VAE.safetensors
+¦   ¦       autismmixSDXL_autismmixConfetti.safetensors
+¦   ¦       curious_v11.safetensors
+¦   ¦       hdaRainbowPDXL_v14.safetensors
+¦   ¦       novaCartoon_v10.safetensors
+¦   ¦       novaExanimeXL_v10.safetensors
+¦   ¦       prefectPonyXL_v50.safetensors
+¦   ¦       serene_v20.safetensors
+¦   ¦       theDeepDark_v61Hybrid.safetensors
+¦   ¦       waiANIHENTAIPONYXL_v60.safetensors
+¦   ¦       
+¦   +---Lightning_Hyper_DMD
+¦   ¦       babesByStableYogiPony_v504s.safetensors
+¦   ¦       bemypony_Photo3LGHT4stp.safetensors
+¦   ¦       bemypony_SemreanimLGHT8S.safetensors
+¦   ¦       curious_lightning8StepBeta1.safetensors
+¦   ¦       mklanRealisticPony_ponyv4HyperTCDSPO.safetensors
+¦   ¦       Realism_BSY_Pony_V5_Pro_Patreon_DMD2_C26.safetensors
+¦   ¦       R_BSY_PONY_V4_Pro_DMD2_C2.safetensors
+¦   ¦       Semi_Real_Pony_BSY_V2_PAT_PRO_DMD2_C12.safetensors
+¦   ¦       serene_lightning8StepBeta1.safetensors
+¦   ¦       sirenPDXL_lightning8StepBeta1.safetensors
+¦   ¦       Ultra_Realistic_BSY_PONY_V2_Pro_DMD2_C34.safetensors
+¦   ¦       
+¦   +---Realistic
+¦   ¦       Babes_Pony_BSY_Patreon_Pro_FP16_V5.0_C19.safetensors
+¦   ¦       catpony_realV30.safetensors
+¦   ¦       cyberrealisticPony_catalystV30.safetensors
+¦   ¦       cyberrealisticPony_v120.safetensors
+¦   ¦       cyberrealisticPony_v125.safetensors
+¦   ¦       fucktasticRealCheckpointPony_50.safetensors
+¦   ¦       mklanRealisticPony_realisticPonyv4.safetensors
+¦   ¦       opticon_v2Rc.safetensors
+¦   ¦       opticon_v3.safetensors
+¦   ¦       ponyRealism_V23.safetensors
+¦   ¦       ponyRealism_V23ULTRA.safetensors
+¦   ¦       realDream_sdxlPony18.safetensors
+¦   ¦       realij_v20VAE.safetensors
+¦   ¦       Realism_BSY_Pony_V5_Pro_Patreon_FP16_C25.safetensors
+¦   ¦       R_BSY_PONY_V4_Pro_FP16_C1.safetensors
+¦   ¦       semimergeij_v8VAE.safetensors
+¦   ¦       Ultra_Realistic_BSY_PONY_V2_Pro_Fp16_C33.safetensors
+¦   ¦       
+¦   +---SemiReal
+¦           cyberrealisticPony_semiRealV36.safetensors
+¦           hybrij_v10.safetensors
+¦           mergeijPONYIL_v40VAE.safetensors
+¦           mergeijPONYIL_v50VAE.safetensors
+¦           neuropicture_v10.safetensors
+¦           pastelmixSemi_v10.safetensors
+¦           semimergeij_v7VAE.safetensors
+¦           Semi_Real_Pony_BSY_V2_PAT_PRO_FP16_C11.safetensors
+¦           sirenPDXL_v20.safetensors
+¦           superModelPony_10.safetensors
+¦           twinkleStarPony_10.safetensors
+¦           
++---SD1.5
+¦       absolutereality_v181.safetensors
+¦       babesByStableYogiPony_v60.safetensors
+¦       babesByStableYogiPony_v7SD15.safetensors
+¦       babesByStableYogiPony_v7SD15INPAINT.safetensors
+¦       beautyBYSTABLEYOGI_v30.safetensors
+¦       darkARTBYSTABLEYOGI_v20.safetensors
+¦       darkBYSTABLEYOGI_v20.safetensors
+¦       dreamBYSTABLEYOGI_v20.safetensors
+¦       moonmixAnimeEdition_v10Pruned.safetensors
+¦       perfectdeliberate_v5SD15.safetensors
+¦       pornCraftByStableYogi_v20.safetensors
+¦       quickBYSTABLEYOGI_v30.safetensors
+¦       realisticVisionV60B1_v60B1VAE.safetensors
+¦       theTrualityEngine_trualityENGINEPRO.safetensors
+¦       theTrualityEngine_trualityENGINEPRO.sha256
+¦       
++---SD3.5
+¦       sd3.5_large_fp8_scaled.safetensors
+¦       
++---SDXL
+¦       creapromptLightning_creapromptUltimate6.safetensors
+¦       cyberrealisticXL_catalystXLV13RC.safetensors
+¦       cyberrealisticXL_v58.safetensors
+¦       cyberrealisticXL_v60.safetensors
+¦       jibMixRealisticXL_v160AphroditeXXX.safetensors
+¦       jibMixRealisticXL_v170SmokeSheen.safetensors
+¦       jibMixRealisticXL_v180SkinSupreme.safetensors
+¦       lustifySDXLNSFW_oltFIXEDTEXTURES.safetensors
+¦       prefectRealisticXL_v10.safetensors
+¦       
++---Stable Cascade
+¦       stable_cascade_stage_b.safetensors
+¦       stable_cascade_stage_c.safetensors
+¦       
++---unCLIP
+        illuminatiDiffusionV1_v11-unclip-h-fp16.safetensors
+        
