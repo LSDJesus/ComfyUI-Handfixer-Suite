@@ -10,3 +10,11 @@
 (head in lap:1.1), resting head on someone's lap, a moment of trust and comfort
 (planking:1.1), exercising, rigid body, fitness
 (doing crunches:1.1), sit-ups, workout, focused expression
+lying on back, staring at ceiling
+on stomach, reading a book
+curled on side, sleeping
+sprawled on floor, exhausted
+legs dangling off bed, relaxed
+head in lap, intimate
+face down on bed, hiding
+on a couch, watching TV

@@ -11,3 +11,11 @@
 (sheltering from rain:1.2), holding a newspaper over her head, huddled in a doorway
 (window shopping:1.1), looking at a display, pointing at something
 (unlocking a door:1.1), fumbling for keys, focused on the lock
+caught off-guard, genuine smile
+looking away, lost in thought
+unaware of camera, natural pose
+adjusting clothing, unconscious gesture
+laughing, unposed joy
+a fleeting glance, secret look
+running hand through hair, messy
+mid-sentence, expressive mouth

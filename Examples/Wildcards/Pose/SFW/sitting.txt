@@ -12,3 +12,11 @@
 (sitting back-to-back with someone:1.1), partnership, silent understanding
 (sitting on a park bench:1.1), feeding pigeons, enjoying the day
 (rocking in a rocking chair:1.1), gentle motion, peaceful, nostalgic
+cross-legged on floor, casual
+perched on stool, attentive
+slumped in armchair, tired
+knees pulled to chest, contemplative
+sitting on edge of desk, powerful
+legs crossed, elegant posture
+on a windowsill, looking out
+back against a wall, resting

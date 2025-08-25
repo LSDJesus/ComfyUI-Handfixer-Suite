@@ -1,0 +1,119 @@
+Folder PATH listing for volume Storage
+Volume serial number is E836-AE70
+D:.
+¦   example.txt
+¦   expression.txt
+¦   location.txt
+¦   outfit.txt
+¦   tree.txt
+¦   
++---Action
+¦   +---Explicit
+¦   ¦   ¦   climax.txt
+¦   ¦   ¦   group_sex.txt
+¦   ¦   ¦   
+¦   ¦   +---BDSM_Acts
+¦   ¦   ¦       impact_play.txt
+¦   ¦   ¦       restraining.txt
+¦   ¦   ¦       
+¦   ¦   +---Sex_Acts
+¦   ¦           fetish.txt
+¦   ¦           manual.txt
+¦   ¦           oral.txt
+¦   ¦           positions.txt
+¦   ¦           
+¦   +---NSFW
+¦   ¦       self_touch.txt
+¦   ¦       showering.txt
+¦   ¦       undressing.txt
+¦   ¦       
+¦   +---SFW
+¦           candid.txt
+¦           getting_ready.txt
+¦           
++---Appearance
+¦   +---eyes
+¦   ¦       color.txt
+¦   ¦       shape.txt
+¦   ¦       
+¦   +---Hair
+¦           color.txt
+¦           style.txt
+¦           
++---clothing
+¦       bdsm-gag.txt
+¦       bdsm-gear.txt
+¦       bot-leggings.txt
+¦       bot-panties-actions.txt
+¦       bot-panties.txt
+¦       bot-pants.txt
+¦       bot-shorts.txt
+¦       bot-skirt.txt
+¦       bot-tights.txt
+¦       footwear-boots.txt
+¦       footwear-heels.txt
+¦       footwear-sandals.txt
+¦       footwear-shoes.txt
+¦       footwear-slippers.txt
+¦       footwear.txt
+¦       limbwear.txt
+¦       lingerie.txt
+¦       outfit-athletic.txt
+¦       outfit-bathroom.txt
+¦       outfit-bottomless.txt
+¦       outfit-dress.txt
+¦       outfit-lingerie.txt
+¦       outfit-sleepwear.txt
+¦       outfit-suit-fictional.txt
+¦       outfit-suit.txt
+¦       outfit-swimwear.txt
+¦       outfit-topless.txt
+¦       outfits.txt
+¦       prefix-expose.txt
+¦       top-bra.txt
+¦       top-corset.txt
+¦       top-outer.txt
+¦       top-shirt.txt
+¦       top-sweater.txt
+¦       
++---Expression
+¦       Angry.txt
+¦       Contemplative.txt
+¦       erotic.txt
+¦       Happy.txt
+¦       Negative.txt
+¦       Pained.txt
+¦       Positive.txt
+¦       Sad.txt
+¦       Sensual.txt
+¦       Sexual.txt
+¦       
++---Pose
+¦   +---Explicit
+¦   ¦       aftermath.txt
+¦   ¦       bondage_display.txt
+¦   ¦       presenting_explicit.txt
+¦   ¦       
+¦   +---NSFW
+¦   ¦       boudoir.txt
+¦   ¦       presenting_tease.txt
+¦   ¦       seductive.txt
+¦   ¦       
+¦   +---SFW
+¦           lying.txt
+¦           sitting.txt
+¦           standing.txt
+¦           
++---Setting
+    ¦   sky_condition.txt
+    ¦   
+    +---Location
+            fantasy.txt
+            house.txt
+            indoor-private.txt
+            indoor-public.txt
+            outdoor-public.txt
+            outdoor-remote.txt
+            vehicle.txt
+            water.txt
+            

@@ -12,3 +12,11 @@
 (pointing at something:1.1), directing attention, explaining
 (hands clasped behind back:1.1), formal, at ease, thoughtful
 (shrugging:1.1), I don't know, uncertain, indifferent
+leaning against a wall, relaxed
+arms crossed, defiant stance
+hands in pockets, casual
+looking out window, thoughtful
+one hand on hip, confident
+at attention, formal pose
+in a doorway, silhouette
+stretching, yawning
